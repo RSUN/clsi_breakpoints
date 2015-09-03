@@ -1,0 +1,203 @@
+<% @title = "Showing breakpoint" %>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="form-horizontal">
+                <div class="form-group">
+          <label class="col-md-2 form-label">Drug</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.drug %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">S maximum</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.s_maximum %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">R minimum</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.r_minimum %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Surrogate drugs</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.surrogate_drugs %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">R if surrogate is</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.r_if_surrogate_is %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Ni if surrogate is</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.ni_if_surrogate_is %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">R if blt is</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.r_if_blt_is %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Delivery mechanism</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.delivery_mechanism %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Infection type</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.infection_type %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Footnote</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.footnote %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Master group include</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.master_group_include %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Organism group include</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.organism_group_include %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Viridans group include</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.viridans_group_include %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Genus include</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.genus_include %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Genus exclude</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.genus_exclude %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Organism code include</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.organism_code_include %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Organism code exclude</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.organism_code_exclude %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Gram include</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.gram_include %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Level 1 include</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.level_1_include %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Level 3 include</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.level_3_include %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Level 3 exclude</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @breakpoint.level_3_exclude %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-actions col-md-offset-2">
+          <%= link_to fa_icon_tag("pencil") + ' Edit', edit_breakpoint_path(@breakpoint), class: 'btn btn-primary' %>
+          <%= link_to 'Back', breakpoints_path, class: 'btn' %>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

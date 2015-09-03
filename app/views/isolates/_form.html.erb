@@ -1,0 +1,61 @@
+
+<%= form_for(@isolate, html: { class: 'form-horizontal' }) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.form_group :isolate_id do |f| %>
+      <%= f.label :isolate_id, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :isolate_id, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :collection do |f| %>
+      <%= f.label :collection, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :collection, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :site do |f| %>
+      <%= f.label :site, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :site, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :study_year do |f| %>
+      <%= f.label :study_year, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :study_year, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :bank do |f| %>
+      <%= f.label :bank, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :bank, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :organism_code do |f| %>
+      <%= f.label :organism_code, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.collection_select(:organism_code, Organism.all, :code, :name) %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+  </div>
+
+  <div class="form-actions col-md-offset-2 col-md-10">
+    <%= f.submit class: 'btn btn-primary' %>
+    <%= link_to "Cancel", isolates_path, class: 'btn' %>
+  </div>
+<% end %>
+

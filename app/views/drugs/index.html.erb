@@ -1,0 +1,56 @@
+<% @title = "Listing drugs" %>
+
+<% content_for :description do %>
+<p>
+  <%= form_tag import_drugs_path, multipart: true do %>
+    <%= file_field_tag :file , class: 'btn btn-default btn-small pull-left' %>
+    <%= submit_tag "Bulk Import", class: 'btn btn-primary btn-small pull-left' %>
+</p>    
+  <% end %>
+<% end %>
+
+<% content_for :actions do %>
+<%= link_to new_drug_path, class: 'btn btn-primary btn-large pull-right' do %>
+<%= fa_icon_tag "plus" %> Add Drug
+<% end %>
+<% end %>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="sheet sheet-condensed">
+        <div class="sheet-inner">
+          <table class="table">
+            <thead>
+              <tr>
+                                <th>Id</th>
+                                <th>Name</th>
+                                <th>Description</th>
+                                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <% @drugs.each do |drug| %>
+              <tr>
+                                <td><%= drug.id %></td>
+                                <td><%= drug.name %></td>
+                                <td><%= drug.description %></td>
+                                <td class="actions">
+                  <%= link_to fa_icon_tag("eye"), drug, rel: 'tooltip', title: 'Show' %>
+                  <%= link_to fa_icon_tag("pencil"), edit_drug_path(drug), rel: 'tooltip', title: 'Edit' %>
+                  <%= link_to fa_icon_tag("trash-o"), drug, rel: 'tooltip', title: 'Delete',
+                  data: { confirm: 'Are you sure?' }, method: :delete %>
+                </td>
+              </tr>
+              <% end %>
+              <% if @drugs.length == 0 %>
+              <tr><td colspan=42 class='text-center'>No drugs.</td></tr>
+              <% end %>
+            </tbody>
+          </table>
+        </div><!-- /.sheet-inner -->
+      </div><!-- /.sheet -->
+
+                </div>
+  </div>
+</div>

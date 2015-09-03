@@ -1,0 +1,70 @@
+<% @title = "Listing breakpoints" %>
+
+<% content_for :description do %>
+<p>
+  <%= form_tag import_breakpoints_path, multipart: true do %>
+    <%= file_field_tag :file , class: 'btn btn-default btn-small pull-left' %>
+    <%= submit_tag "Bulk Import", class: 'btn btn-primary btn-small pull-left' %>
+</p>    
+  <% end %>
+<% end %>
+
+<% content_for :actions do %>
+<%= link_to new_breakpoint_path, class: 'btn btn-primary btn-large pull-right' do %>
+<%= fa_icon_tag "plus" %> Add Breakpoint
+<% end %>
+<% end %>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="sheet sheet-condensed">
+        <div class="sheet-inner">
+          <table class="table">
+            <thead>
+              <tr>
+                                <th>Drug</th>
+                                <th>S max</th>
+                                <th>R min</th>
+                                <th>Surrogate</th>
+                                <th>R if sur</th>
+                                <th>Ni if sur</th>
+                                <th>R if blt</th>
+                                <th>mechanism</th>
+                                <th>Infection</th>
+                                <th>note</th>
+                                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <% @breakpoints.each do |breakpoint| %>
+              <tr>
+                                <td><%= breakpoint.drug %></td>
+                                <td><%= breakpoint.s_maximum %></td>
+                                <td><%= breakpoint.r_minimum %></td>
+                                <td><%= breakpoint.surrogate_drugs %></td>
+                                <td><%= breakpoint.r_if_surrogate_is %></td>
+                                <td><%= breakpoint.ni_if_surrogate_is %></td>
+                                <td><%= breakpoint.r_if_blt_is %></td>
+                                <td><%= breakpoint.delivery_mechanism %></td>
+                                <td><%= breakpoint.infection_type %></td>
+                                <td><%= breakpoint.footnote %></td>
+                                <td class="actions">
+                  <%= link_to fa_icon_tag("eye"), breakpoint, rel: 'tooltip', title: 'Show' %>
+                  <%= link_to fa_icon_tag("pencil"), edit_breakpoint_path(breakpoint), rel: 'tooltip', title: 'Edit' %>
+                  <%= link_to fa_icon_tag("trash-o"), breakpoint, rel: 'tooltip', title: 'Delete',
+                  data: { confirm: 'Are you sure?' }, method: :delete %>
+                </td>
+              </tr>
+              <% end %>
+              <% if @breakpoints.length == 0 %>
+              <tr><td colspan=42 class='text-center'>No breakpoints.</td></tr>
+              <% end %>
+            </tbody>
+          </table>
+        </div><!-- /.sheet-inner -->
+      </div><!-- /.sheet -->
+
+                </div>
+  </div>
+</div>

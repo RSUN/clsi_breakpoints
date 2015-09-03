@@ -1,0 +1,181 @@
+
+<%= form_for(@breakpoint, html: { class: 'form-horizontal' }) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.form_group :drug do |f| %>
+      <%= f.label :drug, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :drug, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :s_maximum do |f| %>
+      <%= f.label :s_maximum, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :s_maximum, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :r_minimum do |f| %>
+      <%= f.label :r_minimum, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :r_minimum, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :surrogate_drugs do |f| %>
+      <%= f.label :surrogate_drugs, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :surrogate_drugs, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :r_if_surrogate_is do |f| %>
+      <%= f.label :r_if_surrogate_is, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :r_if_surrogate_is, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :ni_if_surrogate_is do |f| %>
+      <%= f.label :ni_if_surrogate_is, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :ni_if_surrogate_is, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :r_if_blt_is do |f| %>
+      <%= f.label :r_if_blt_is, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :r_if_blt_is, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :delivery_mechanism do |f| %>
+      <%= f.label :delivery_mechanism, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :delivery_mechanism, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :infection_type do |f| %>
+      <%= f.label :infection_type, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :infection_type, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :footnote do |f| %>
+      <%= f.label :footnote, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :footnote, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :master_group_include do |f| %>
+      <%= f.label :master_group_include, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :master_group_include, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :organism_group_include do |f| %>
+      <%= f.label :organism_group_include, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :organism_group_include, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :viridans_group_include do |f| %>
+      <%= f.label :viridans_group_include, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :viridans_group_include, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :genus_include do |f| %>
+      <%= f.label :genus_include, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :genus_include, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :genus_exclude do |f| %>
+      <%= f.label :genus_exclude, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :genus_exclude, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :organism_code_include do |f| %>
+      <%= f.label :organism_code_include, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :organism_code_include, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :organism_code_exclude do |f| %>
+      <%= f.label :organism_code_exclude, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :organism_code_exclude, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :gram_include do |f| %>
+      <%= f.label :gram_include, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :gram_include, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :level_1_include do |f| %>
+      <%= f.label :level_1_include, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :level_1_include, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :level_3_include do |f| %>
+      <%= f.label :level_3_include, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :level_3_include, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :level_3_exclude do |f| %>
+      <%= f.label :level_3_exclude, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :level_3_exclude, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+  </div>
+
+  <div class="form-actions col-md-offset-2 col-md-10">
+    <%= f.submit class: 'btn btn-primary' %>
+    <%= link_to "Cancel", breakpoints_path, class: 'btn' %>
+  </div>
+<% end %>
+

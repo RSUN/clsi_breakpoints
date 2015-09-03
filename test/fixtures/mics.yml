@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  isolate_id: 
+  drug_id: 
+  value: 1.5
+  edge: 1
+
+two:
+  isolate_id: 
+  drug_id: 
+  value: 1.5
+  edge: 1

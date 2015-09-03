@@ -1,0 +1,62 @@
+<% @title = "Listing isolates" %>
+
+<% content_for :description do %>
+<p>
+  <%= form_tag import_isolates_path, multipart: true do %>
+	  <%= file_field_tag :file , class: 'btn btn-default btn-small pull-left' %>
+	  <%= submit_tag "Bulk Import", class: 'btn btn-primary btn-small pull-left' %>
+</p>    
+  <% end %>
+<% end %>
+
+<% content_for :actions do %>
+<%= link_to new_isolate_path, class: 'btn btn-primary btn-large pull-right' do %>
+<%= fa_icon_tag "plus" %> Add Isolate
+<% end %>
+<% end %>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="sheet sheet-condensed">
+        <div class="sheet-inner">
+          <table class="table" id="datatable">
+            <thead>
+              <tr>
+                                <th>Isolate</th>
+                                <th>Collection</th>
+                                <th>Site</th>
+                                <th>Study year</th>
+                                <th>Bank</th>
+                                <th>Organism code</th>
+                                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <% @isolates.each do |isolate| %>
+              <tr>
+                                <td><%= isolate.isolate_id %></td>
+                                <td><%= isolate.collection %></td>
+                                <td><%= isolate.site %></td>
+                                <td><%= isolate.study_year %></td>
+                                <td><%= isolate.bank %></td>
+				<td><%= isolate.organism_code %></td>
+                                <td class="actions">
+                  <%= link_to fa_icon_tag("eye"), isolate, rel: 'tooltip', title: 'Show' %>
+                  <%= link_to fa_icon_tag("pencil"), edit_isolate_path(isolate), rel: 'tooltip', title: 'Edit' %>
+                  <%= link_to fa_icon_tag("trash-o"), isolate, rel: 'tooltip', title: 'Delete',
+                  data: { confirm: 'Are you sure?' }, method: :delete %>
+                </td>
+              </tr>
+              <% end %>
+              <% if @isolates.length == 0 %>
+              <tr><td colspan=42 class='text-center'>No isolates.</td></tr>
+              <% end %>
+            </tbody>
+          </table>
+        </div><!-- /.sheet-inner -->
+      </div><!-- /.sheet -->
+
+                </div>
+  </div>
+</div>

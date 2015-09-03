@@ -1,0 +1,47 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  drug_id: 
+  s_maximum: 1
+  r_minimum: 1
+  surrogate_drugs: MyString
+  r_if_surrogate_is: MyString
+  ni_if_surrogate_is: MyString
+  r_if_blt_is: MyString
+  delivery_mechanism: MyString
+  infection_type: MyString
+  footnote: MyString
+  master_group_include: MyString
+  organism_group_include: MyString
+  viridans_group_include: MyString
+  genus_include: MyString
+  genus_exclude: MyString
+  organism_code_include: MyString
+  organism_code_exclude: MyString
+  gram_include: MyString
+  level_1_include: MyString
+  level_3_include: MyString
+  level_3_exclude: MyString
+
+two:
+  drug_id: 
+  s_maximum: 1
+  r_minimum: 1
+  surrogate_drugs: MyString
+  r_if_surrogate_is: MyString
+  ni_if_surrogate_is: MyString
+  r_if_blt_is: MyString
+  delivery_mechanism: MyString
+  infection_type: MyString
+  footnote: MyString
+  master_group_include: MyString
+  organism_group_include: MyString
+  viridans_group_include: MyString
+  genus_include: MyString
+  genus_exclude: MyString
+  organism_code_include: MyString
+  organism_code_exclude: MyString
+  gram_include: MyString
+  level_1_include: MyString
+  level_3_include: MyString
+  level_3_exclude: MyString

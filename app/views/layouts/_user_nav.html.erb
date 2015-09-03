@@ -1,0 +1,19 @@
+<%# Links for current user. %>
+<nav class='navbar'>
+  <div class='navbar-brand'>
+	  JMI Homework  |
+	  <%= link_to 'Organisms', organisms_path %>  |
+	  <%= link_to 'Isolates', isolates_path %>  |
+    <%= link_to 'Mics', mics_path %>  |
+    <%= link_to 'Drugs', drugs_path %>  |
+    <%= link_to 'Breakpoints', breakpoints_path %>  |
+
+  </div>
+  <div class="navbar-text pull-right">
+  
+    <%= fa_icon_tag "user" %> Welcome, <strong><%= current_user.email %></strong>
+    <span class="divider">|</span>
+    <%= link_to "Settings", edit_user_registration_path %>
+  
+  </div>
+</nav>

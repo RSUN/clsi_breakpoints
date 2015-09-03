@@ -1,0 +1,70 @@
+<% @title = "Listing organisms" %>
+
+<% content_for :description do %>
+<p>
+  <%= form_tag import_organisms_path, multipart: true do %>
+	  <%= file_field_tag :file , class: 'btn btn-default btn-small pull-left' %>
+	  <%= submit_tag "Bulk Import", class: 'btn btn-primary btn-small pull-left' %>
+</p>    
+  <% end %>
+<% end %>
+
+<% content_for :actions do %>
+  <%= link_to new_organism_path, class: 'btn btn-primary btn-large pull-right' do %>
+  <%= fa_icon_tag "plus" %> Add Organism
+<% end %>
+<% end %>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="sheet sheet-condensed">
+        <div class="sheet-inner">
+          <table class="table">
+            <thead>
+              <tr>
+				<th>Name</th>
+                                <th>Species</th>
+                                <th>Sub species</th>
+                                <th>Organism group</th>
+                                <th>Master group</th>
+                                <th>Viridans group</th>
+                                <th>Level1</th>
+                                <th>Level2</th>
+                                <th>Level3</th>
+                                <th>Level4</th>
+                                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <% @organisms.each do |organism| %>
+		      <tr>
+			        <td><%= organism.name %></td>
+                                <td><%= organism.species %></td>
+                                <td><%= organism.sub_species %></td>
+                                <td><%= organism.organism_group %></td>
+                                <td><%= organism.master_group %></td>
+                                <td><%= organism.viridans_group %></td>
+                                <td><%= organism.level1 %></td>
+                                <td><%= organism.level2 %></td>
+                                <td><%= organism.level3 %></td>
+				<td><%= organism.level4 %></td>
+                                <td class="actions">
+                  <%= link_to fa_icon_tag("eye"), organism, rel: 'tooltip', title: 'Show' %>
+                  <%= link_to fa_icon_tag("pencil"), edit_organism_path(organism), rel: 'tooltip', title: 'Edit' %>
+                  <%= link_to fa_icon_tag("trash-o"), organism, rel: 'tooltip', title: 'Delete',
+                  data: { confirm: 'Are you sure?' }, method: :delete %>
+                </td>
+              </tr>
+              <% end %>
+              <% if @organisms.length == 0 %>
+              <tr><td colspan=42 class='text-center'>No organisms.</td></tr>
+              <% end %>
+            </tbody>
+          </table>
+        </div><!-- /.sheet-inner -->
+      </div><!-- /.sheet -->
+
+                </div>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  name: MyString
+  species: MyString
+  sub_species: MyString
+  organism_group: MyString
+  master_group: MyString
+  viridans_group: MyString
+  level1: MyString
+  level2: MyString
+  level3: MyString
+  level4: MyString
+
+two:
+  code: MyString
+  name: MyString
+  species: MyString
+  sub_species: MyString
+  organism_group: MyString
+  master_group: MyString
+  viridans_group: MyString
+  level1: MyString
+  level2: MyString
+  level3: MyString
+  level4: MyString
