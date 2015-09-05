@@ -2,9 +2,10 @@
 
 This is a small app to apply MIC testing results to the 2015 CLSI breakpoints.
 
-Work in Progress:
+- TestReactions model is used for testing and to show proof of concept.
+- test/fixtures contains real data for production DB and can be load with $ rake db:fixtures:import
 
-* Fixtures for tests for final result logic
+Work in Progress:
 
 * Final Results
 
