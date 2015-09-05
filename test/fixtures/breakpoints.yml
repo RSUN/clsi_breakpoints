@@ -1,47 +1,5627 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  drug_id: 
+---
+Breakpoint_1:
+  id: 1
+  drug: Ampicillin
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.404386000 Z
+  updated_at: 2015-09-03 03:25:45.404386000 Z
+Breakpoint_2:
+  id: 2
+  drug: Amoxicillin
+  surrogate_drugs: Ampicillin
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.413498000 Z
+  updated_at: 2015-09-03 03:25:45.413498000 Z
+Breakpoint_3:
+  id: 3
+  drug: Piperacillin
+  s_maximum: 16
+  r_minimum: 128
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.424247000 Z
+  updated_at: 2015-09-03 03:25:45.424247000 Z
+Breakpoint_4:
+  id: 4
+  drug: Mecillinam
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: EC
+  created_at: 2015-09-03 03:25:45.433366000 Z
+  updated_at: 2015-09-03 03:25:45.433366000 Z
+Breakpoint_5:
+  id: 5
+  drug: CAZ104
+  s_maximum: 8
+  r_minimum: 16
+  footnote: Breakpoints from FDA Package Insert
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.441896000 Z
+  updated_at: 2015-09-03 03:25:45.441896000 Z
+Breakpoint_6:
+  id: 6
+  drug: AmoxClav
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.453253000 Z
+  updated_at: 2015-09-03 03:25:45.453253000 Z
+Breakpoint_7:
+  id: 7
+  drug: AmpSulb
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.460659000 Z
+  updated_at: 2015-09-03 03:25:45.460659000 Z
+Breakpoint_8:
+  id: 8
+  drug: PipTazo
+  s_maximum: 16
+  r_minimum: 128
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.469627000 Z
+  updated_at: 2015-09-03 03:25:45.469627000 Z
+Breakpoint_9:
+  id: 9
+  drug: PipTazo
+  s_maximum: 16
+  r_minimum: 128
+  delivery_mechanism: MDR
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.477580000 Z
+  updated_at: 2015-09-03 03:25:45.477580000 Z
+Breakpoint_10:
+  id: 10
+  drug: TicClav
+  s_maximum: 16
+  r_minimum: 128
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.485601000 Z
+  updated_at: 2015-09-03 03:25:45.485601000 Z
+Breakpoint_11:
+  id: 11
+  drug: Cefazolin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.493740000 Z
+  updated_at: 2015-09-03 03:25:45.493740000 Z
+Breakpoint_12:
+  id: 12
+  drug: Ceftaroline
+  s_maximum: 0
+  r_minimum: 2
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.501758000 Z
+  updated_at: 2015-09-03 03:25:45.501758000 Z
+Breakpoint_13:
+  id: 13
+  drug: Cephalothin
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.509399000 Z
+  updated_at: 2015-09-03 03:25:45.509399000 Z
+Breakpoint_14:
+  id: 14
+  drug: Cefepime
+  s_maximum: 2
+  r_minimum: 16
+  footnote: Intermediate interpreted as SDD
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.517970000 Z
+  updated_at: 2015-09-03 03:25:45.517970000 Z
+Breakpoint_15:
+  id: 15
+  drug: Cefotaxime
   s_maximum: 1
-  r_minimum: 1
-  surrogate_drugs: MyString
-  r_if_surrogate_is: MyString
-  ni_if_surrogate_is: MyString
-  r_if_blt_is: MyString
-  delivery_mechanism: MyString
-  infection_type: MyString
-  footnote: MyString
-  master_group_include: MyString
-  organism_group_include: MyString
-  viridans_group_include: MyString
-  genus_include: MyString
-  genus_exclude: MyString
-  organism_code_include: MyString
-  organism_code_exclude: MyString
-  gram_include: MyString
-  level_1_include: MyString
-  level_3_include: MyString
-  level_3_exclude: MyString
-
-two:
-  drug_id: 
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.527285000 Z
+  updated_at: 2015-09-03 03:25:45.527285000 Z
+Breakpoint_16:
+  id: 16
+  drug: Ceftriaxone
   s_maximum: 1
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.536638000 Z
+  updated_at: 2015-09-03 03:25:45.536638000 Z
+Breakpoint_17:
+  id: 17
+  drug: Ceftriaxone
+  s_maximum: 1
+  r_minimum: 4
+  delivery_mechanism: MDR
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.546853000 Z
+  updated_at: 2015-09-03 03:25:45.546853000 Z
+Breakpoint_18:
+  id: 18
+  drug: Cefotetan
+  s_maximum: 16
+  r_minimum: 64
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.556026000 Z
+  updated_at: 2015-09-03 03:25:45.556026000 Z
+Breakpoint_19:
+  id: 19
+  drug: Cefoxitin
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.564967000 Z
+  updated_at: 2015-09-03 03:25:45.564967000 Z
+Breakpoint_20:
+  id: 20
+  drug: Cefuroxime
+  s_maximum: 8
+  r_minimum: 32
+  delivery_mechanism: Parenteral
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.573965000 Z
+  updated_at: 2015-09-03 03:25:45.573965000 Z
+Breakpoint_21:
+  id: 21
+  drug: Ceftazidime
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.582037000 Z
+  updated_at: 2015-09-03 03:25:45.582037000 Z
+Breakpoint_22:
+  id: 22
+  drug: Cefamandole
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.589348000 Z
+  updated_at: 2015-09-03 03:25:45.589348000 Z
+Breakpoint_23:
+  id: 23
+  drug: Cefmetazole
+  s_maximum: 16
+  r_minimum: 64
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.596810000 Z
+  updated_at: 2015-09-03 03:25:45.596810000 Z
+Breakpoint_24:
+  id: 24
+  drug: Cefonicid
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.604397000 Z
+  updated_at: 2015-09-03 03:25:45.604397000 Z
+Breakpoint_25:
+  id: 25
+  drug: Cefoperazone
+  s_maximum: 16
+  r_minimum: 64
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.615052000 Z
+  updated_at: 2015-09-03 03:25:45.615052000 Z
+Breakpoint_26:
+  id: 26
+  drug: Ceftizoxime
+  s_maximum: 1
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.623998000 Z
+  updated_at: 2015-09-03 03:25:45.623998000 Z
+Breakpoint_27:
+  id: 27
+  drug: Moxalactam
+  s_maximum: 8
+  r_minimum: 64
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.632332000 Z
+  updated_at: 2015-09-03 03:25:45.632332000 Z
+Breakpoint_28:
+  id: 28
+  drug: Cefuroxime
+  s_maximum: 4
+  r_minimum: 32
+  delivery_mechanism: Oral
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.642020000 Z
+  updated_at: 2015-09-03 03:25:45.642020000 Z
+Breakpoint_29:
+  id: 29
+  drug: Loracarbef
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.651513000 Z
+  updated_at: 2015-09-03 03:25:45.651513000 Z
+Breakpoint_30:
+  id: 30
+  drug: Cefaclor
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.660212000 Z
+  updated_at: 2015-09-03 03:25:45.660212000 Z
+Breakpoint_31:
+  id: 31
+  drug: Cefdinir
+  s_maximum: 1
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.669152000 Z
+  updated_at: 2015-09-03 03:25:45.669152000 Z
+Breakpoint_32:
+  id: 32
+  drug: Cefixime
+  s_maximum: 1
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.677506000 Z
+  updated_at: 2015-09-03 03:25:45.677506000 Z
+Breakpoint_33:
+  id: 33
+  drug: Cefpodoxime
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.685518000 Z
+  updated_at: 2015-09-03 03:25:45.685518000 Z
+Breakpoint_34:
+  id: 34
+  drug: Cefprozil
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.693933000 Z
+  updated_at: 2015-09-03 03:25:45.693933000 Z
+Breakpoint_35:
+  id: 35
+  drug: Cefetamet
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.701210000 Z
+  updated_at: 2015-09-03 03:25:45.701210000 Z
+Breakpoint_36:
+  id: 36
+  drug: Ceftibuten
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.712130000 Z
+  updated_at: 2015-09-03 03:25:45.712130000 Z
+Breakpoint_37:
+  id: 37
+  drug: Aztreonam
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.721813000 Z
+  updated_at: 2015-09-03 03:25:45.721813000 Z
+Breakpoint_38:
+  id: 38
+  drug: Doripenem
+  s_maximum: 1
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.729383000 Z
+  updated_at: 2015-09-03 03:25:45.729383000 Z
+Breakpoint_39:
+  id: 39
+  drug: Ertapenem
+  s_maximum: 0
+  r_minimum: 2
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.737557000 Z
+  updated_at: 2015-09-03 03:25:45.737557000 Z
+Breakpoint_40:
+  id: 40
+  drug: Imipenem
+  s_maximum: 1
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.747653000 Z
+  updated_at: 2015-09-03 03:25:45.747653000 Z
+Breakpoint_41:
+  id: 41
+  drug: Meropenem
+  s_maximum: 1
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.756514000 Z
+  updated_at: 2015-09-03 03:25:45.756514000 Z
+Breakpoint_42:
+  id: 42
+  drug: Meropenem
+  s_maximum: 1
+  r_minimum: 4
+  delivery_mechanism: MDR
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.765520000 Z
+  updated_at: 2015-09-03 03:25:45.765520000 Z
+Breakpoint_43:
+  id: 43
+  drug: Colistin
+  s_maximum: 2
+  r_minimum: 4
+  delivery_mechanism: MDR
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.776881000 Z
+  updated_at: 2015-09-03 03:25:45.776881000 Z
+Breakpoint_44:
+  id: 44
+  drug: Gentamicin
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.784387000 Z
+  updated_at: 2015-09-03 03:25:45.784387000 Z
+Breakpoint_45:
+  id: 45
+  drug: Gentamicin
+  s_maximum: 4
+  r_minimum: 16
+  delivery_mechanism: MDR
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.793210000 Z
+  updated_at: 2015-09-03 03:25:45.793210000 Z
+Breakpoint_46:
+  id: 46
+  drug: Tobramycin
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.801498000 Z
+  updated_at: 2015-09-03 03:25:45.801498000 Z
+Breakpoint_47:
+  id: 47
+  drug: Amikacin
+  s_maximum: 16
+  r_minimum: 64
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.811385000 Z
+  updated_at: 2015-09-03 03:25:45.811385000 Z
+Breakpoint_48:
+  id: 48
+  drug: Kanamycin
+  s_maximum: 16
+  r_minimum: 64
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.820282000 Z
+  updated_at: 2015-09-03 03:25:45.820282000 Z
+Breakpoint_49:
+  id: 49
+  drug: Netilmicin
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.829368000 Z
+  updated_at: 2015-09-03 03:25:45.829368000 Z
+Breakpoint_50:
+  id: 50
+  drug: Azithromycin
+  s_maximum: 16
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.837069000 Z
+  updated_at: 2015-09-03 03:25:45.837069000 Z
+Breakpoint_51:
+  id: 51
+  drug: Tetracycline
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.844620000 Z
+  updated_at: 2015-09-03 03:25:45.844620000 Z
+Breakpoint_52:
+  id: 52
+  drug: Doxycycline
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.853375000 Z
+  updated_at: 2015-09-03 03:25:45.853375000 Z
+Breakpoint_53:
+  id: 53
+  drug: Minocycline
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.860361000 Z
+  updated_at: 2015-09-03 03:25:45.860361000 Z
+Breakpoint_54:
+  id: 54
+  drug: Ciprofloxacin
+  s_maximum: 1
+  r_minimum: 4
+  master_group_include: Enteric
+  genus_exclude: Salmonella
+  created_at: 2015-09-03 03:25:45.870765000 Z
+  updated_at: 2015-09-03 03:25:45.870765000 Z
+Breakpoint_55:
+  id: 55
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Enteric
+  genus_exclude: Salmonella
+  created_at: 2015-09-03 03:25:45.880595000 Z
+  updated_at: 2015-09-03 03:25:45.880595000 Z
+Breakpoint_56:
+  id: 56
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  delivery_mechanism: MDR
+  master_group_include: Enteric
+  genus_exclude: Salmonella
+  created_at: 2015-09-03 03:25:45.890282000 Z
+  updated_at: 2015-09-03 03:25:45.890282000 Z
+Breakpoint_57:
+  id: 57
+  drug: Lomefloxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.901887000 Z
+  updated_at: 2015-09-03 03:25:45.901887000 Z
+Breakpoint_58:
+  id: 58
+  drug: Ofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.910754000 Z
+  updated_at: 2015-09-03 03:25:45.910754000 Z
+Breakpoint_59:
+  id: 59
+  drug: Norfloxacin
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.919351000 Z
+  updated_at: 2015-09-03 03:25:45.919351000 Z
+Breakpoint_60:
+  id: 60
+  drug: Enoxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.927652000 Z
+  updated_at: 2015-09-03 03:25:45.927652000 Z
+Breakpoint_61:
+  id: 61
+  drug: Gatifloxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.936489000 Z
+  updated_at: 2015-09-03 03:25:45.936489000 Z
+Breakpoint_62:
+  id: 62
+  drug: Gemifloxacin
+  s_maximum: 0
   r_minimum: 1
-  surrogate_drugs: MyString
-  r_if_surrogate_is: MyString
-  ni_if_surrogate_is: MyString
-  r_if_blt_is: MyString
-  delivery_mechanism: MyString
-  infection_type: MyString
-  footnote: MyString
-  master_group_include: MyString
-  organism_group_include: MyString
-  viridans_group_include: MyString
-  genus_include: MyString
-  genus_exclude: MyString
-  organism_code_include: MyString
-  organism_code_exclude: MyString
-  gram_include: MyString
-  level_1_include: MyString
-  level_3_include: MyString
-  level_3_exclude: MyString
+  master_group_include: Enteric
+  organism_code_include: KPN
+  created_at: 2015-09-03 03:25:45.945597000 Z
+  updated_at: 2015-09-03 03:25:45.945597000 Z
+Breakpoint_63:
+  id: 63
+  drug: Grepafloxacin
+  s_maximum: 1
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.954783000 Z
+  updated_at: 2015-09-03 03:25:45.954783000 Z
+Breakpoint_64:
+  id: 64
+  drug: Fleroxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.963259000 Z
+  updated_at: 2015-09-03 03:25:45.963259000 Z
+Breakpoint_65:
+  id: 65
+  drug: Cinoxacin
+  s_maximum: 16
+  r_minimum: 64
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.973325000 Z
+  updated_at: 2015-09-03 03:25:45.973325000 Z
+Breakpoint_66:
+  id: 66
+  drug: NalidixicAcid
+  s_maximum: 16
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.980760000 Z
+  updated_at: 2015-09-03 03:25:45.980760000 Z
+Breakpoint_67:
+  id: 67
+  drug: TrimSulfa
+  s_maximum: 2
+  r_minimum: 4
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.989737000 Z
+  updated_at: 2015-09-03 03:25:45.989737000 Z
+Breakpoint_68:
+  id: 68
+  drug: Sulfonamides
+  s_maximum: 256
+  r_minimum: 512
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:45.997881000 Z
+  updated_at: 2015-09-03 03:25:45.997881000 Z
+Breakpoint_69:
+  id: 69
+  drug: Trimethoprim
+  s_maximum: 8
+  r_minimum: 16
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:46.007464000 Z
+  updated_at: 2015-09-03 03:25:46.007464000 Z
+Breakpoint_70:
+  id: 70
+  drug: Chloramphenicol
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:46.016214000 Z
+  updated_at: 2015-09-03 03:25:46.016214000 Z
+Breakpoint_71:
+  id: 71
+  drug: Fosfomycin
+  s_maximum: 64
+  r_minimum: 256
+  organism_code_include: EC
+  created_at: 2015-09-03 03:25:46.025815000 Z
+  updated_at: 2015-09-03 03:25:46.025815000 Z
+Breakpoint_72:
+  id: 72
+  drug: Nitrofurantoin
+  s_maximum: 32
+  r_minimum: 128
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:46.037172000 Z
+  updated_at: 2015-09-03 03:25:46.037172000 Z
+Breakpoint_73:
+  id: 73
+  drug: CAZ104
+  s_maximum: 8
+  r_minimum: 16
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.045189000 Z
+  updated_at: 2015-09-03 03:25:46.045189000 Z
+Breakpoint_74:
+  id: 74
+  drug: Piperacillin
+  s_maximum: 16
+  r_minimum: 128
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.053577000 Z
+  updated_at: 2015-09-03 03:25:46.053577000 Z
+Breakpoint_75:
+  id: 75
+  drug: Ticarcillin
+  s_maximum: 16
+  r_minimum: 128
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.060493000 Z
+  updated_at: 2015-09-03 03:25:46.060493000 Z
+Breakpoint_76:
+  id: 76
+  drug: PipTazo
+  s_maximum: 16
+  r_minimum: 128
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.068395000 Z
+  updated_at: 2015-09-03 03:25:46.068395000 Z
+Breakpoint_77:
+  id: 77
+  drug: PipTazo
+  s_maximum: 16
+  r_minimum: 128
+  delivery_mechanism: MDR
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.078295000 Z
+  updated_at: 2015-09-03 03:25:46.078295000 Z
+Breakpoint_78:
+  id: 78
+  drug: TicClav
+  s_maximum: 16
+  r_minimum: 128
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.087785000 Z
+  updated_at: 2015-09-03 03:25:46.087785000 Z
+Breakpoint_79:
+  id: 79
+  drug: Ceftazidime
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.098417000 Z
+  updated_at: 2015-09-03 03:25:46.098417000 Z
+Breakpoint_80:
+  id: 80
+  drug: Ceftazidime
+  s_maximum: 8
+  r_minimum: 32
+  delivery_mechanism: MDR
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.107016000 Z
+  updated_at: 2015-09-03 03:25:46.107016000 Z
+Breakpoint_81:
+  id: 81
+  drug: Cefepime
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.116424000 Z
+  updated_at: 2015-09-03 03:25:46.116424000 Z
+Breakpoint_82:
+  id: 82
+  drug: Aztreonam
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.124749000 Z
+  updated_at: 2015-09-03 03:25:46.124749000 Z
+Breakpoint_83:
+  id: 83
+  drug: Doripenem
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.134180000 Z
+  updated_at: 2015-09-03 03:25:46.134180000 Z
+Breakpoint_84:
+  id: 84
+  drug: Imipenem
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.141836000 Z
+  updated_at: 2015-09-03 03:25:46.141836000 Z
+Breakpoint_85:
+  id: 85
+  drug: Meropenem
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.149273000 Z
+  updated_at: 2015-09-03 03:25:46.149273000 Z
+Breakpoint_86:
+  id: 86
+  drug: Meropenem
+  s_maximum: 2
+  r_minimum: 8
+  delivery_mechanism: MDR
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.157029000 Z
+  updated_at: 2015-09-03 03:25:46.157029000 Z
+Breakpoint_87:
+  id: 87
+  drug: Colistin
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.164424000 Z
+  updated_at: 2015-09-03 03:25:46.164424000 Z
+Breakpoint_88:
+  id: 88
+  drug: Colistin
+  s_maximum: 2
+  r_minimum: 8
+  delivery_mechanism: MDR
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.173166000 Z
+  updated_at: 2015-09-03 03:25:46.173166000 Z
+Breakpoint_89:
+  id: 89
+  drug: PolymyxinB
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.181317000 Z
+  updated_at: 2015-09-03 03:25:46.181317000 Z
+Breakpoint_90:
+  id: 90
+  drug: Gentamicin
+  s_maximum: 4
+  r_minimum: 16
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.189319000 Z
+  updated_at: 2015-09-03 03:25:46.189319000 Z
+Breakpoint_91:
+  id: 91
+  drug: Gentamicin
+  s_maximum: 4
+  r_minimum: 16
+  delivery_mechanism: MDR
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.197262000 Z
+  updated_at: 2015-09-03 03:25:46.197262000 Z
+Breakpoint_92:
+  id: 92
+  drug: Tobramycin
+  s_maximum: 4
+  r_minimum: 16
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.205380000 Z
+  updated_at: 2015-09-03 03:25:46.205380000 Z
+Breakpoint_93:
+  id: 93
+  drug: Amikacin
+  s_maximum: 16
+  r_minimum: 64
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.212646000 Z
+  updated_at: 2015-09-03 03:25:46.212646000 Z
+Breakpoint_94:
+  id: 94
+  drug: Netilmicin
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.221619000 Z
+  updated_at: 2015-09-03 03:25:46.221619000 Z
+Breakpoint_95:
+  id: 95
+  drug: Ciprofloxacin
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.229202000 Z
+  updated_at: 2015-09-03 03:25:46.229202000 Z
+Breakpoint_96:
+  id: 96
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.237314000 Z
+  updated_at: 2015-09-03 03:25:46.237314000 Z
+Breakpoint_97:
+  id: 97
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  delivery_mechanism: MDR
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.245970000 Z
+  updated_at: 2015-09-03 03:25:46.245970000 Z
+Breakpoint_98:
+  id: 98
+  drug: Lomefloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.256002000 Z
+  updated_at: 2015-09-03 03:25:46.256002000 Z
+Breakpoint_99:
+  id: 99
+  drug: Ofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.266104000 Z
+  updated_at: 2015-09-03 03:25:46.266104000 Z
+Breakpoint_100:
+  id: 100
+  drug: Norfloxacin
+  s_maximum: 4
+  r_minimum: 16
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.276022000 Z
+  updated_at: 2015-09-03 03:25:46.276022000 Z
+Breakpoint_101:
+  id: 101
+  drug: Gatifloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:46.285040000 Z
+  updated_at: 2015-09-03 03:25:46.285040000 Z
+Breakpoint_102:
+  id: 102
+  drug: Piperacillin
+  s_maximum: 16
+  r_minimum: 128
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.296669000 Z
+  updated_at: 2015-09-03 03:25:46.296669000 Z
+Breakpoint_103:
+  id: 103
+  drug: Mezlocillin
+  s_maximum: 16
+  r_minimum: 128
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.307389000 Z
+  updated_at: 2015-09-03 03:25:46.307389000 Z
+Breakpoint_104:
+  id: 104
+  drug: Ticarcillin
+  s_maximum: 16
+  r_minimum: 128
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.315830000 Z
+  updated_at: 2015-09-03 03:25:46.315830000 Z
+Breakpoint_105:
+  id: 105
+  drug: AmpSulb
+  s_maximum: 8
+  r_minimum: 32
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.324698000 Z
+  updated_at: 2015-09-03 03:25:46.324698000 Z
+Breakpoint_106:
+  id: 106
+  drug: PipTazo
+  s_maximum: 16
+  r_minimum: 128
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.332287000 Z
+  updated_at: 2015-09-03 03:25:46.332287000 Z
+Breakpoint_107:
+  id: 107
+  drug: PipTazo
+  s_maximum: 16
+  r_minimum: 128
+  delivery_mechanism: MDR
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.341308000 Z
+  updated_at: 2015-09-03 03:25:46.341308000 Z
+Breakpoint_108:
+  id: 108
+  drug: TicClav
+  s_maximum: 16
+  r_minimum: 128
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.349381000 Z
+  updated_at: 2015-09-03 03:25:46.349381000 Z
+Breakpoint_109:
+  id: 109
+  drug: Ceftazidime
+  s_maximum: 8
+  r_minimum: 32
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.357350000 Z
+  updated_at: 2015-09-03 03:25:46.357350000 Z
+Breakpoint_110:
+  id: 110
+  drug: Ceftazidime
+  s_maximum: 8
+  r_minimum: 32
+  delivery_mechanism: MDR
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.365756000 Z
+  updated_at: 2015-09-03 03:25:46.365756000 Z
+Breakpoint_111:
+  id: 111
+  drug: Cefepime
+  s_maximum: 8
+  r_minimum: 32
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.375071000 Z
+  updated_at: 2015-09-03 03:25:46.375071000 Z
+Breakpoint_112:
+  id: 112
+  drug: Cefotaxime
+  s_maximum: 8
+  r_minimum: 64
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.384228000 Z
+  updated_at: 2015-09-03 03:25:46.384228000 Z
+Breakpoint_113:
+  id: 113
+  drug: Ceftriaxone
+  s_maximum: 8
+  r_minimum: 64
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.392979000 Z
+  updated_at: 2015-09-03 03:25:46.392979000 Z
+Breakpoint_114:
+  id: 114
+  drug: Doripenem
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.401072000 Z
+  updated_at: 2015-09-03 03:25:46.401072000 Z
+Breakpoint_115:
+  id: 115
+  drug: Imipenem
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.412174000 Z
+  updated_at: 2015-09-03 03:25:46.412174000 Z
+Breakpoint_116:
+  id: 116
+  drug: Meropenem
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.422049000 Z
+  updated_at: 2015-09-03 03:25:46.422049000 Z
+Breakpoint_117:
+  id: 117
+  drug: Meropenem
+  s_maximum: 2
+  r_minimum: 8
+  delivery_mechanism: MDR
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.431168000 Z
+  updated_at: 2015-09-03 03:25:46.431168000 Z
+Breakpoint_118:
+  id: 118
+  drug: PolymyxinB
+  s_maximum: 2
+  r_minimum: 4
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.440458000 Z
+  updated_at: 2015-09-03 03:25:46.440458000 Z
+Breakpoint_119:
+  id: 119
+  drug: Colistin
+  s_maximum: 2
+  r_minimum: 4
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.449634000 Z
+  updated_at: 2015-09-03 03:25:46.449634000 Z
+Breakpoint_120:
+  id: 120
+  drug: Colistin
+  s_maximum: 2
+  r_minimum: 4
+  delivery_mechanism: MDR
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.459791000 Z
+  updated_at: 2015-09-03 03:25:46.459791000 Z
+Breakpoint_121:
+  id: 121
+  drug: Gentamicin
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.469227000 Z
+  updated_at: 2015-09-03 03:25:46.469227000 Z
+Breakpoint_122:
+  id: 122
+  drug: Gentamicin
+  s_maximum: 4
+  r_minimum: 16
+  delivery_mechanism: MDR
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.478000000 Z
+  updated_at: 2015-09-03 03:25:46.478000000 Z
+Breakpoint_123:
+  id: 123
+  drug: Tobramycin
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.489930000 Z
+  updated_at: 2015-09-03 03:25:46.489930000 Z
+Breakpoint_124:
+  id: 124
+  drug: Amikacin
+  s_maximum: 16
+  r_minimum: 64
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.497263000 Z
+  updated_at: 2015-09-03 03:25:46.497263000 Z
+Breakpoint_125:
+  id: 125
+  drug: Netilmicin
+  s_maximum: 8
+  r_minimum: 32
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.505008000 Z
+  updated_at: 2015-09-03 03:25:46.505008000 Z
+Breakpoint_126:
+  id: 126
+  drug: Tetracycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.516613000 Z
+  updated_at: 2015-09-03 03:25:46.516613000 Z
+Breakpoint_127:
+  id: 127
+  drug: Tetracycline
+  s_maximum: 4
+  r_minimum: 16
+  delivery_mechanism: MDR
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.526168000 Z
+  updated_at: 2015-09-03 03:25:46.526168000 Z
+Breakpoint_128:
+  id: 128
+  drug: Doxycycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.534222000 Z
+  updated_at: 2015-09-03 03:25:46.534222000 Z
+Breakpoint_129:
+  id: 129
+  drug: Minocycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.543801000 Z
+  updated_at: 2015-09-03 03:25:46.543801000 Z
+Breakpoint_130:
+  id: 130
+  drug: Ciprofloxacin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.552611000 Z
+  updated_at: 2015-09-03 03:25:46.552611000 Z
+Breakpoint_131:
+  id: 131
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.561048000 Z
+  updated_at: 2015-09-03 03:25:46.561048000 Z
+Breakpoint_132:
+  id: 132
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  delivery_mechanism: MDR
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.568466000 Z
+  updated_at: 2015-09-03 03:25:46.568466000 Z
+Breakpoint_133:
+  id: 133
+  drug: Gatifloxacin
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.577300000 Z
+  updated_at: 2015-09-03 03:25:46.577300000 Z
+Breakpoint_134:
+  id: 134
+  drug: TrimSulfa
+  s_maximum: 2
+  r_minimum: 4
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.589239000 Z
+  updated_at: 2015-09-03 03:25:46.589239000 Z
+Breakpoint_135:
+  id: 135
+  drug: TrimSulfa
+  s_maximum: 2
+  r_minimum: 4
+  delivery_mechanism: MDR
+  genus_include: Acinetobacter
+  created_at: 2015-09-03 03:25:46.597143000 Z
+  updated_at: 2015-09-03 03:25:46.597143000 Z
+Breakpoint_136:
+  id: 136
+  drug: TicClav
+  s_maximum: 16
+  r_minimum: 128
+  level_3_include: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.604930000 Z
+  updated_at: 2015-09-03 03:25:46.604930000 Z
+Breakpoint_137:
+  id: 137
+  drug: Ceftazidime
+  s_maximum: 8
+  r_minimum: 32
+  level_3_include: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.612400000 Z
+  updated_at: 2015-09-03 03:25:46.612400000 Z
+Breakpoint_138:
+  id: 138
+  drug: Meropenem
+  s_maximum: 4
+  r_minimum: 16
+  level_3_include: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.621690000 Z
+  updated_at: 2015-09-03 03:25:46.621690000 Z
+Breakpoint_139:
+  id: 139
+  drug: Minocycline
+  s_maximum: 4
+  r_minimum: 16
+  level_3_include: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.629896000 Z
+  updated_at: 2015-09-03 03:25:46.629896000 Z
+Breakpoint_140:
+  id: 140
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  level_3_include: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.637353000 Z
+  updated_at: 2015-09-03 03:25:46.637353000 Z
+Breakpoint_141:
+  id: 141
+  drug: TrimSulfa
+  s_maximum: 2
+  r_minimum: 4
+  level_3_include: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.644950000 Z
+  updated_at: 2015-09-03 03:25:46.644950000 Z
+Breakpoint_142:
+  id: 142
+  drug: Chloramphenicol
+  s_maximum: 8
+  r_minimum: 32
+  level_3_include: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.653774000 Z
+  updated_at: 2015-09-03 03:25:46.653774000 Z
+Breakpoint_143:
+  id: 143
+  drug: TicClav
+  s_maximum: 16
+  r_minimum: 128
+  organism_code_include: XM
+  created_at: 2015-09-03 03:25:46.661120000 Z
+  updated_at: 2015-09-03 03:25:46.661120000 Z
+Breakpoint_144:
+  id: 144
+  drug: Ceftazidime
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: XM
+  created_at: 2015-09-03 03:25:46.668414000 Z
+  updated_at: 2015-09-03 03:25:46.668414000 Z
+Breakpoint_145:
+  id: 145
+  drug: Minocycline
+  s_maximum: 4
+  r_minimum: 16
+  organism_code_include: XM
+  created_at: 2015-09-03 03:25:46.677301000 Z
+  updated_at: 2015-09-03 03:25:46.677301000 Z
+Breakpoint_146:
+  id: 146
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: XM
+  created_at: 2015-09-03 03:25:46.686936000 Z
+  updated_at: 2015-09-03 03:25:46.686936000 Z
+Breakpoint_147:
+  id: 147
+  drug: TrimSulfa
+  s_maximum: 2
+  r_minimum: 4
+  organism_code_include: XM
+  created_at: 2015-09-03 03:25:46.695943000 Z
+  updated_at: 2015-09-03 03:25:46.695943000 Z
+Breakpoint_148:
+  id: 148
+  drug: Chloramphenicol
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: XM
+  created_at: 2015-09-03 03:25:46.705726000 Z
+  updated_at: 2015-09-03 03:25:46.705726000 Z
+Breakpoint_149:
+  id: 149
+  drug: Piperacillin
+  s_maximum: 16
+  r_minimum: 128
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.714764000 Z
+  updated_at: 2015-09-03 03:25:46.714764000 Z
+Breakpoint_150:
+  id: 150
+  drug: Carbenicillin
+  s_maximum: 16
+  r_minimum: 64
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.725634000 Z
+  updated_at: 2015-09-03 03:25:46.725634000 Z
+Breakpoint_151:
+  id: 151
+  drug: Mezlocillin
+  s_maximum: 16
+  r_minimum: 128
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.735385000 Z
+  updated_at: 2015-09-03 03:25:46.735385000 Z
+Breakpoint_152:
+  id: 152
+  drug: Ticarcillin
+  s_maximum: 16
+  r_minimum: 128
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.745368000 Z
+  updated_at: 2015-09-03 03:25:46.745368000 Z
+Breakpoint_153:
+  id: 153
+  drug: PipTazo
+  s_maximum: 16
+  r_minimum: 128
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.755904000 Z
+  updated_at: 2015-09-03 03:25:46.755904000 Z
+Breakpoint_154:
+  id: 154
+  drug: TicClav
+  s_maximum: 16
+  r_minimum: 128
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.765098000 Z
+  updated_at: 2015-09-03 03:25:46.765098000 Z
+Breakpoint_155:
+  id: 155
+  drug: Ceftazidime
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.772722000 Z
+  updated_at: 2015-09-03 03:25:46.772722000 Z
+Breakpoint_156:
+  id: 156
+  drug: Cefepime
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.781533000 Z
+  updated_at: 2015-09-03 03:25:46.781533000 Z
+Breakpoint_157:
+  id: 157
+  drug: Cefotaxime
+  s_maximum: 8
+  r_minimum: 64
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.791711000 Z
+  updated_at: 2015-09-03 03:25:46.791711000 Z
+Breakpoint_158:
+  id: 158
+  drug: Ceftriaxone
+  s_maximum: 8
+  r_minimum: 64
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.800489000 Z
+  updated_at: 2015-09-03 03:25:46.800489000 Z
+Breakpoint_159:
+  id: 159
+  drug: Cefoperazone
+  s_maximum: 16
+  r_minimum: 64
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.809190000 Z
+  updated_at: 2015-09-03 03:25:46.809190000 Z
+Breakpoint_160:
+  id: 160
+  drug: Ceftizoxime
+  s_maximum: 8
+  r_minimum: 64
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.818223000 Z
+  updated_at: 2015-09-03 03:25:46.818223000 Z
+Breakpoint_161:
+  id: 161
+  drug: Moxalactam
+  s_maximum: 8
+  r_minimum: 64
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.827973000 Z
+  updated_at: 2015-09-03 03:25:46.827973000 Z
+Breakpoint_162:
+  id: 162
+  drug: Aztreonam
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.836721000 Z
+  updated_at: 2015-09-03 03:25:46.836721000 Z
+Breakpoint_163:
+  id: 163
+  drug: Imipenem
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.846633000 Z
+  updated_at: 2015-09-03 03:25:46.846633000 Z
+Breakpoint_164:
+  id: 164
+  drug: Meropenem
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.856578000 Z
+  updated_at: 2015-09-03 03:25:46.856578000 Z
+Breakpoint_165:
+  id: 165
+  drug: Colistin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.865918000 Z
+  updated_at: 2015-09-03 03:25:46.865918000 Z
+Breakpoint_166:
+  id: 166
+  drug: PolymyxinB
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.875771000 Z
+  updated_at: 2015-09-03 03:25:46.875771000 Z
+Breakpoint_167:
+  id: 167
+  drug: Gentamicin
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.885003000 Z
+  updated_at: 2015-09-03 03:25:46.885003000 Z
+Breakpoint_168:
+  id: 168
+  drug: Tobramycin
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.893320000 Z
+  updated_at: 2015-09-03 03:25:46.893320000 Z
+Breakpoint_169:
+  id: 169
+  drug: Amikacin
+  s_maximum: 16
+  r_minimum: 64
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.902059000 Z
+  updated_at: 2015-09-03 03:25:46.902059000 Z
+Breakpoint_170:
+  id: 170
+  drug: Netilmicin
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.911028000 Z
+  updated_at: 2015-09-03 03:25:46.911028000 Z
+Breakpoint_171:
+  id: 171
+  drug: Tetracycline
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.919669000 Z
+  updated_at: 2015-09-03 03:25:46.919669000 Z
+Breakpoint_172:
+  id: 172
+  drug: Doxycycline
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.928897000 Z
+  updated_at: 2015-09-03 03:25:46.928897000 Z
+Breakpoint_173:
+  id: 173
+  drug: Minocycline
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.936893000 Z
+  updated_at: 2015-09-03 03:25:46.936893000 Z
+Breakpoint_174:
+  id: 174
+  drug: Ciprofloxacin
+  s_maximum: 1
+  r_minimum: 4
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.948426000 Z
+  updated_at: 2015-09-03 03:25:46.948426000 Z
+Breakpoint_175:
+  id: 175
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.957759000 Z
+  updated_at: 2015-09-03 03:25:46.957759000 Z
+Breakpoint_176:
+  id: 176
+  drug: Lomefloxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.965815000 Z
+  updated_at: 2015-09-03 03:25:46.965815000 Z
+Breakpoint_177:
+  id: 177
+  drug: Ofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.974808000 Z
+  updated_at: 2015-09-03 03:25:46.974808000 Z
+Breakpoint_178:
+  id: 178
+  drug: Norfloxacin
+  s_maximum: 4
+  r_minimum: 16
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.984755000 Z
+  updated_at: 2015-09-03 03:25:46.984755000 Z
+Breakpoint_179:
+  id: 179
+  drug: Gatifloxacin
+  s_maximum: 2
+  r_minimum: 8
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:46.993328000 Z
+  updated_at: 2015-09-03 03:25:46.993328000 Z
+Breakpoint_180:
+  id: 180
+  drug: TrimSulfa
+  s_maximum: 2
+  r_minimum: 4
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:47.000896000 Z
+  updated_at: 2015-09-03 03:25:47.000896000 Z
+Breakpoint_181:
+  id: 181
+  drug: Sulfonamides
+  s_maximum: 256
+  r_minimum: 512
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:47.010972000 Z
+  updated_at: 2015-09-03 03:25:47.010972000 Z
+Breakpoint_182:
+  id: 182
+  drug: Chloramphenicol
+  s_maximum: 8
+  r_minimum: 32
+  master_group_include: Non Enteric
+  genus_exclude: Acinetobacter
+  organism_code_exclude: PSA,XM
+  level_3_exclude: Burkholderia cepacia species complex
+  created_at: 2015-09-03 03:25:47.020426000 Z
+  updated_at: 2015-09-03 03:25:47.020426000 Z
+Breakpoint_183:
+  id: 183
+  drug: Penicillin
+  s_maximum: 0
+  r_minimum: 0
+  surrogate_drugs: Oxacillin,Cefoxitin
+  r_if_surrogate_is: I,R,NS
+  footnote: MRSA reported as resistant
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.029154000 Z
+  updated_at: 2015-09-03 03:25:47.029154000 Z
+Breakpoint_184:
+  id: 184
+  drug: AmoxClav
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.037029000 Z
+  updated_at: 2015-09-03 03:25:47.037029000 Z
+Breakpoint_185:
+  id: 185
+  drug: AmpSulb
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.045455000 Z
+  updated_at: 2015-09-03 03:25:47.045455000 Z
+Breakpoint_186:
+  id: 186
+  drug: PipTazo
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.054215000 Z
+  updated_at: 2015-09-03 03:25:47.054215000 Z
+Breakpoint_187:
+  id: 187
+  drug: TicClav
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.063563000 Z
+  updated_at: 2015-09-03 03:25:47.063563000 Z
+Breakpoint_188:
+  id: 188
+  drug: Cefaclor
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.073750000 Z
+  updated_at: 2015-09-03 03:25:47.073750000 Z
+Breakpoint_189:
+  id: 189
+  drug: Cefdinir
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.082104000 Z
+  updated_at: 2015-09-03 03:25:47.082104000 Z
+Breakpoint_190:
+  id: 190
+  drug: Cefpodoxime
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.090511000 Z
+  updated_at: 2015-09-03 03:25:47.090511000 Z
+Breakpoint_191:
+  id: 191
+  drug: Cefprozil
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.099472000 Z
+  updated_at: 2015-09-03 03:25:47.099472000 Z
+Breakpoint_192:
+  id: 192
+  drug: Cefuroxime
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.109169000 Z
+  updated_at: 2015-09-03 03:25:47.109169000 Z
+Breakpoint_193:
+  id: 193
+  drug: Loracarbef
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.117735000 Z
+  updated_at: 2015-09-03 03:25:47.117735000 Z
+Breakpoint_194:
+  id: 194
+  drug: Cefamandole
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.129042000 Z
+  updated_at: 2015-09-03 03:25:47.129042000 Z
+Breakpoint_195:
+  id: 195
+  drug: Cefazolin
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.138176000 Z
+  updated_at: 2015-09-03 03:25:47.138176000 Z
+Breakpoint_196:
+  id: 196
+  drug: Cefepime
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.148780000 Z
+  updated_at: 2015-09-03 03:25:47.148780000 Z
+Breakpoint_197:
+  id: 197
+  drug: Cefmetazole
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.157907000 Z
+  updated_at: 2015-09-03 03:25:47.157907000 Z
+Breakpoint_198:
+  id: 198
+  drug: Cefonicid
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.167482000 Z
+  updated_at: 2015-09-03 03:25:47.167482000 Z
+Breakpoint_199:
+  id: 199
+  drug: Cefoperazone
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.177519000 Z
+  updated_at: 2015-09-03 03:25:47.177519000 Z
+Breakpoint_200:
+  id: 200
+  drug: Cefotaxime
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.185573000 Z
+  updated_at: 2015-09-03 03:25:47.185573000 Z
+Breakpoint_201:
+  id: 201
+  drug: Cefotetan
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.195477000 Z
+  updated_at: 2015-09-03 03:25:47.195477000 Z
+Breakpoint_202:
+  id: 202
+  drug: Ceftizoxime
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.204733000 Z
+  updated_at: 2015-09-03 03:25:47.204733000 Z
+Breakpoint_203:
+  id: 203
+  drug: Ceftriaxone
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.212334000 Z
+  updated_at: 2015-09-03 03:25:47.212334000 Z
+Breakpoint_204:
+  id: 204
+  drug: Cefuroxime
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.220621000 Z
+  updated_at: 2015-09-03 03:25:47.220621000 Z
+Breakpoint_205:
+  id: 205
+  drug: Cephalothin
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.230268000 Z
+  updated_at: 2015-09-03 03:25:47.230268000 Z
+Breakpoint_206:
+  id: 206
+  drug: Moxalactam
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.239440000 Z
+  updated_at: 2015-09-03 03:25:47.239440000 Z
+Breakpoint_207:
+  id: 207
+  drug: Doripenem
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.249153000 Z
+  updated_at: 2015-09-03 03:25:47.249153000 Z
+Breakpoint_208:
+  id: 208
+  drug: Ertapenem
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.257214000 Z
+  updated_at: 2015-09-03 03:25:47.257214000 Z
+Breakpoint_209:
+  id: 209
+  drug: Imipenem
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.264756000 Z
+  updated_at: 2015-09-03 03:25:47.264756000 Z
+Breakpoint_210:
+  id: 210
+  drug: Meropenem
+  surrogate_drugs: Oxacillin,Cefoxitin
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.273407000 Z
+  updated_at: 2015-09-03 03:25:47.273407000 Z
+Breakpoint_211:
+  id: 211
+  drug: Oxacillin
+  s_maximum: 2
+  r_minimum: 4
+  organism_code_include: SA,SLUG
+  created_at: 2015-09-03 03:25:47.281117000 Z
+  updated_at: 2015-09-03 03:25:47.281117000 Z
+Breakpoint_212:
+  id: 212
+  drug: Cefoxitin
+  s_maximum: 4
+  r_minimum: 8
+  organism_code_include: SA,SLUG
+  created_at: 2015-09-03 03:25:47.290232000 Z
+  updated_at: 2015-09-03 03:25:47.290232000 Z
+Breakpoint_213:
+  id: 213
+  drug: Oxacillin
+  s_maximum: 0
+  r_minimum: 0
+  organism_group_include: Coagulase-negative staphylococci
+  organism_code_exclude: SLUG
+  created_at: 2015-09-03 03:25:47.301070000 Z
+  updated_at: 2015-09-03 03:25:47.301070000 Z
+Breakpoint_214:
+  id: 214
+  drug: Ceftaroline
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: SA
+  created_at: 2015-09-03 03:25:47.309196000 Z
+  updated_at: 2015-09-03 03:25:47.309196000 Z
+Breakpoint_215:
+  id: 215
+  drug: Vancomycin
+  s_maximum: 2
+  r_minimum: 16
+  organism_code_include: SA
+  created_at: 2015-09-03 03:25:47.317571000 Z
+  updated_at: 2015-09-03 03:25:47.317571000 Z
+Breakpoint_216:
+  id: 216
+  drug: Vancomycin
+  s_maximum: 4
+  r_minimum: 32
+  organism_group_include: Coagulase-negative staphylococci
+  created_at: 2015-09-03 03:25:47.324937000 Z
+  updated_at: 2015-09-03 03:25:47.324937000 Z
+Breakpoint_217:
+  id: 217
+  drug: Teicoplanin
+  s_maximum: 8
+  r_minimum: 32
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.336004000 Z
+  updated_at: 2015-09-03 03:25:47.336004000 Z
+Breakpoint_218:
+  id: 218
+  drug: Daptomycin
+  s_maximum: 1
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.345726000 Z
+  updated_at: 2015-09-03 03:25:47.345726000 Z
+Breakpoint_219:
+  id: 219
+  drug: Gentamicin
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.353224000 Z
+  updated_at: 2015-09-03 03:25:47.353224000 Z
+Breakpoint_220:
+  id: 220
+  drug: Amikacin
+  s_maximum: 16
+  r_minimum: 64
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.361065000 Z
+  updated_at: 2015-09-03 03:25:47.361065000 Z
+Breakpoint_221:
+  id: 221
+  drug: Kanamycin
+  s_maximum: 16
+  r_minimum: 64
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.369412000 Z
+  updated_at: 2015-09-03 03:25:47.369412000 Z
+Breakpoint_222:
+  id: 222
+  drug: Netilmicin
+  s_maximum: 8
+  r_minimum: 32
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.377403000 Z
+  updated_at: 2015-09-03 03:25:47.377403000 Z
+Breakpoint_223:
+  id: 223
+  drug: Tobramycin
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.386107000 Z
+  updated_at: 2015-09-03 03:25:47.386107000 Z
+Breakpoint_224:
+  id: 224
+  drug: Azithromycin
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.395994000 Z
+  updated_at: 2015-09-03 03:25:47.395994000 Z
+Breakpoint_225:
+  id: 225
+  drug: Clarithromycin
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.405807000 Z
+  updated_at: 2015-09-03 03:25:47.405807000 Z
+Breakpoint_226:
+  id: 226
+  drug: Erythromycin
+  s_maximum: 0
+  r_minimum: 8
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.413874000 Z
+  updated_at: 2015-09-03 03:25:47.413874000 Z
+Breakpoint_227:
+  id: 227
+  drug: Telithromycin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.423507000 Z
+  updated_at: 2015-09-03 03:25:47.423507000 Z
+Breakpoint_228:
+  id: 228
+  drug: Dirithromycin
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.432254000 Z
+  updated_at: 2015-09-03 03:25:47.432254000 Z
+Breakpoint_229:
+  id: 229
+  drug: Tetracycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.441029000 Z
+  updated_at: 2015-09-03 03:25:47.441029000 Z
+Breakpoint_230:
+  id: 230
+  drug: Doxycycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.450317000 Z
+  updated_at: 2015-09-03 03:25:47.450317000 Z
+Breakpoint_231:
+  id: 231
+  drug: Minocycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.459948000 Z
+  updated_at: 2015-09-03 03:25:47.459948000 Z
+Breakpoint_232:
+  id: 232
+  drug: Ciprofloxacin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.468856000 Z
+  updated_at: 2015-09-03 03:25:47.468856000 Z
+Breakpoint_233:
+  id: 233
+  drug: Levofloxacin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.476236000 Z
+  updated_at: 2015-09-03 03:25:47.476236000 Z
+Breakpoint_234:
+  id: 234
+  drug: Ofloxacin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.485050000 Z
+  updated_at: 2015-09-03 03:25:47.485050000 Z
+Breakpoint_235:
+  id: 235
+  drug: Moxifloxacin
+  s_maximum: 0
+  r_minimum: 2
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.493411000 Z
+  updated_at: 2015-09-03 03:25:47.493411000 Z
+Breakpoint_236:
+  id: 236
+  drug: Lomefloxacin
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.501504000 Z
+  updated_at: 2015-09-03 03:25:47.501504000 Z
+Breakpoint_237:
+  id: 237
+  drug: Norfloxacin
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.509562000 Z
+  updated_at: 2015-09-03 03:25:47.509562000 Z
+Breakpoint_238:
+  id: 238
+  drug: Enoxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: SSAP,SEPI
+  created_at: 2015-09-03 03:25:47.517317000 Z
+  updated_at: 2015-09-03 03:25:47.517317000 Z
+Breakpoint_239:
+  id: 239
+  drug: Gatifloxacin
+  s_maximum: 0
+  r_minimum: 2
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.526096000 Z
+  updated_at: 2015-09-03 03:25:47.526096000 Z
+Breakpoint_240:
+  id: 240
+  drug: Grepafloxacin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.535573000 Z
+  updated_at: 2015-09-03 03:25:47.535573000 Z
+Breakpoint_241:
+  id: 241
+  drug: Sparfloxacin
+  s_maximum: 0
+  r_minimum: 2
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.544716000 Z
+  updated_at: 2015-09-03 03:25:47.544716000 Z
+Breakpoint_242:
+  id: 242
+  drug: Fleroxacin
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.552442000 Z
+  updated_at: 2015-09-03 03:25:47.552442000 Z
+Breakpoint_243:
+  id: 243
+  drug: Nitrofurantoin
+  s_maximum: 32
+  r_minimum: 128
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.561373000 Z
+  updated_at: 2015-09-03 03:25:47.561373000 Z
+Breakpoint_244:
+  id: 244
+  drug: Clindamycin
+  s_maximum: 0
+  r_minimum: 4
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.574297000 Z
+  updated_at: 2015-09-03 03:25:47.574297000 Z
+Breakpoint_245:
+  id: 245
+  drug: TrimSulfa
+  s_maximum: 2
+  r_minimum: 4
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.583722000 Z
+  updated_at: 2015-09-03 03:25:47.583722000 Z
+Breakpoint_246:
+  id: 246
+  drug: Trimethoprim
+  s_maximum: 8
+  r_minimum: 16
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.595500000 Z
+  updated_at: 2015-09-03 03:25:47.595500000 Z
+Breakpoint_247:
+  id: 247
+  drug: Chloramphenicol
+  s_maximum: 8
+  r_minimum: 32
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.603903000 Z
+  updated_at: 2015-09-03 03:25:47.603903000 Z
+Breakpoint_248:
+  id: 248
+  drug: Rifampin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.612005000 Z
+  updated_at: 2015-09-03 03:25:47.612005000 Z
+Breakpoint_249:
+  id: 249
+  drug: QuinDalfo
+  s_maximum: 1
+  r_minimum: 4
+  surrogate_drugs: Oxacillin,Cefoxitin
+  ni_if_surrogate_is: I,R,NS
+  footnote: Report for MSSA only
+  organism_code_include: SA
+  created_at: 2015-09-03 03:25:47.620461000 Z
+  updated_at: 2015-09-03 03:25:47.620461000 Z
+Breakpoint_250:
+  id: 250
+  drug: Linezolid
+  s_maximum: 4
+  r_minimum: 8
+  genus_include: Staphylococcus
+  created_at: 2015-09-03 03:25:47.629609000 Z
+  updated_at: 2015-09-03 03:25:47.629609000 Z
+Breakpoint_251:
+  id: 251
+  drug: Tedizolid100
+  s_maximum: 0
+  r_minimum: 2
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: SA
+  created_at: 2015-09-03 03:25:47.639283000 Z
+  updated_at: 2015-09-03 03:25:47.639283000 Z
+Breakpoint_252:
+  id: 252
+  drug: Penicillin
+  s_maximum: 8
+  r_minimum: 16
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.648457000 Z
+  updated_at: 2015-09-03 03:25:47.648457000 Z
+Breakpoint_253:
+  id: 253
+  drug: Ampicillin
+  s_maximum: 8
+  r_minimum: 16
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.658244000 Z
+  updated_at: 2015-09-03 03:25:47.658244000 Z
+Breakpoint_254:
+  id: 254
+  drug: Vancomycin
+  s_maximum: 4
+  r_minimum: 32
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.668065000 Z
+  updated_at: 2015-09-03 03:25:47.668065000 Z
+Breakpoint_255:
+  id: 255
+  drug: Teicoplanin
+  s_maximum: 8
+  r_minimum: 32
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.677011000 Z
+  updated_at: 2015-09-03 03:25:47.677011000 Z
+Breakpoint_256:
+  id: 256
+  drug: Daptomycin
+  s_maximum: 4
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.686490000 Z
+  updated_at: 2015-09-03 03:25:47.686490000 Z
+Breakpoint_257:
+  id: 257
+  drug: Erythromycin
+  s_maximum: 0
+  r_minimum: 8
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.696232000 Z
+  updated_at: 2015-09-03 03:25:47.696232000 Z
+Breakpoint_258:
+  id: 258
+  drug: Tetracycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.706000000 Z
+  updated_at: 2015-09-03 03:25:47.706000000 Z
+Breakpoint_259:
+  id: 259
+  drug: Doxycycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.715505000 Z
+  updated_at: 2015-09-03 03:25:47.715505000 Z
+Breakpoint_260:
+  id: 260
+  drug: Minocycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.725215000 Z
+  updated_at: 2015-09-03 03:25:47.725215000 Z
+Breakpoint_261:
+  id: 261
+  drug: Ciprofloxacin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.733067000 Z
+  updated_at: 2015-09-03 03:25:47.733067000 Z
+Breakpoint_262:
+  id: 262
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.741855000 Z
+  updated_at: 2015-09-03 03:25:47.741855000 Z
+Breakpoint_263:
+  id: 263
+  drug: Norfloxacin
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.751969000 Z
+  updated_at: 2015-09-03 03:25:47.751969000 Z
+Breakpoint_264:
+  id: 264
+  drug: Gatifloxacin
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.762296000 Z
+  updated_at: 2015-09-03 03:25:47.762296000 Z
+Breakpoint_265:
+  id: 265
+  drug: Nitrofurantoin
+  s_maximum: 32
+  r_minimum: 128
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.771646000 Z
+  updated_at: 2015-09-03 03:25:47.771646000 Z
+Breakpoint_266:
+  id: 266
+  drug: Rifampin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.781153000 Z
+  updated_at: 2015-09-03 03:25:47.781153000 Z
+Breakpoint_267:
+  id: 267
+  drug: Fosfomycin
+  s_maximum: 64
+  r_minimum: 256
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.789086000 Z
+  updated_at: 2015-09-03 03:25:47.789086000 Z
+Breakpoint_268:
+  id: 268
+  drug: Chloramphenicol
+  s_maximum: 8
+  r_minimum: 32
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.796852000 Z
+  updated_at: 2015-09-03 03:25:47.796852000 Z
+Breakpoint_269:
+  id: 269
+  drug: QuinDalfo
+  s_maximum: 1
+  r_minimum: 4
+  surrogate_drugs: Vancomycin
+  ni_if_surrogate_is: S
+  footnote: Report for Vancomycin non-susceptible only
+  organism_code_include: EFM
+  created_at: 2015-09-03 03:25:47.804192000 Z
+  updated_at: 2015-09-03 03:25:47.804192000 Z
+Breakpoint_270:
+  id: 270
+  drug: Linezolid
+  s_maximum: 2
+  r_minimum: 8
+  genus_include: Enterococcus
+  created_at: 2015-09-03 03:25:47.818805000 Z
+  updated_at: 2015-09-03 03:25:47.818805000 Z
+Breakpoint_271:
+  id: 271
+  drug: Ampicillin
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.827324000 Z
+  updated_at: 2015-09-03 03:25:47.827324000 Z
+Breakpoint_272:
+  id: 272
+  drug: AmpSulb
+  s_maximum: 2
+  r_minimum: 4
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.836269000 Z
+  updated_at: 2015-09-03 03:25:47.836269000 Z
+Breakpoint_273:
+  id: 273
+  drug: AmoxClav
+  s_maximum: 4
+  r_minimum: 8
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.845646000 Z
+  updated_at: 2015-09-03 03:25:47.845646000 Z
+Breakpoint_274:
+  id: 274
+  drug: PipTazo
+  s_maximum: 1
+  r_minimum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.854247000 Z
+  updated_at: 2015-09-03 03:25:47.854247000 Z
+Breakpoint_275:
+  id: 275
+  drug: Cefotaxime
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.863041000 Z
+  updated_at: 2015-09-03 03:25:47.863041000 Z
+Breakpoint_276:
+  id: 276
+  drug: Ceftazidime
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.871199000 Z
+  updated_at: 2015-09-03 03:25:47.871199000 Z
+Breakpoint_277:
+  id: 277
+  drug: Ceftriaxone
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.880265000 Z
+  updated_at: 2015-09-03 03:25:47.880265000 Z
+Breakpoint_278:
+  id: 278
+  drug: Cefuroxime
+  s_maximum: 4
+  r_minimum: 16
+  delivery_mechanism: Parenteral
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.888959000 Z
+  updated_at: 2015-09-03 03:25:47.888959000 Z
+Breakpoint_279:
+  id: 279
+  drug: Ceftaroline
+  s_maximum: 0
+  organism_code_include: HI
+  created_at: 2015-09-03 03:25:47.896440000 Z
+  updated_at: 2015-09-03 03:25:47.896440000 Z
+Breakpoint_280:
+  id: 280
+  drug: Cefonicid
+  s_maximum: 4
+  r_minimum: 16
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.906068000 Z
+  updated_at: 2015-09-03 03:25:47.906068000 Z
+Breakpoint_281:
+  id: 281
+  drug: Cefamandole
+  s_maximum: 4
+  r_minimum: 16
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.913958000 Z
+  updated_at: 2015-09-03 03:25:47.913958000 Z
+Breakpoint_282:
+  id: 282
+  drug: Cefepime
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.923199000 Z
+  updated_at: 2015-09-03 03:25:47.923199000 Z
+Breakpoint_283:
+  id: 283
+  drug: Ceftizoxime
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.932227000 Z
+  updated_at: 2015-09-03 03:25:47.932227000 Z
+Breakpoint_284:
+  id: 284
+  drug: Cefaclor
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.941197000 Z
+  updated_at: 2015-09-03 03:25:47.941197000 Z
+Breakpoint_285:
+  id: 285
+  drug: Cefprozil
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.952787000 Z
+  updated_at: 2015-09-03 03:25:47.952787000 Z
+Breakpoint_286:
+  id: 286
+  drug: Cefdinir
+  s_maximum: 1
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.960346000 Z
+  updated_at: 2015-09-03 03:25:47.960346000 Z
+Breakpoint_287:
+  id: 287
+  drug: Cefixime
+  s_maximum: 1
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.969469000 Z
+  updated_at: 2015-09-03 03:25:47.969469000 Z
+Breakpoint_288:
+  id: 288
+  drug: Cefpodoxime
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.977240000 Z
+  updated_at: 2015-09-03 03:25:47.977240000 Z
+Breakpoint_289:
+  id: 289
+  drug: Cefuroxime
+  s_maximum: 4
+  r_minimum: 16
+  delivery_mechanism: Oral
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.985986000 Z
+  updated_at: 2015-09-03 03:25:47.985986000 Z
+Breakpoint_290:
+  id: 290
+  drug: Loracarbef
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:47.996085000 Z
+  updated_at: 2015-09-03 03:25:47.996085000 Z
+Breakpoint_291:
+  id: 291
+  drug: Ceftibuten
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.005290000 Z
+  updated_at: 2015-09-03 03:25:48.005290000 Z
+Breakpoint_292:
+  id: 292
+  drug: Cefetamet
+  s_maximum: 4
+  r_minimum: 16
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.013260000 Z
+  updated_at: 2015-09-03 03:25:48.013260000 Z
+Breakpoint_293:
+  id: 293
+  drug: Aztreonam
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.020897000 Z
+  updated_at: 2015-09-03 03:25:48.020897000 Z
+Breakpoint_294:
+  id: 294
+  drug: Meropenem
+  s_maximum: 0
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.029911000 Z
+  updated_at: 2015-09-03 03:25:48.029911000 Z
+Breakpoint_295:
+  id: 295
+  drug: Ertapenem
+  s_maximum: 0
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.038528000 Z
+  updated_at: 2015-09-03 03:25:48.038528000 Z
+Breakpoint_296:
+  id: 296
+  drug: Imipenem
+  s_maximum: 4
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.049269000 Z
+  updated_at: 2015-09-03 03:25:48.049269000 Z
+Breakpoint_297:
+  id: 297
+  drug: Doripenem
+  s_maximum: 1
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.056558000 Z
+  updated_at: 2015-09-03 03:25:48.056558000 Z
+Breakpoint_298:
+  id: 298
+  drug: Azithromycin
+  s_maximum: 4
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.065291000 Z
+  updated_at: 2015-09-03 03:25:48.065291000 Z
+Breakpoint_299:
+  id: 299
+  drug: Clarithromycin
+  s_maximum: 8
+  r_minimum: 32
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.073123000 Z
+  updated_at: 2015-09-03 03:25:48.073123000 Z
+Breakpoint_300:
+  id: 300
+  drug: Telithromycin
+  s_maximum: 4
+  r_minimum: 16
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.082571000 Z
+  updated_at: 2015-09-03 03:25:48.082571000 Z
+Breakpoint_301:
+  id: 301
+  drug: Tetracycline
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.091605000 Z
+  updated_at: 2015-09-03 03:25:48.091605000 Z
+Breakpoint_302:
+  id: 302
+  drug: Ciprofloxacin
+  s_maximum: 1
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.100796000 Z
+  updated_at: 2015-09-03 03:25:48.100796000 Z
+Breakpoint_303:
+  id: 303
+  drug: Levofloxacin
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.109957000 Z
+  updated_at: 2015-09-03 03:25:48.109957000 Z
+Breakpoint_304:
+  id: 304
+  drug: Lomefloxacin
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.119896000 Z
+  updated_at: 2015-09-03 03:25:48.119896000 Z
+Breakpoint_305:
+  id: 305
+  drug: Moxifloxacin
+  s_maximum: 1
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.128791000 Z
+  updated_at: 2015-09-03 03:25:48.128791000 Z
+Breakpoint_306:
+  id: 306
+  drug: Ofloxacin
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.136195000 Z
+  updated_at: 2015-09-03 03:25:48.136195000 Z
+Breakpoint_307:
+  id: 307
+  drug: Gemifloxacin
+  s_maximum: 0
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.144755000 Z
+  updated_at: 2015-09-03 03:25:48.144755000 Z
+Breakpoint_308:
+  id: 308
+  drug: Gatifloxacin
+  s_maximum: 1
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.153615000 Z
+  updated_at: 2015-09-03 03:25:48.153615000 Z
+Breakpoint_309:
+  id: 309
+  drug: Grepafloxacin
+  s_maximum: 0
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.162102000 Z
+  updated_at: 2015-09-03 03:25:48.162102000 Z
+Breakpoint_310:
+  id: 310
+  drug: Sparfloxacin
+  s_maximum: 0
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.172212000 Z
+  updated_at: 2015-09-03 03:25:48.172212000 Z
+Breakpoint_311:
+  id: 311
+  drug: Trovafloxacin
+  s_maximum: 1
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.181266000 Z
+  updated_at: 2015-09-03 03:25:48.181266000 Z
+Breakpoint_312:
+  id: 312
+  drug: Fleroxacin
+  s_maximum: 2
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.189257000 Z
+  updated_at: 2015-09-03 03:25:48.189257000 Z
+Breakpoint_313:
+  id: 313
+  drug: TrimSulfa
+  s_maximum: 0
+  r_minimum: 4
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.197014000 Z
+  updated_at: 2015-09-03 03:25:48.197014000 Z
+Breakpoint_314:
+  id: 314
+  drug: Chloramphenicol
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.207027000 Z
+  updated_at: 2015-09-03 03:25:48.207027000 Z
+Breakpoint_315:
+  id: 315
+  drug: Rifampin
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: HI,HPAR
+  created_at: 2015-09-03 03:25:48.216919000 Z
+  updated_at: 2015-09-03 03:25:48.216919000 Z
+Breakpoint_316:
+  id: 316
+  drug: Penicillin
+  s_maximum: 2
+  r_minimum: 8
+  delivery_mechanism: Parenteral
+  infection_type: Non Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.224233000 Z
+  updated_at: 2015-09-03 03:25:48.224233000 Z
+Breakpoint_317:
+  id: 317
+  drug: Penicillin
+  s_maximum: 0
+  r_minimum: 0
+  delivery_mechanism: Parenteral
+  infection_type: Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.233492000 Z
+  updated_at: 2015-09-03 03:25:48.233492000 Z
+Breakpoint_318:
+  id: 318
+  drug: Penicillin
+  s_maximum: 0
+  r_minimum: 2
+  delivery_mechanism: Oral
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.241885000 Z
+  updated_at: 2015-09-03 03:25:48.241885000 Z
+Breakpoint_319:
+  id: 319
+  drug: Amoxicillin
+  s_maximum: 2
+  r_minimum: 8
+  infection_type: Non Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.250579000 Z
+  updated_at: 2015-09-03 03:25:48.250579000 Z
+Breakpoint_320:
+  id: 320
+  drug: AmoxClav
+  s_maximum: 2
+  r_minimum: 8
+  infection_type: Non Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.259579000 Z
+  updated_at: 2015-09-03 03:25:48.259579000 Z
+Breakpoint_321:
+  id: 321
+  drug: Cefepime
+  s_maximum: 0
+  r_minimum: 2
+  infection_type: Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.269308000 Z
+  updated_at: 2015-09-03 03:25:48.269308000 Z
+Breakpoint_322:
+  id: 322
+  drug: Cefepime
+  s_maximum: 1
+  r_minimum: 4
+  infection_type: Non Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.277403000 Z
+  updated_at: 2015-09-03 03:25:48.277403000 Z
+Breakpoint_323:
+  id: 323
+  drug: Cefotaxime
+  s_maximum: 0
+  r_minimum: 2
+  infection_type: Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.285033000 Z
+  updated_at: 2015-09-03 03:25:48.285033000 Z
+Breakpoint_324:
+  id: 324
+  drug: Ceftriaxone
+  s_maximum: 0
+  r_minimum: 2
+  infection_type: Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.293099000 Z
+  updated_at: 2015-09-03 03:25:48.293099000 Z
+Breakpoint_325:
+  id: 325
+  drug: Cefotaxime
+  s_maximum: 1
+  r_minimum: 4
+  infection_type: Non Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.301313000 Z
+  updated_at: 2015-09-03 03:25:48.301313000 Z
+Breakpoint_326:
+  id: 326
+  drug: Ceftriaxone
+  s_maximum: 1
+  r_minimum: 4
+  infection_type: Non Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.309905000 Z
+  updated_at: 2015-09-03 03:25:48.309905000 Z
+Breakpoint_327:
+  id: 327
+  drug: Ceftaroline
+  s_maximum: 0
+  infection_type: Non Meningitis
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.317402000 Z
+  updated_at: 2015-09-03 03:25:48.317402000 Z
+Breakpoint_328:
+  id: 328
+  drug: Cefuroxime
+  s_maximum: 0
+  r_minimum: 2
+  delivery_mechanism: Parenteral
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.324901000 Z
+  updated_at: 2015-09-03 03:25:48.324901000 Z
+Breakpoint_329:
+  id: 329
+  drug: Cefuroxime
+  s_maximum: 1
+  r_minimum: 4
+  delivery_mechanism: Oral
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.332609000 Z
+  updated_at: 2015-09-03 03:25:48.332609000 Z
+Breakpoint_330:
+  id: 330
+  drug: Cefaclor
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.340709000 Z
+  updated_at: 2015-09-03 03:25:48.340709000 Z
+Breakpoint_331:
+  id: 331
+  drug: Cefdinir
+  s_maximum: 0
+  r_minimum: 2
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.348695000 Z
+  updated_at: 2015-09-03 03:25:48.348695000 Z
+Breakpoint_332:
+  id: 332
+  drug: Cefpodoxime
+  s_maximum: 0
+  r_minimum: 2
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.359048000 Z
+  updated_at: 2015-09-03 03:25:48.359048000 Z
+Breakpoint_333:
+  id: 333
+  drug: Cefprozil
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.368120000 Z
+  updated_at: 2015-09-03 03:25:48.368120000 Z
+Breakpoint_334:
+  id: 334
+  drug: Loracarbef
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.377349000 Z
+  updated_at: 2015-09-03 03:25:48.377349000 Z
+Breakpoint_335:
+  id: 335
+  drug: Meropenem
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.385958000 Z
+  updated_at: 2015-09-03 03:25:48.385958000 Z
+Breakpoint_336:
+  id: 336
+  drug: Ertapenem
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.394551000 Z
+  updated_at: 2015-09-03 03:25:48.394551000 Z
+Breakpoint_337:
+  id: 337
+  drug: Imipenem
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.404559000 Z
+  updated_at: 2015-09-03 03:25:48.404559000 Z
+Breakpoint_338:
+  id: 338
+  drug: Doripenem
+  s_maximum: 1
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.413202000 Z
+  updated_at: 2015-09-03 03:25:48.413202000 Z
+Breakpoint_339:
+  id: 339
+  drug: Vancomycin
+  s_maximum: 1
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.421452000 Z
+  updated_at: 2015-09-03 03:25:48.421452000 Z
+Breakpoint_340:
+  id: 340
+  drug: Erythromycin
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.429154000 Z
+  updated_at: 2015-09-03 03:25:48.429154000 Z
+Breakpoint_341:
+  id: 341
+  drug: Telithromycin
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.436771000 Z
+  updated_at: 2015-09-03 03:25:48.436771000 Z
+Breakpoint_342:
+  id: 342
+  drug: Azithromycin
+  s_maximum: 0
+  r_minimum: 2
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.449879000 Z
+  updated_at: 2015-09-03 03:25:48.449879000 Z
+Breakpoint_343:
+  id: 343
+  drug: Clarithromycin
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.462207000 Z
+  updated_at: 2015-09-03 03:25:48.462207000 Z
+Breakpoint_344:
+  id: 344
+  drug: Dirithromycin
+  s_maximum: 0
+  r_minimum: 2
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.471705000 Z
+  updated_at: 2015-09-03 03:25:48.471705000 Z
+Breakpoint_345:
+  id: 345
+  drug: Tetracycline
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.482045000 Z
+  updated_at: 2015-09-03 03:25:48.482045000 Z
+Breakpoint_346:
+  id: 346
+  drug: Doxycycline
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.489514000 Z
+  updated_at: 2015-09-03 03:25:48.489514000 Z
+Breakpoint_347:
+  id: 347
+  drug: Gemifloxacin
+  s_maximum: 0
+  r_minimum: 0
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.500330000 Z
+  updated_at: 2015-09-03 03:25:48.500330000 Z
+Breakpoint_348:
+  id: 348
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.509632000 Z
+  updated_at: 2015-09-03 03:25:48.509632000 Z
+Breakpoint_349:
+  id: 349
+  drug: Moxifloxacin
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.519447000 Z
+  updated_at: 2015-09-03 03:25:48.519447000 Z
+Breakpoint_350:
+  id: 350
+  drug: Ofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.529618000 Z
+  updated_at: 2015-09-03 03:25:48.529618000 Z
+Breakpoint_351:
+  id: 351
+  drug: Gatifloxacin
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.537233000 Z
+  updated_at: 2015-09-03 03:25:48.537233000 Z
+Breakpoint_352:
+  id: 352
+  drug: Sparfloxacin
+  s_maximum: 0
+  r_minimum: 2
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.545606000 Z
+  updated_at: 2015-09-03 03:25:48.545606000 Z
+Breakpoint_353:
+  id: 353
+  drug: TrimSulfa
+  s_maximum: 0
+  r_minimum: 4
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.553298000 Z
+  updated_at: 2015-09-03 03:25:48.553298000 Z
+Breakpoint_354:
+  id: 354
+  drug: Chloramphenicol
+  s_maximum: 4
+  r_minimum: 8
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.565673000 Z
+  updated_at: 2015-09-03 03:25:48.565673000 Z
+Breakpoint_355:
+  id: 355
+  drug: Rifampin
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.574222000 Z
+  updated_at: 2015-09-03 03:25:48.574222000 Z
+Breakpoint_356:
+  id: 356
+  drug: Clindamycin
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.583479000 Z
+  updated_at: 2015-09-03 03:25:48.583479000 Z
+Breakpoint_357:
+  id: 357
+  drug: QuinDalfo
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.593238000 Z
+  updated_at: 2015-09-03 03:25:48.593238000 Z
+Breakpoint_358:
+  id: 358
+  drug: Linezolid
+  s_maximum: 2
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:48.601721000 Z
+  updated_at: 2015-09-03 03:25:48.601721000 Z
+Breakpoint_359:
+  id: 359
+  drug: Penicillin
+  s_maximum: 0
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.611044000 Z
+  updated_at: 2015-09-03 03:25:48.611044000 Z
+Breakpoint_360:
+  id: 360
+  drug: Ampicillin
+  s_maximum: 0
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.619667000 Z
+  updated_at: 2015-09-03 03:25:48.619667000 Z
+Breakpoint_361:
+  id: 361
+  drug: Cefepime
+  s_maximum: 0
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.629281000 Z
+  updated_at: 2015-09-03 03:25:48.629281000 Z
+Breakpoint_362:
+  id: 362
+  drug: Cefotaxime
+  s_maximum: 0
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.637451000 Z
+  updated_at: 2015-09-03 03:25:48.637451000 Z
+Breakpoint_363:
+  id: 363
+  drug: Ceftriaxone
+  s_maximum: 0
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.645206000 Z
+  updated_at: 2015-09-03 03:25:48.645206000 Z
+Breakpoint_364:
+  id: 364
+  drug: Ceftaroline
+  s_maximum: 0
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.652867000 Z
+  updated_at: 2015-09-03 03:25:48.652867000 Z
+Breakpoint_365:
+  id: 365
+  drug: Doripenem
+  s_maximum: 0
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.661180000 Z
+  updated_at: 2015-09-03 03:25:48.661180000 Z
+Breakpoint_366:
+  id: 366
+  drug: Ertapenem
+  s_maximum: 1
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.669205000 Z
+  updated_at: 2015-09-03 03:25:48.669205000 Z
+Breakpoint_367:
+  id: 367
+  drug: Meropenem
+  s_maximum: 0
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.676266000 Z
+  updated_at: 2015-09-03 03:25:48.676266000 Z
+Breakpoint_368:
+  id: 368
+  drug: Vancomycin
+  s_maximum: 1
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.685355000 Z
+  updated_at: 2015-09-03 03:25:48.685355000 Z
+Breakpoint_369:
+  id: 369
+  drug: Daptomycin
+  s_maximum: 1
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.694011000 Z
+  updated_at: 2015-09-03 03:25:48.694011000 Z
+Breakpoint_370:
+  id: 370
+  drug: Erythromycin
+  s_maximum: 0
+  r_minimum: 1
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.701608000 Z
+  updated_at: 2015-09-03 03:25:48.701608000 Z
+Breakpoint_371:
+  id: 371
+  drug: Azithromycin
+  s_maximum: 0
+  r_minimum: 2
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.708913000 Z
+  updated_at: 2015-09-03 03:25:48.708913000 Z
+Breakpoint_372:
+  id: 372
+  drug: Clarithromycin
+  s_maximum: 0
+  r_minimum: 1
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.717585000 Z
+  updated_at: 2015-09-03 03:25:48.717585000 Z
+Breakpoint_373:
+  id: 373
+  drug: Dirithromycin
+  s_maximum: 0
+  r_minimum: 2
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.725829000 Z
+  updated_at: 2015-09-03 03:25:48.725829000 Z
+Breakpoint_374:
+  id: 374
+  drug: Tetracycline
+  s_maximum: 2
+  r_minimum: 8
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.734304000 Z
+  updated_at: 2015-09-03 03:25:48.734304000 Z
+Breakpoint_375:
+  id: 375
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.743187000 Z
+  updated_at: 2015-09-03 03:25:48.743187000 Z
+Breakpoint_376:
+  id: 376
+  drug: Ofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.754026000 Z
+  updated_at: 2015-09-03 03:25:48.754026000 Z
+Breakpoint_377:
+  id: 377
+  drug: Gatifloxacin
+  s_maximum: 1
+  r_minimum: 4
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.763847000 Z
+  updated_at: 2015-09-03 03:25:48.763847000 Z
+Breakpoint_378:
+  id: 378
+  drug: Grepafloxacin
+  s_maximum: 0
+  r_minimum: 2
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.773945000 Z
+  updated_at: 2015-09-03 03:25:48.773945000 Z
+Breakpoint_379:
+  id: 379
+  drug: Trovafloxacin
+  s_maximum: 1
+  r_minimum: 4
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.784244000 Z
+  updated_at: 2015-09-03 03:25:48.784244000 Z
+Breakpoint_380:
+  id: 380
+  drug: Chloramphenicol
+  s_maximum: 4
+  r_minimum: 16
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.793283000 Z
+  updated_at: 2015-09-03 03:25:48.793283000 Z
+Breakpoint_381:
+  id: 381
+  drug: Clindamycin
+  s_maximum: 0
+  r_minimum: 1
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.801817000 Z
+  updated_at: 2015-09-03 03:25:48.801817000 Z
+Breakpoint_382:
+  id: 382
+  drug: QuinDalfo
+  s_maximum: 1
+  r_minimum: 4
+  organism_code_include: BSA
+  created_at: 2015-09-03 03:25:48.809578000 Z
+  updated_at: 2015-09-03 03:25:48.809578000 Z
+Breakpoint_383:
+  id: 383
+  drug: Linezolid
+  s_maximum: 2
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:48.818145000 Z
+  updated_at: 2015-09-03 03:25:48.818145000 Z
+Breakpoint_384:
+  id: 384
+  drug: Penicillin
+  s_maximum: 0
+  r_minimum: 4
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.827302000 Z
+  updated_at: 2015-09-03 03:25:48.827302000 Z
+Breakpoint_385:
+  id: 385
+  drug: Ampicillin
+  s_maximum: 0
+  r_minimum: 8
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.837128000 Z
+  updated_at: 2015-09-03 03:25:48.837128000 Z
+Breakpoint_386:
+  id: 386
+  drug: Cefepime
+  s_maximum: 1
+  r_minimum: 4
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.844998000 Z
+  updated_at: 2015-09-03 03:25:48.844998000 Z
+Breakpoint_387:
+  id: 387
+  drug: Cefotaxime
+  s_maximum: 1
+  r_minimum: 4
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.856697000 Z
+  updated_at: 2015-09-03 03:25:48.856697000 Z
+Breakpoint_388:
+  id: 388
+  drug: Ceftriaxone
+  s_maximum: 1
+  r_minimum: 4
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.864109000 Z
+  updated_at: 2015-09-03 03:25:48.864109000 Z
+Breakpoint_389:
+  id: 389
+  drug: Doripenem
+  s_maximum: 1
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.872792000 Z
+  updated_at: 2015-09-03 03:25:48.872792000 Z
+Breakpoint_390:
+  id: 390
+  drug: Ertapenem
+  s_maximum: 1
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.881095000 Z
+  updated_at: 2015-09-03 03:25:48.881095000 Z
+Breakpoint_391:
+  id: 391
+  drug: Meropenem
+  s_maximum: 0
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.890073000 Z
+  updated_at: 2015-09-03 03:25:48.890073000 Z
+Breakpoint_392:
+  id: 392
+  drug: Vancomycin
+  s_maximum: 1
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.899795000 Z
+  updated_at: 2015-09-03 03:25:48.899795000 Z
+Breakpoint_393:
+  id: 393
+  drug: Daptomycin
+  s_maximum: 1
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.908979000 Z
+  updated_at: 2015-09-03 03:25:48.908979000 Z
+Breakpoint_394:
+  id: 394
+  drug: Erythromycin
+  s_maximum: 0
+  r_minimum: 1
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.920511000 Z
+  updated_at: 2015-09-03 03:25:48.920511000 Z
+Breakpoint_395:
+  id: 395
+  drug: Azithromycin
+  s_maximum: 0
+  r_minimum: 2
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.930329000 Z
+  updated_at: 2015-09-03 03:25:48.930329000 Z
+Breakpoint_396:
+  id: 396
+  drug: Clarithromycin
+  s_maximum: 0
+  r_minimum: 1
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.937745000 Z
+  updated_at: 2015-09-03 03:25:48.937745000 Z
+Breakpoint_397:
+  id: 397
+  drug: Dirithromycin
+  s_maximum: 0
+  r_minimum: 2
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.945081000 Z
+  updated_at: 2015-09-03 03:25:48.945081000 Z
+Breakpoint_398:
+  id: 398
+  drug: Tetracycline
+  s_maximum: 2
+  r_minimum: 8
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.955485000 Z
+  updated_at: 2015-09-03 03:25:48.955485000 Z
+Breakpoint_399:
+  id: 399
+  drug: Levofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.965482000 Z
+  updated_at: 2015-09-03 03:25:48.965482000 Z
+Breakpoint_400:
+  id: 400
+  drug: Ofloxacin
+  s_maximum: 2
+  r_minimum: 8
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.973384000 Z
+  updated_at: 2015-09-03 03:25:48.973384000 Z
+Breakpoint_401:
+  id: 401
+  drug: Gatifloxacin
+  s_maximum: 1
+  r_minimum: 4
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.982493000 Z
+  updated_at: 2015-09-03 03:25:48.982493000 Z
+Breakpoint_402:
+  id: 402
+  drug: Grepafloxacin
+  s_maximum: 0
+  r_minimum: 2
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:48.992432000 Z
+  updated_at: 2015-09-03 03:25:48.992432000 Z
+Breakpoint_403:
+  id: 403
+  drug: Trova
+  s_maximum: 1
+  r_minimum: 4
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:49.001529000 Z
+  updated_at: 2015-09-03 03:25:49.001529000 Z
+Breakpoint_404:
+  id: 404
+  drug: Chloramphenicol
+  s_maximum: 4
+  r_minimum: 16
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:49.010654000 Z
+  updated_at: 2015-09-03 03:25:49.010654000 Z
+Breakpoint_405:
+  id: 405
+  drug: Clindamycin
+  s_maximum: 0
+  r_minimum: 1
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:49.021908000 Z
+  updated_at: 2015-09-03 03:25:49.021908000 Z
+Breakpoint_406:
+  id: 406
+  drug: QuinDalfo
+  s_maximum: 1
+  r_minimum: 4
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:49.031249000 Z
+  updated_at: 2015-09-03 03:25:49.031249000 Z
+Breakpoint_407:
+  id: 407
+  drug: Linezolid
+  s_maximum: 2
+  organism_group_include: Viridans group streptococci
+  created_at: 2015-09-03 03:25:49.039873000 Z
+  updated_at: 2015-09-03 03:25:49.039873000 Z
+Breakpoint_408:
+  id: 408
+  drug: Penicillin
+  s_maximum: 0
+  r_minimum: 0
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.050798000 Z
+  updated_at: 2015-09-03 03:25:49.050798000 Z
+Breakpoint_409:
+  id: 409
+  drug: Ampicillin
+  s_maximum: 0
+  r_minimum: 2
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.059458000 Z
+  updated_at: 2015-09-03 03:25:49.059458000 Z
+Breakpoint_410:
+  id: 410
+  drug: Cefotaxime
+  s_maximum: 0
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.068718000 Z
+  updated_at: 2015-09-03 03:25:49.068718000 Z
+Breakpoint_411:
+  id: 411
+  drug: Ceftriaxone
+  s_maximum: 0
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.078264000 Z
+  updated_at: 2015-09-03 03:25:49.078264000 Z
+Breakpoint_412:
+  id: 412
+  drug: Meropenem
+  s_maximum: 0
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.088730000 Z
+  updated_at: 2015-09-03 03:25:49.088730000 Z
+Breakpoint_413:
+  id: 413
+  drug: Azithromycin
+  s_maximum: 2
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.097225000 Z
+  updated_at: 2015-09-03 03:25:49.097225000 Z
+Breakpoint_414:
+  id: 414
+  drug: Minocycline
+  s_maximum: 2
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.104289000 Z
+  updated_at: 2015-09-03 03:25:49.104289000 Z
+Breakpoint_415:
+  id: 415
+  drug: Ciprofloxacin
+  s_maximum: 0
+  r_minimum: 0
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.113708000 Z
+  updated_at: 2015-09-03 03:25:49.113708000 Z
+Breakpoint_416:
+  id: 416
+  drug: Levofloxacin
+  s_maximum: 0
+  r_minimum: 0
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.123658000 Z
+  updated_at: 2015-09-03 03:25:49.123658000 Z
+Breakpoint_417:
+  id: 417
+  drug: Sulfisoxazole
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.133215000 Z
+  updated_at: 2015-09-03 03:25:49.133215000 Z
+Breakpoint_418:
+  id: 418
+  drug: TrimSulfa
+  s_maximum: 0
+  r_minimum: 0
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.140841000 Z
+  updated_at: 2015-09-03 03:25:49.140841000 Z
+Breakpoint_419:
+  id: 419
+  drug: Chloramphenicol
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.149956000 Z
+  updated_at: 2015-09-03 03:25:49.149956000 Z
+Breakpoint_420:
+  id: 420
+  drug: Rifampin
+  s_maximum: 0
+  r_minimum: 2
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:49.157854000 Z
+  updated_at: 2015-09-03 03:25:49.157854000 Z
+Breakpoint_421:
+  id: 421
+  drug: Ampicillin
+  s_maximum: 0
+  r_minimum: 2
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.166105000 Z
+  updated_at: 2015-09-03 03:25:49.166105000 Z
+Breakpoint_422:
+  id: 422
+  drug: Penicillin
+  s_maximum: 0
+  r_minimum: 2
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.175423000 Z
+  updated_at: 2015-09-03 03:25:49.175423000 Z
+Breakpoint_423:
+  id: 423
+  drug: Piperacillin
+  s_maximum: 32
+  r_minimum: 128
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.184773000 Z
+  updated_at: 2015-09-03 03:25:49.184773000 Z
+Breakpoint_424:
+  id: 424
+  drug: Ticarcillin
+  s_maximum: 32
+  r_minimum: 128
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.192256000 Z
+  updated_at: 2015-09-03 03:25:49.192256000 Z
+Breakpoint_425:
+  id: 425
+  drug: Mezlocillin
+  s_maximum: 32
+  r_minimum: 128
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.201469000 Z
+  updated_at: 2015-09-03 03:25:49.201469000 Z
+Breakpoint_426:
+  id: 426
+  drug: AmoxClav
+  s_maximum: 4
+  r_minimum: 16
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.213003000 Z
+  updated_at: 2015-09-03 03:25:49.213003000 Z
+Breakpoint_427:
+  id: 427
+  drug: AmpSulb
+  s_maximum: 8
+  r_minimum: 32
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.220640000 Z
+  updated_at: 2015-09-03 03:25:49.220640000 Z
+Breakpoint_428:
+  id: 428
+  drug: PipTazo
+  s_maximum: 32
+  r_minimum: 128
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.228573000 Z
+  updated_at: 2015-09-03 03:25:49.228573000 Z
+Breakpoint_429:
+  id: 429
+  drug: TicClav
+  s_maximum: 32
+  r_minimum: 128
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.236945000 Z
+  updated_at: 2015-09-03 03:25:49.236945000 Z
+Breakpoint_430:
+  id: 430
+  drug: Cefotetan
+  s_maximum: 16
+  r_minimum: 64
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.245711000 Z
+  updated_at: 2015-09-03 03:25:49.245711000 Z
+Breakpoint_431:
+  id: 431
+  drug: Cefoxitin
+  s_maximum: 16
+  r_minimum: 64
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.253104000 Z
+  updated_at: 2015-09-03 03:25:49.253104000 Z
+Breakpoint_432:
+  id: 432
+  drug: Ceftizoxime
+  s_maximum: 32
+  r_minimum: 128
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.261277000 Z
+  updated_at: 2015-09-03 03:25:49.261277000 Z
+Breakpoint_433:
+  id: 433
+  drug: Ceftriaxone
+  s_maximum: 16
+  r_minimum: 64
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.268374000 Z
+  updated_at: 2015-09-03 03:25:49.268374000 Z
+Breakpoint_434:
+  id: 434
+  drug: Cefmetazole
+  s_maximum: 16
+  r_minimum: 64
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.279354000 Z
+  updated_at: 2015-09-03 03:25:49.279354000 Z
+Breakpoint_435:
+  id: 435
+  drug: Cefoperazone
+  s_maximum: 16
+  r_minimum: 64
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.288495000 Z
+  updated_at: 2015-09-03 03:25:49.288495000 Z
+Breakpoint_436:
+  id: 436
+  drug: Cefotaxime
+  s_maximum: 16
+  r_minimum: 64
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.297458000 Z
+  updated_at: 2015-09-03 03:25:49.297458000 Z
+Breakpoint_437:
+  id: 437
+  drug: Doripenem
+  s_maximum: 2
+  r_minimum: 8
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.306132000 Z
+  updated_at: 2015-09-03 03:25:49.306132000 Z
+Breakpoint_438:
+  id: 438
+  drug: Ertapenem
+  s_maximum: 4
+  r_minimum: 16
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.315426000 Z
+  updated_at: 2015-09-03 03:25:49.315426000 Z
+Breakpoint_439:
+  id: 439
+  drug: Imipenem
+  s_maximum: 4
+  r_minimum: 16
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.324748000 Z
+  updated_at: 2015-09-03 03:25:49.324748000 Z
+Breakpoint_440:
+  id: 440
+  drug: Meropenem
+  s_maximum: 4
+  r_minimum: 16
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.332601000 Z
+  updated_at: 2015-09-03 03:25:49.332601000 Z
+Breakpoint_441:
+  id: 441
+  drug: Tetracycline
+  s_maximum: 4
+  r_minimum: 16
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.341476000 Z
+  updated_at: 2015-09-03 03:25:49.341476000 Z
+Breakpoint_442:
+  id: 442
+  drug: Moxifloxacin
+  s_maximum: 2
+  r_minimum: 8
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.349190000 Z
+  updated_at: 2015-09-03 03:25:49.349190000 Z
+Breakpoint_443:
+  id: 443
+  drug: Clindamycin
+  s_maximum: 2
+  r_minimum: 8
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.357210000 Z
+  updated_at: 2015-09-03 03:25:49.357210000 Z
+Breakpoint_444:
+  id: 444
+  drug: Chloramphenicol
+  s_maximum: 8
+  r_minimum: 32
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.364562000 Z
+  updated_at: 2015-09-03 03:25:49.364562000 Z
+Breakpoint_445:
+  id: 445
+  drug: Metronidazole
+  s_maximum: 8
+  r_minimum: 32
+  level_1_include: Anaerobe
+  created_at: 2015-09-03 03:25:49.376253000 Z
+  updated_at: 2015-09-03 03:25:49.376253000 Z
+Breakpoint_446:
+  id: 446
+  drug: Tedizolid100
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: BSA,BSB
+  created_at: 2015-09-03 03:25:49.384628000 Z
+  updated_at: 2015-09-03 03:25:49.384628000 Z
+Breakpoint_447:
+  id: 447
+  drug: Tedizolid100
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: SCON,SMIL,STAN,STIN
+  created_at: 2015-09-03 03:25:49.392973000 Z
+  updated_at: 2015-09-03 03:25:49.392973000 Z
+Breakpoint_448:
+  id: 448
+  drug: Tedizolid100
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: EF
+  created_at: 2015-09-03 03:25:49.402650000 Z
+  updated_at: 2015-09-03 03:25:49.402650000 Z
+Breakpoint_449:
+  id: 449
+  drug: Dalbavancin
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: SA
+  created_at: 2015-09-03 03:25:49.411396000 Z
+  updated_at: 2015-09-03 03:25:49.411396000 Z
+Breakpoint_450:
+  id: 450
+  drug: Dalbavancin
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: BSA,BSB,SCON
+  created_at: 2015-09-03 03:25:49.420034000 Z
+  updated_at: 2015-09-03 03:25:49.420034000 Z
+Breakpoint_451:
+  id: 451
+  drug: Dalbavancin
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_group_include: Beta-haemolytic streptococci
+  organism_code_exclude: BSA,BSB,SCON
+  created_at: 2015-09-03 03:25:49.428662000 Z
+  updated_at: 2015-09-03 03:25:49.428662000 Z
+Breakpoint_452:
+  id: 452
+  drug: Dalbavancin
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_group_include: Viridans group streptococci
+  organism_code_exclude: BSA,BSB,SCON
+  created_at: 2015-09-03 03:25:49.437161000 Z
+  updated_at: 2015-09-03 03:25:49.437161000 Z
+Breakpoint_453:
+  id: 453
+  drug: CeftolTazo
+  s_maximum: 2
+  r_minimum: 8
+  footnote: Breakpoints from FDA Package Insert
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:49.444715000 Z
+  updated_at: 2015-09-03 03:25:49.444715000 Z
+Breakpoint_454:
+  id: 454
+  drug: CeftolTazo
+  s_maximum: 4
+  r_minimum: 16
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:49.454392000 Z
+  updated_at: 2015-09-03 03:25:49.454392000 Z
+Breakpoint_455:
+  id: 455
+  drug: CeftolTazo
+  s_maximum: 8
+  r_minimum: 32
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: SCON,SMIL,SSAG,SSAL,STAN,STIN
+  created_at: 2015-09-03 03:25:49.463763000 Z
+  updated_at: 2015-09-03 03:25:49.463763000 Z
+Breakpoint_456:
+  id: 456
+  drug: CeftolTazo
+  s_maximum: 8
+  r_minimum: 32
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: BF
+  created_at: 2015-09-03 03:25:49.473783000 Z
+  updated_at: 2015-09-03 03:25:49.473783000 Z
+Breakpoint_457:
+  id: 457
+  drug: CXA201
+  s_maximum: 2
+  r_minimum: 8
+  footnote: Breakpoints from FDA Package Insert
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:49.481638000 Z
+  updated_at: 2015-09-03 03:25:49.481638000 Z
+Breakpoint_458:
+  id: 458
+  drug: CXA201
+  s_maximum: 4
+  r_minimum: 16
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:49.489930000 Z
+  updated_at: 2015-09-03 03:25:49.489930000 Z
+Breakpoint_459:
+  id: 459
+  drug: CXA201
+  s_maximum: 8
+  r_minimum: 32
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: SCON,SMIL,SSAG,SSAL,STAN,STIN
+  created_at: 2015-09-03 03:25:49.497806000 Z
+  updated_at: 2015-09-03 03:25:49.497806000 Z
+Breakpoint_460:
+  id: 460
+  drug: CXA201
+  s_maximum: 8
+  r_minimum: 32
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: BF
+  created_at: 2015-09-03 03:25:49.507755000 Z
+  updated_at: 2015-09-03 03:25:49.507755000 Z
+Breakpoint_461:
+  id: 461
+  drug: Oritavancin
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: SA
+  created_at: 2015-09-03 03:25:49.516861000 Z
+  updated_at: 2015-09-03 03:25:49.516861000 Z
+Breakpoint_462:
+  id: 462
+  drug: Oritavancin
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: BSA,BSB,STDY,SCON,SMIL,SSAG,SSAL,STAN,STIN
+  created_at: 2015-09-03 03:25:49.524855000 Z
+  updated_at: 2015-09-03 03:25:49.524855000 Z
+Breakpoint_463:
+  id: 463
+  drug: Oritavancin
+  s_maximum: 0
+  surrogate_drugs: Vancomycin
+  ni_if_surrogate_is: I,R,NS
+  footnote: Report for Vancomycin susceptible only.  Breakpoints from FDA Package
+    Insert.
+  organism_code_include: EF
+  created_at: 2015-09-03 03:25:49.532714000 Z
+  updated_at: 2015-09-03 03:25:49.532714000 Z
+Breakpoint_464:
+  id: 464
+  drug: Telavancin
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: SA
+  created_at: 2015-09-03 03:25:49.540946000 Z
+  updated_at: 2015-09-03 03:25:49.540946000 Z
+Breakpoint_465:
+  id: 465
+  drug: Telavancin
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  organism_code_include: BSA,BSB
+  created_at: 2015-09-03 03:25:49.548550000 Z
+  updated_at: 2015-09-03 03:25:49.548550000 Z
+Breakpoint_466:
+  id: 466
+  drug: Telavancin
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert
+  viridans_group_include: Streptococcus anginosus group
+  created_at: 2015-09-03 03:25:49.558306000 Z
+  updated_at: 2015-09-03 03:25:49.558306000 Z
+Breakpoint_467:
+  id: 467
+  drug: Telavancin
+  s_maximum: 0
+  surrogate_drugs: Vancomycin
+  ni_if_surrogate_is: I,R,NS
+  footnote: Report for Vancomycin susceptible only.  Breakpoints from FDA Package
+    Insert.
+  organism_code_include: EF
+  created_at: 2015-09-03 03:25:49.569826000 Z
+  updated_at: 2015-09-03 03:25:49.569826000 Z
+Breakpoint_468:
+  id: 468
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:49.577519000 Z
+  updated_at: 2015-09-03 03:25:49.577519000 Z
+Breakpoint_469:
+  id: 469
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  r_minimum: 0
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:49.586115000 Z
+  updated_at: 2015-09-03 03:25:49.586115000 Z
+Breakpoint_470:
+  id: 470
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:49.596185000 Z
+  updated_at: 2015-09-03 03:25:49.596185000 Z
+Breakpoint_471:
+  id: 471
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:49.606750000 Z
+  updated_at: 2015-09-03 03:25:49.606750000 Z
+Breakpoint_472:
+  id: 472
+  drug: AnidulafunginCLSI
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:49.616217000 Z
+  updated_at: 2015-09-03 03:25:49.616217000 Z
+Breakpoint_473:
+  id: 473
+  drug: AnidulafunginCLSI
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:49.625263000 Z
+  updated_at: 2015-09-03 03:25:49.625263000 Z
+Breakpoint_474:
+  id: 474
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:49.633306000 Z
+  updated_at: 2015-09-03 03:25:49.633306000 Z
+Breakpoint_475:
+  id: 475
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  r_minimum: 0
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:49.641878000 Z
+  updated_at: 2015-09-03 03:25:49.641878000 Z
+Breakpoint_476:
+  id: 476
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:49.649330000 Z
+  updated_at: 2015-09-03 03:25:49.649330000 Z
+Breakpoint_477:
+  id: 477
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:49.657905000 Z
+  updated_at: 2015-09-03 03:25:49.657905000 Z
+Breakpoint_478:
+  id: 478
+  drug: CaspofunginCLSI
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:49.667272000 Z
+  updated_at: 2015-09-03 03:25:49.667272000 Z
+Breakpoint_479:
+  id: 479
+  drug: CaspofunginCLSI
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:49.676661000 Z
+  updated_at: 2015-09-03 03:25:49.676661000 Z
+Breakpoint_480:
+  id: 480
+  drug: MicafunginCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:49.685896000 Z
+  updated_at: 2015-09-03 03:25:49.685896000 Z
+Breakpoint_481:
+  id: 481
+  drug: MicafunginCLSI
+  s_maximum: 0
+  r_minimum: 0
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:49.694657000 Z
+  updated_at: 2015-09-03 03:25:49.694657000 Z
+Breakpoint_482:
+  id: 482
+  drug: MicafunginCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:49.703722000 Z
+  updated_at: 2015-09-03 03:25:49.703722000 Z
+Breakpoint_483:
+  id: 483
+  drug: MicafunginCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:49.712661000 Z
+  updated_at: 2015-09-03 03:25:49.712661000 Z
+Breakpoint_484:
+  id: 484
+  drug: MicafunginCLSI
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:49.721587000 Z
+  updated_at: 2015-09-03 03:25:49.721587000 Z
+Breakpoint_485:
+  id: 485
+  drug: MicafunginCLSI
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:49.729869000 Z
+  updated_at: 2015-09-03 03:25:49.729869000 Z
+Breakpoint_486:
+  id: 486
+  drug: FluconazoleCLSI
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:49.737236000 Z
+  updated_at: 2015-09-03 03:25:49.737236000 Z
+Breakpoint_487:
+  id: 487
+  drug: FluconazoleCLSI
+  s_maximum: 32
+  r_minimum: 64
+  footnote: Non-resistant interpreted as SDD
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:49.744820000 Z
+  updated_at: 2015-09-03 03:25:49.744820000 Z
+Breakpoint_488:
+  id: 488
+  drug: FluconazoleCLSI
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:49.753526000 Z
+  updated_at: 2015-09-03 03:25:49.753526000 Z
+Breakpoint_489:
+  id: 489
+  drug: FluconazoleCLSI
+  s_maximum: 2
+  r_minimum: 8
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:49.763267000 Z
+  updated_at: 2015-09-03 03:25:49.763267000 Z
+Breakpoint_490:
+  id: 490
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:49.773658000 Z
+  updated_at: 2015-09-03 03:25:49.773658000 Z
+Breakpoint_491:
+  id: 491
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  r_minimum: 2
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:49.781426000 Z
+  updated_at: 2015-09-03 03:25:49.781426000 Z
+Breakpoint_492:
+  id: 492
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:49.789707000 Z
+  updated_at: 2015-09-03 03:25:49.789707000 Z
+Breakpoint_493:
+  id: 493
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  r_minimum: 1
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:49.799974000 Z
+  updated_at: 2015-09-03 03:25:49.799974000 Z
+Breakpoint_494:
+  id: 494
+  drug: Tigecycline
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  organism_code_include: SA
+  created_at: 2015-09-03 03:25:49.809586000 Z
+  updated_at: 2015-09-03 03:25:49.809586000 Z
+Breakpoint_495:
+  id: 495
+  drug: Tigecycline
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  genus_include: Streptococcus
+  organism_code_exclude: SPN
+  created_at: 2015-09-03 03:25:49.817797000 Z
+  updated_at: 2015-09-03 03:25:49.817797000 Z
+Breakpoint_496:
+  id: 496
+  drug: Tigecycline
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:49.826009000 Z
+  updated_at: 2015-09-03 03:25:49.826009000 Z
+Breakpoint_497:
+  id: 497
+  drug: Tigecycline
+  s_maximum: 0
+  surrogate_drugs: Vancomycin
+  ni_if_surrogate_is: I,R,NS
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  organism_code_include: EF
+  created_at: 2015-09-03 03:25:49.834936000 Z
+  updated_at: 2015-09-03 03:25:49.834936000 Z
+Breakpoint_498:
+  id: 498
+  drug: Tigecycline
+  s_maximum: 2
+  r_minimum: 8
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:49.843898000 Z
+  updated_at: 2015-09-03 03:25:49.843898000 Z
+Breakpoint_499:
+  id: 499
+  drug: Tigecycline
+  s_maximum: 2
+  r_minimum: 8
+  delivery_mechanism: MDR
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  master_group_include: Enteric
+  created_at: 2015-09-03 03:25:49.852866000 Z
+  updated_at: 2015-09-03 03:25:49.852866000 Z
+Breakpoint_500:
+  id: 500
+  drug: Tigecycline
+  s_maximum: 0
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  organism_code_include: HI
+  created_at: 2015-09-03 03:25:49.861592000 Z
+  updated_at: 2015-09-03 03:25:49.861592000 Z
+Breakpoint_501:
+  id: 501
+  drug: AmphotericinBCLSI
+  s_maximum: 4
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Flavi
+  created_at: 2015-09-03 03:25:49.869960000 Z
+  updated_at: 2015-09-03 03:25:49.869960000 Z
+Breakpoint_502:
+  id: 502
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Flavi
+  created_at: 2015-09-03 03:25:49.879424000 Z
+  updated_at: 2015-09-03 03:25:49.879424000 Z
+Breakpoint_503:
+  id: 503
+  drug: ItraconazoleCLSI
+  s_maximum: 1
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Flavi
+  created_at: 2015-09-03 03:25:49.891465000 Z
+  updated_at: 2015-09-03 03:25:49.891465000 Z
+Breakpoint_504:
+  id: 504
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Flavi
+  created_at: 2015-09-03 03:25:49.900031000 Z
+  updated_at: 2015-09-03 03:25:49.900031000 Z
+Breakpoint_505:
+  id: 505
+  drug: VoriconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Flavi
+  created_at: 2015-09-03 03:25:49.909134000 Z
+  updated_at: 2015-09-03 03:25:49.909134000 Z
+Breakpoint_506:
+  id: 506
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: ASFM
+  created_at: 2015-09-03 03:25:49.917117000 Z
+  updated_at: 2015-09-03 03:25:49.917117000 Z
+Breakpoint_507:
+  id: 507
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: ASFM
+  created_at: 2015-09-03 03:25:49.924702000 Z
+  updated_at: 2015-09-03 03:25:49.924702000 Z
+Breakpoint_508:
+  id: 508
+  drug: ItraconazoleCLSI
+  s_maximum: 1
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: ASFM
+  created_at: 2015-09-03 03:25:49.931955000 Z
+  updated_at: 2015-09-03 03:25:49.931955000 Z
+Breakpoint_509:
+  id: 509
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: ASFM
+  created_at: 2015-09-03 03:25:49.940862000 Z
+  updated_at: 2015-09-03 03:25:49.940862000 Z
+Breakpoint_510:
+  id: 510
+  drug: VoriconazoleCLSI
+  s_maximum: 1
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: ASFM
+  created_at: 2015-09-03 03:25:49.948671000 Z
+  updated_at: 2015-09-03 03:25:49.948671000 Z
+Breakpoint_511:
+  id: 511
+  drug: AmphotericinBCLSI
+  s_maximum: 4
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Nidulantes
+  created_at: 2015-09-03 03:25:49.957911000 Z
+  updated_at: 2015-09-03 03:25:49.957911000 Z
+Breakpoint_512:
+  id: 512
+  drug: ItraconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Nidulantes
+  created_at: 2015-09-03 03:25:49.965296000 Z
+  updated_at: 2015-09-03 03:25:49.965296000 Z
+Breakpoint_513:
+  id: 513
+  drug: PosaconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Nidulantes
+  created_at: 2015-09-03 03:25:49.972600000 Z
+  updated_at: 2015-09-03 03:25:49.972600000 Z
+Breakpoint_514:
+  id: 514
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Nidulantes
+  created_at: 2015-09-03 03:25:49.982100000 Z
+  updated_at: 2015-09-03 03:25:49.982100000 Z
+Breakpoint_515:
+  id: 515
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Nigri
+  created_at: 2015-09-03 03:25:49.993057000 Z
+  updated_at: 2015-09-03 03:25:49.993057000 Z
+Breakpoint_516:
+  id: 516
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Nigri
+  created_at: 2015-09-03 03:25:50.000377000 Z
+  updated_at: 2015-09-03 03:25:50.000377000 Z
+Breakpoint_517:
+  id: 517
+  drug: ItraconazoleCLSI
+  s_maximum: 4
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Nigri
+  created_at: 2015-09-03 03:25:50.009355000 Z
+  updated_at: 2015-09-03 03:25:50.009355000 Z
+Breakpoint_518:
+  id: 518
+  drug: PosaconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Nigri
+  created_at: 2015-09-03 03:25:50.017951000 Z
+  updated_at: 2015-09-03 03:25:50.017951000 Z
+Breakpoint_519:
+  id: 519
+  drug: VoriconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Nigri
+  created_at: 2015-09-03 03:25:50.027958000 Z
+  updated_at: 2015-09-03 03:25:50.027958000 Z
+Breakpoint_520:
+  id: 520
+  drug: AmphotericinBCLSI
+  s_maximum: 4
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Terrei
+  created_at: 2015-09-03 03:25:50.037192000 Z
+  updated_at: 2015-09-03 03:25:50.037192000 Z
+Breakpoint_521:
+  id: 521
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Terrei
+  created_at: 2015-09-03 03:25:50.044312000 Z
+  updated_at: 2015-09-03 03:25:50.044312000 Z
+Breakpoint_522:
+  id: 522
+  drug: ItraconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Terrei
+  created_at: 2015-09-03 03:25:50.054071000 Z
+  updated_at: 2015-09-03 03:25:50.054071000 Z
+Breakpoint_523:
+  id: 523
+  drug: PosaconazoleCLSI
+  s_maximum: 1
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Terrei
+  created_at: 2015-09-03 03:25:50.062960000 Z
+  updated_at: 2015-09-03 03:25:50.062960000 Z
+Breakpoint_524:
+  id: 524
+  drug: VoriconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Terrei
+  created_at: 2015-09-03 03:25:50.071263000 Z
+  updated_at: 2015-09-03 03:25:50.071263000 Z
+Breakpoint_525:
+  id: 525
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Versicolores
+  created_at: 2015-09-03 03:25:50.079830000 Z
+  updated_at: 2015-09-03 03:25:50.079830000 Z
+Breakpoint_526:
+  id: 526
+  drug: ItraconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Versicolores
+  created_at: 2015-09-03 03:25:50.089716000 Z
+  updated_at: 2015-09-03 03:25:50.089716000 Z
+Breakpoint_527:
+  id: 527
+  drug: PosaconazoleCLSI
+  s_maximum: 4
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Versicolores
+  created_at: 2015-09-03 03:25:50.098038000 Z
+  updated_at: 2015-09-03 03:25:50.098038000 Z
+Breakpoint_528:
+  id: 528
+  drug: VoriconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Aspergillus section Versicolores
+  created_at: 2015-09-03 03:25:50.107297000 Z
+  updated_at: 2015-09-03 03:25:50.107297000 Z
+Breakpoint_529:
+  id: 529
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:50.119169000 Z
+  updated_at: 2015-09-03 03:25:50.119169000 Z
+Breakpoint_530:
+  id: 530
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:50.128066000 Z
+  updated_at: 2015-09-03 03:25:50.128066000 Z
+Breakpoint_531:
+  id: 531
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:50.137344000 Z
+  updated_at: 2015-09-03 03:25:50.137344000 Z
+Breakpoint_532:
+  id: 532
+  drug: FluconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:50.146550000 Z
+  updated_at: 2015-09-03 03:25:50.146550000 Z
+Breakpoint_533:
+  id: 533
+  drug: MicafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:50.156205000 Z
+  updated_at: 2015-09-03 03:25:50.156205000 Z
+Breakpoint_534:
+  id: 534
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:50.165215000 Z
+  updated_at: 2015-09-03 03:25:50.165215000 Z
+Breakpoint_535:
+  id: 535
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CA
+  created_at: 2015-09-03 03:25:50.173685000 Z
+  updated_at: 2015-09-03 03:25:50.173685000 Z
+Breakpoint_536:
+  id: 536
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CDUB
+  created_at: 2015-09-03 03:25:50.181948000 Z
+  updated_at: 2015-09-03 03:25:50.181948000 Z
+Breakpoint_537:
+  id: 537
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CDUB
+  created_at: 2015-09-03 03:25:50.191710000 Z
+  updated_at: 2015-09-03 03:25:50.191710000 Z
+Breakpoint_538:
+  id: 538
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CDUB
+  created_at: 2015-09-03 03:25:50.201412000 Z
+  updated_at: 2015-09-03 03:25:50.201412000 Z
+Breakpoint_539:
+  id: 539
+  drug: FluconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CDUB
+  created_at: 2015-09-03 03:25:50.209780000 Z
+  updated_at: 2015-09-03 03:25:50.209780000 Z
+Breakpoint_540:
+  id: 540
+  drug: MicafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CDUB
+  created_at: 2015-09-03 03:25:50.220144000 Z
+  updated_at: 2015-09-03 03:25:50.220144000 Z
+Breakpoint_541:
+  id: 541
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CDUB
+  created_at: 2015-09-03 03:25:50.228809000 Z
+  updated_at: 2015-09-03 03:25:50.228809000 Z
+Breakpoint_542:
+  id: 542
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CDUB
+  created_at: 2015-09-03 03:25:50.236165000 Z
+  updated_at: 2015-09-03 03:25:50.236165000 Z
+Breakpoint_543:
+  id: 543
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:50.245372000 Z
+  updated_at: 2015-09-03 03:25:50.245372000 Z
+Breakpoint_544:
+  id: 544
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:50.252596000 Z
+  updated_at: 2015-09-03 03:25:50.252596000 Z
+Breakpoint_545:
+  id: 545
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:50.261035000 Z
+  updated_at: 2015-09-03 03:25:50.261035000 Z
+Breakpoint_546:
+  id: 546
+  drug: FluconazoleCLSI
+  s_maximum: 32
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:50.268391000 Z
+  updated_at: 2015-09-03 03:25:50.268391000 Z
+Breakpoint_547:
+  id: 547
+  drug: MicafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:50.277642000 Z
+  updated_at: 2015-09-03 03:25:50.277642000 Z
+Breakpoint_548:
+  id: 548
+  drug: PosaconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:50.285076000 Z
+  updated_at: 2015-09-03 03:25:50.285076000 Z
+Breakpoint_549:
+  id: 549
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGLA
+  created_at: 2015-09-03 03:25:50.293494000 Z
+  updated_at: 2015-09-03 03:25:50.293494000 Z
+Breakpoint_550:
+  id: 550
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:50.301492000 Z
+  updated_at: 2015-09-03 03:25:50.301492000 Z
+Breakpoint_551:
+  id: 551
+  drug: AnidulafunginCLSI
+  s_maximum: 8
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:50.309470000 Z
+  updated_at: 2015-09-03 03:25:50.309470000 Z
+Breakpoint_552:
+  id: 552
+  drug: CaspofunginCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:50.317476000 Z
+  updated_at: 2015-09-03 03:25:50.317476000 Z
+Breakpoint_553:
+  id: 553
+  drug: FluconazoleCLSI
+  s_maximum: 8
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:50.325190000 Z
+  updated_at: 2015-09-03 03:25:50.325190000 Z
+Breakpoint_554:
+  id: 554
+  drug: MicafunginCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:50.332896000 Z
+  updated_at: 2015-09-03 03:25:50.332896000 Z
+Breakpoint_555:
+  id: 555
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:50.340802000 Z
+  updated_at: 2015-09-03 03:25:50.340802000 Z
+Breakpoint_556:
+  id: 556
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CGU
+  created_at: 2015-09-03 03:25:50.349670000 Z
+  updated_at: 2015-09-03 03:25:50.349670000 Z
+Breakpoint_557:
+  id: 557
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKEF
+  created_at: 2015-09-03 03:25:50.356728000 Z
+  updated_at: 2015-09-03 03:25:50.356728000 Z
+Breakpoint_558:
+  id: 558
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKEF
+  created_at: 2015-09-03 03:25:50.365243000 Z
+  updated_at: 2015-09-03 03:25:50.365243000 Z
+Breakpoint_559:
+  id: 559
+  drug: FluconazoleCLSI
+  s_maximum: 1
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKEF
+  created_at: 2015-09-03 03:25:50.374257000 Z
+  updated_at: 2015-09-03 03:25:50.374257000 Z
+Breakpoint_560:
+  id: 560
+  drug: MicafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKEF
+  created_at: 2015-09-03 03:25:50.384104000 Z
+  updated_at: 2015-09-03 03:25:50.384104000 Z
+Breakpoint_561:
+  id: 561
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKEF
+  created_at: 2015-09-03 03:25:50.392682000 Z
+  updated_at: 2015-09-03 03:25:50.392682000 Z
+Breakpoint_562:
+  id: 562
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKEF
+  created_at: 2015-09-03 03:25:50.402536000 Z
+  updated_at: 2015-09-03 03:25:50.402536000 Z
+Breakpoint_563:
+  id: 563
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:50.411551000 Z
+  updated_at: 2015-09-03 03:25:50.411551000 Z
+Breakpoint_564:
+  id: 564
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:50.421110000 Z
+  updated_at: 2015-09-03 03:25:50.421110000 Z
+Breakpoint_565:
+  id: 565
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:50.429097000 Z
+  updated_at: 2015-09-03 03:25:50.429097000 Z
+Breakpoint_566:
+  id: 566
+  drug: FluconazoleCLSI
+  s_maximum: 64
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:50.436826000 Z
+  updated_at: 2015-09-03 03:25:50.436826000 Z
+Breakpoint_567:
+  id: 567
+  drug: MicafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:50.445250000 Z
+  updated_at: 2015-09-03 03:25:50.445250000 Z
+Breakpoint_568:
+  id: 568
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:50.452717000 Z
+  updated_at: 2015-09-03 03:25:50.452717000 Z
+Breakpoint_569:
+  id: 569
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CKRU
+  created_at: 2015-09-03 03:25:50.462191000 Z
+  updated_at: 2015-09-03 03:25:50.462191000 Z
+Breakpoint_570:
+  id: 570
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CLUS
+  created_at: 2015-09-03 03:25:50.469728000 Z
+  updated_at: 2015-09-03 03:25:50.469728000 Z
+Breakpoint_571:
+  id: 571
+  drug: AnidulafunginCLSI
+  s_maximum: 1
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CLUS
+  created_at: 2015-09-03 03:25:50.479294000 Z
+  updated_at: 2015-09-03 03:25:50.479294000 Z
+Breakpoint_572:
+  id: 572
+  drug: CaspofunginCLSI
+  s_maximum: 1
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CLUS
+  created_at: 2015-09-03 03:25:50.489454000 Z
+  updated_at: 2015-09-03 03:25:50.489454000 Z
+Breakpoint_573:
+  id: 573
+  drug: FluconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CLUS
+  created_at: 2015-09-03 03:25:50.498064000 Z
+  updated_at: 2015-09-03 03:25:50.498064000 Z
+Breakpoint_574:
+  id: 574
+  drug: MicafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CLUS
+  created_at: 2015-09-03 03:25:50.509232000 Z
+  updated_at: 2015-09-03 03:25:50.509232000 Z
+Breakpoint_575:
+  id: 575
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CLUS
+  created_at: 2015-09-03 03:25:50.516658000 Z
+  updated_at: 2015-09-03 03:25:50.516658000 Z
+Breakpoint_576:
+  id: 576
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CLUS
+  created_at: 2015-09-03 03:25:50.526018000 Z
+  updated_at: 2015-09-03 03:25:50.526018000 Z
+Breakpoint_577:
+  id: 577
+  drug: FluconazoleCLSI
+  s_maximum: 8
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Cryptococcus neoformans species complex
+  created_at: 2015-09-03 03:25:50.533307000 Z
+  updated_at: 2015-09-03 03:25:50.533307000 Z
+Breakpoint_578:
+  id: 578
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Cryptococcus neoformans species complex
+  created_at: 2015-09-03 03:25:50.541715000 Z
+  updated_at: 2015-09-03 03:25:50.541715000 Z
+Breakpoint_579:
+  id: 579
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  level_3_include: Cryptococcus neoformans species complex
+  created_at: 2015-09-03 03:25:50.548854000 Z
+  updated_at: 2015-09-03 03:25:50.548854000 Z
+Breakpoint_580:
+  id: 580
+  drug: AnidulafunginCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CORT
+  created_at: 2015-09-03 03:25:50.557873000 Z
+  updated_at: 2015-09-03 03:25:50.557873000 Z
+Breakpoint_581:
+  id: 581
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CORT
+  created_at: 2015-09-03 03:25:50.565135000 Z
+  updated_at: 2015-09-03 03:25:50.565135000 Z
+Breakpoint_582:
+  id: 582
+  drug: FluconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CORT
+  created_at: 2015-09-03 03:25:50.573379000 Z
+  updated_at: 2015-09-03 03:25:50.573379000 Z
+Breakpoint_583:
+  id: 583
+  drug: MicafunginCLSI
+  s_maximum: 1
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CORT
+  created_at: 2015-09-03 03:25:50.581756000 Z
+  updated_at: 2015-09-03 03:25:50.581756000 Z
+Breakpoint_584:
+  id: 584
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CORT
+  created_at: 2015-09-03 03:25:50.589669000 Z
+  updated_at: 2015-09-03 03:25:50.589669000 Z
+Breakpoint_585:
+  id: 585
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CORT
+  created_at: 2015-09-03 03:25:50.597501000 Z
+  updated_at: 2015-09-03 03:25:50.597501000 Z
+Breakpoint_586:
+  id: 586
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:50.607518000 Z
+  updated_at: 2015-09-03 03:25:50.607518000 Z
+Breakpoint_587:
+  id: 587
+  drug: AnidulafunginCLSI
+  s_maximum: 8
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:50.617128000 Z
+  updated_at: 2015-09-03 03:25:50.617128000 Z
+Breakpoint_588:
+  id: 588
+  drug: CaspofunginCLSI
+  s_maximum: 1
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:50.625200000 Z
+  updated_at: 2015-09-03 03:25:50.625200000 Z
+Breakpoint_589:
+  id: 589
+  drug: FluconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:50.633493000 Z
+  updated_at: 2015-09-03 03:25:50.633493000 Z
+Breakpoint_590:
+  id: 590
+  drug: MicafunginCLSI
+  s_maximum: 4
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:50.641486000 Z
+  updated_at: 2015-09-03 03:25:50.641486000 Z
+Breakpoint_591:
+  id: 591
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:50.649837000 Z
+  updated_at: 2015-09-03 03:25:50.649837000 Z
+Breakpoint_592:
+  id: 592
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPRP
+  created_at: 2015-09-03 03:25:50.658245000 Z
+  updated_at: 2015-09-03 03:25:50.658245000 Z
+Breakpoint_593:
+  id: 593
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPEL
+  created_at: 2015-09-03 03:25:50.667983000 Z
+  updated_at: 2015-09-03 03:25:50.667983000 Z
+Breakpoint_594:
+  id: 594
+  drug: FluconazoleCLSI
+  s_maximum: 4
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPEL
+  created_at: 2015-09-03 03:25:50.677511000 Z
+  updated_at: 2015-09-03 03:25:50.677511000 Z
+Breakpoint_595:
+  id: 595
+  drug: PosaconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPEL
+  created_at: 2015-09-03 03:25:50.685366000 Z
+  updated_at: 2015-09-03 03:25:50.685366000 Z
+Breakpoint_596:
+  id: 596
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CPEL
+  created_at: 2015-09-03 03:25:50.693430000 Z
+  updated_at: 2015-09-03 03:25:50.693430000 Z
+Breakpoint_597:
+  id: 597
+  drug: AmphotericinBCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:50.701663000 Z
+  updated_at: 2015-09-03 03:25:50.701663000 Z
+Breakpoint_598:
+  id: 598
+  drug: AnidulafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:50.708813000 Z
+  updated_at: 2015-09-03 03:25:50.708813000 Z
+Breakpoint_599:
+  id: 599
+  drug: CaspofunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:50.716000000 Z
+  updated_at: 2015-09-03 03:25:50.716000000 Z
+Breakpoint_600:
+  id: 600
+  drug: FluconazoleCLSI
+  s_maximum: 2
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:50.724847000 Z
+  updated_at: 2015-09-03 03:25:50.724847000 Z
+Breakpoint_601:
+  id: 601
+  drug: MicafunginCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:50.732337000 Z
+  updated_at: 2015-09-03 03:25:50.732337000 Z
+Breakpoint_602:
+  id: 602
+  drug: PosaconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:50.741571000 Z
+  updated_at: 2015-09-03 03:25:50.741571000 Z
+Breakpoint_603:
+  id: 603
+  drug: VoriconazoleCLSI
+  s_maximum: 0
+  delivery_mechanism: ECV
+  footnote: Susceptible means Wild-Type according to ECV value
+  organism_code_include: CTRO
+  created_at: 2015-09-03 03:25:50.749030000 Z
+  updated_at: 2015-09-03 03:25:50.749030000 Z
+Breakpoint_604:
+  id: 604
+  drug: AmoxClav
+  s_maximum: 4
+  r_minimum: 8
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.757582000 Z
+  updated_at: 2015-09-03 03:25:50.757582000 Z
+Breakpoint_605:
+  id: 605
+  drug: Cefaclor
+  s_maximum: 8
+  r_minimum: 32
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.768865000 Z
+  updated_at: 2015-09-03 03:25:50.768865000 Z
+Breakpoint_606:
+  id: 606
+  drug: Cefotaxime
+  s_maximum: 2
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.777181000 Z
+  updated_at: 2015-09-03 03:25:50.777181000 Z
+Breakpoint_607:
+  id: 607
+  drug: Ceftazidime
+  s_maximum: 2
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.784802000 Z
+  updated_at: 2015-09-03 03:25:50.784802000 Z
+Breakpoint_608:
+  id: 608
+  drug: Ceftriaxone
+  s_maximum: 2
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.792628000 Z
+  updated_at: 2015-09-03 03:25:50.792628000 Z
+Breakpoint_609:
+  id: 609
+  drug: Azithromycin
+  s_maximum: 0
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.801395000 Z
+  updated_at: 2015-09-03 03:25:50.801395000 Z
+Breakpoint_610:
+  id: 610
+  drug: Clarithromycin
+  s_maximum: 1
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.809294000 Z
+  updated_at: 2015-09-03 03:25:50.809294000 Z
+Breakpoint_611:
+  id: 611
+  drug: Erythromycin
+  s_maximum: 2
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.818099000 Z
+  updated_at: 2015-09-03 03:25:50.818099000 Z
+Breakpoint_612:
+  id: 612
+  drug: Ciprofloxacin
+  s_maximum: 1
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.828009000 Z
+  updated_at: 2015-09-03 03:25:50.828009000 Z
+Breakpoint_613:
+  id: 613
+  drug: Levofloxacin
+  s_maximum: 2
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.837486000 Z
+  updated_at: 2015-09-03 03:25:50.837486000 Z
+Breakpoint_614:
+  id: 614
+  drug: Tetracycline
+  s_maximum: 2
+  r_minimum: 8
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.844746000 Z
+  updated_at: 2015-09-03 03:25:50.844746000 Z
+Breakpoint_615:
+  id: 615
+  drug: Clindamycin
+  s_maximum: 0
+  r_minimum: 4
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.853357000 Z
+  updated_at: 2015-09-03 03:25:50.853357000 Z
+Breakpoint_616:
+  id: 616
+  drug: TrimSulfa
+  s_maximum: 0
+  r_minimum: 4
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.861354000 Z
+  updated_at: 2015-09-03 03:25:50.861354000 Z
+Breakpoint_617:
+  id: 617
+  drug: Chloramphenicol
+  s_maximum: 2
+  r_minimum: 8
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.868650000 Z
+  updated_at: 2015-09-03 03:25:50.868650000 Z
+Breakpoint_618:
+  id: 618
+  drug: Rifampin
+  s_maximum: 1
+  r_minimum: 4
+  footnote: As published in CLSI M45-A2 August 2010
+  organism_code_include: MCAT
+  created_at: 2015-09-03 03:25:50.877952000 Z
+  updated_at: 2015-09-03 03:25:50.877952000 Z
+Breakpoint_619:
+  id: 619
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_group_include: Beta-haemolytic streptococci
+  created_at: 2015-09-03 03:25:50.887620000 Z
+  updated_at: 2015-09-03 03:25:50.887620000 Z
+Breakpoint_620:
+  id: 620
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  genus_include: Klebsiella
+  created_at: 2015-09-03 03:25:50.899547000 Z
+  updated_at: 2015-09-03 03:25:50.899547000 Z
+Breakpoint_621:
+  id: 621
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  genus_include: Enterobacter
+  created_at: 2015-09-03 03:25:50.910786000 Z
+  updated_at: 2015-09-03 03:25:50.910786000 Z
+Breakpoint_622:
+  id: 622
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  genus_include: Citrobacter
+  created_at: 2015-09-03 03:25:50.919814000 Z
+  updated_at: 2015-09-03 03:25:50.919814000 Z
+Breakpoint_623:
+  id: 623
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  genus_include: Providencia
+  created_at: 2015-09-03 03:25:50.930728000 Z
+  updated_at: 2015-09-03 03:25:50.930728000 Z
+Breakpoint_624:
+  id: 624
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  genus_include: Serratia
+  created_at: 2015-09-03 03:25:50.939944000 Z
+  updated_at: 2015-09-03 03:25:50.939944000 Z
+Breakpoint_625:
+  id: 625
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  genus_include: Salmonella
+  created_at: 2015-09-03 03:25:50.949441000 Z
+  updated_at: 2015-09-03 03:25:50.949441000 Z
+Breakpoint_626:
+  id: 626
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  genus_include: Shigella
+  created_at: 2015-09-03 03:25:50.958654000 Z
+  updated_at: 2015-09-03 03:25:50.958654000 Z
+Breakpoint_627:
+  id: 627
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: SA
+  created_at: 2015-09-03 03:25:50.967751000 Z
+  updated_at: 2015-09-03 03:25:50.967751000 Z
+Breakpoint_628:
+  id: 628
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: SEPI
+  created_at: 2015-09-03 03:25:50.976996000 Z
+  updated_at: 2015-09-03 03:25:50.976996000 Z
+Breakpoint_629:
+  id: 629
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: SPN
+  created_at: 2015-09-03 03:25:50.985820000 Z
+  updated_at: 2015-09-03 03:25:50.985820000 Z
+Breakpoint_630:
+  id: 630
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: BSA
+  created_at: 2015-09-03 03:25:50.996113000 Z
+  updated_at: 2015-09-03 03:25:50.996113000 Z
+Breakpoint_631:
+  id: 631
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: BSB
+  created_at: 2015-09-03 03:25:51.006160000 Z
+  updated_at: 2015-09-03 03:25:51.006160000 Z
+Breakpoint_632:
+  id: 632
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: EF
+  created_at: 2015-09-03 03:25:51.015134000 Z
+  updated_at: 2015-09-03 03:25:51.015134000 Z
+Breakpoint_633:
+  id: 633
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: EC
+  created_at: 2015-09-03 03:25:51.024049000 Z
+  updated_at: 2015-09-03 03:25:51.024049000 Z
+Breakpoint_634:
+  id: 634
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: HI
+  created_at: 2015-09-03 03:25:51.033953000 Z
+  updated_at: 2015-09-03 03:25:51.033953000 Z
+Breakpoint_635:
+  id: 635
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: PM
+  created_at: 2015-09-03 03:25:51.041275000 Z
+  updated_at: 2015-09-03 03:25:51.041275000 Z
+Breakpoint_636:
+  id: 636
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: PV
+  created_at: 2015-09-03 03:25:51.049515000 Z
+  updated_at: 2015-09-03 03:25:51.049515000 Z
+Breakpoint_637:
+  id: 637
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: MM
+  created_at: 2015-09-03 03:25:51.060181000 Z
+  updated_at: 2015-09-03 03:25:51.060181000 Z
+Breakpoint_638:
+  id: 638
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: PVR
+  created_at: 2015-09-03 03:25:51.069311000 Z
+  updated_at: 2015-09-03 03:25:51.069311000 Z
+Breakpoint_639:
+  id: 639
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: PSA
+  created_at: 2015-09-03 03:25:51.077420000 Z
+  updated_at: 2015-09-03 03:25:51.077420000 Z
+Breakpoint_640:
+  id: 640
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: GC
+  created_at: 2015-09-03 03:25:51.085331000 Z
+  updated_at: 2015-09-03 03:25:51.085331000 Z
+Breakpoint_641:
+  id: 641
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: NM
+  created_at: 2015-09-03 03:25:51.093866000 Z
+  updated_at: 2015-09-03 03:25:51.093866000 Z
+Breakpoint_642:
+  id: 642
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: BPER
+  created_at: 2015-09-03 03:25:51.101354000 Z
+  updated_at: 2015-09-03 03:25:51.101354000 Z
+Breakpoint_643:
+  id: 643
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  organism_code_include: YET
+  created_at: 2015-09-03 03:25:51.109409000 Z
+  updated_at: 2015-09-03 03:25:51.109409000 Z
+Breakpoint_644:
+  id: 644
+  drug: CefopSulb
+  s_maximum: 16
+  r_minimum: 64
+  footnote: As published in Summary of Product Characteristics February 2015
+  level_3_include: Acinetobacter baumannii-calcoaceticus species complex
+  created_at: 2015-09-03 03:25:51.117645000 Z
+  updated_at: 2015-09-03 03:25:51.117645000 Z
+Breakpoint_645:
+  id: 645
+  drug: Amoxicillin
+  s_maximum: 0
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.128656000 Z
+  updated_at: 2015-09-03 03:25:51.128656000 Z
+Breakpoint_646:
+  id: 646
+  drug: Ampicillin
+  s_maximum: 0
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.137013000 Z
+  updated_at: 2015-09-03 03:25:51.137013000 Z
+Breakpoint_647:
+  id: 647
+  drug: Penicillin
+  s_maximum: 0
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.144712000 Z
+  updated_at: 2015-09-03 03:25:51.144712000 Z
+Breakpoint_648:
+  id: 648
+  drug: AmoxClav
+  s_maximum: 0
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.153803000 Z
+  updated_at: 2015-09-03 03:25:51.153803000 Z
+Breakpoint_649:
+  id: 649
+  drug: Ceftriaxone
+  s_maximum: 0
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.163628000 Z
+  updated_at: 2015-09-03 03:25:51.163628000 Z
+Breakpoint_650:
+  id: 650
+  drug: Moxifloxacin
+  s_maximum: 0
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.173023000 Z
+  updated_at: 2015-09-03 03:25:51.173023000 Z
+Breakpoint_651:
+  id: 651
+  drug: Levofloxacin
+  s_maximum: 0
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.180488000 Z
+  updated_at: 2015-09-03 03:25:51.180488000 Z
+Breakpoint_652:
+  id: 652
+  drug: Tetracycline
+  s_maximum: 1
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.188931000 Z
+  updated_at: 2015-09-03 03:25:51.188931000 Z
+Breakpoint_653:
+  id: 653
+  drug: Doxycycline
+  s_maximum: 0
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.196397000 Z
+  updated_at: 2015-09-03 03:25:51.196397000 Z
+Breakpoint_654:
+  id: 654
+  drug: Erythromycin
+  s_maximum: 0
+  r_minimum: 2
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.205629000 Z
+  updated_at: 2015-09-03 03:25:51.205629000 Z
+Breakpoint_655:
+  id: 655
+  drug: Azithromycin
+  s_maximum: 1
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.214374000 Z
+  updated_at: 2015-09-03 03:25:51.214374000 Z
+Breakpoint_656:
+  id: 656
+  drug: Chloramphenicol
+  s_maximum: 2
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.224311000 Z
+  updated_at: 2015-09-03 03:25:51.224311000 Z
+Breakpoint_657:
+  id: 657
+  drug: TrimSulfa
+  s_maximum: 0
+  organism_code_include: PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO
+  created_at: 2015-09-03 03:25:51.233572000 Z
+  updated_at: 2015-09-03 03:25:51.233572000 Z
+Breakpoint_658:
+  id: 658
+  drug: Penicillin
+  s_maximum: 1
+  r_minimum: 4
+  infection_type: Non Meningitis
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.241038000 Z
+  updated_at: 2015-09-03 03:25:51.241038000 Z
+Breakpoint_659:
+  id: 659
+  drug: Cefepime
+  s_maximum: 1
+  r_minimum: 4
+  infection_type: Non Meningitis
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.248693000 Z
+  updated_at: 2015-09-03 03:25:51.248693000 Z
+Breakpoint_660:
+  id: 660
+  drug: Cefotaxime
+  s_maximum: 1
+  r_minimum: 4
+  infection_type: Non Meningitis
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.258383000 Z
+  updated_at: 2015-09-03 03:25:51.258383000 Z
+Breakpoint_661:
+  id: 661
+  drug: Ceftriaxone
+  s_maximum: 1
+  r_minimum: 4
+  infection_type: Non Meningitis
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.267986000 Z
+  updated_at: 2015-09-03 03:25:51.267986000 Z
+Breakpoint_662:
+  id: 662
+  drug: Imipenem
+  s_maximum: 4
+  r_minimum: 16
+  infection_type: Non Meningitis
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.277463000 Z
+  updated_at: 2015-09-03 03:25:51.277463000 Z
+Breakpoint_663:
+  id: 663
+  drug: Meropenem
+  s_maximum: 4
+  r_minimum: 16
+  infection_type: Non Meningitis
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.288773000 Z
+  updated_at: 2015-09-03 03:25:51.288773000 Z
+Breakpoint_664:
+  id: 664
+  drug: Vancomycin
+  s_maximum: 2
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.296970000 Z
+  updated_at: 2015-09-03 03:25:51.296970000 Z
+Breakpoint_665:
+  id: 665
+  drug: Daptomycin
+  s_maximum: 1
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.304754000 Z
+  updated_at: 2015-09-03 03:25:51.304754000 Z
+Breakpoint_666:
+  id: 666
+  drug: Gentamicin
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.312833000 Z
+  updated_at: 2015-09-03 03:25:51.312833000 Z
+Breakpoint_667:
+  id: 667
+  drug: Erythromycin
+  s_maximum: 0
+  r_minimum: 2
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.322204000 Z
+  updated_at: 2015-09-03 03:25:51.322204000 Z
+Breakpoint_668:
+  id: 668
+  drug: Ciprofloxacin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.332221000 Z
+  updated_at: 2015-09-03 03:25:51.332221000 Z
+Breakpoint_669:
+  id: 669
+  drug: Doxycycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.340698000 Z
+  updated_at: 2015-09-03 03:25:51.340698000 Z
+Breakpoint_670:
+  id: 670
+  drug: Tetracycline
+  s_maximum: 4
+  r_minimum: 16
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.350269000 Z
+  updated_at: 2015-09-03 03:25:51.350269000 Z
+Breakpoint_671:
+  id: 671
+  drug: Clindamycin
+  s_maximum: 0
+  r_minimum: 4
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.359487000 Z
+  updated_at: 2015-09-03 03:25:51.359487000 Z
+Breakpoint_672:
+  id: 672
+  drug: TrimSulfa
+  s_maximum: 2
+  r_minimum: 4
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.369565000 Z
+  updated_at: 2015-09-03 03:25:51.369565000 Z
+Breakpoint_673:
+  id: 673
+  drug: Rifampin
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.379010000 Z
+  updated_at: 2015-09-03 03:25:51.379010000 Z
+Breakpoint_674:
+  id: 674
+  drug: QuinDalfo
+  s_maximum: 1
+  r_minimum: 4
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.387534000 Z
+  updated_at: 2015-09-03 03:25:51.387534000 Z
+Breakpoint_675:
+  id: 675
+  drug: Linezolid
+  s_maximum: 2
+  genus_include: Corynebacterium
+  created_at: 2015-09-03 03:25:51.396921000 Z
+  updated_at: 2015-09-03 03:25:51.396921000 Z

@@ -1,0 +1,131 @@
+<% @title = "Showing reaction" %>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="form-horizontal">
+                <div class="form-group">
+          <label class="col-md-2 form-label">Authority</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.authority %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Publication</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.publication %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Delivery mechanism</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.delivery_mechanism %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Infection type</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.infection_type %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Isolate</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.isolate_id %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Drug</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.drug_id %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Reaction</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.reaction %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Footnote</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.footnote %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Eligible interpretations</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.eligible_interpretations %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Rule row number</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.rule_row_number %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Used surrogate drug</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.used_surrogate_drug_id %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Used surrogate drug ordinal</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.used_surrogate_drug_ordinal %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-group">
+          <label class="col-md-2 form-label">Used surrogate rule type</label>
+          <div class="col-md-10 form-control uneditable-input">
+            <span>
+              <%= @reaction.used_surrogate_rule_type %>
+            </span>
+          </div>
+        </div>
+
+                <div class="form-actions col-md-offset-2">
+          <%= link_to fa_icon_tag("pencil") + ' Edit', edit_reaction_path(@reaction), class: 'btn btn-primary' %>
+          <%= link_to 'Back', reactions_path, class: 'btn' %>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

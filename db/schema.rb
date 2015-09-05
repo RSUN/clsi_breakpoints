@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150903014123) do
+ActiveRecord::Schema.define(version: 20150905034608) do
 
   create_table "breakpoints", force: :cascade do |t|
     t.string   "drug"
@@ -85,6 +85,42 @@ ActiveRecord::Schema.define(version: 20150903014123) do
     t.datetime "created_at",     null: false
     t.datetime "updated_at",     null: false
     t.string   "genus"
+  end
+
+  create_table "reactions", force: :cascade do |t|
+    t.string   "authority"
+    t.integer  "publication"
+    t.string   "delivery_mechanism"
+    t.string   "infection_type"
+    t.integer  "isolate_id"
+    t.integer  "drug_id"
+    t.string   "reaction"
+    t.string   "footnote"
+    t.string   "eligible_interpretations"
+    t.integer  "rule_row_number"
+    t.integer  "used_surrogate_drug_id"
+    t.string   "used_surrogate_drug_ordinal"
+    t.string   "used_surrogate_rule_type"
+    t.datetime "created_at",                  null: false
+    t.datetime "updated_at",                  null: false
+  end
+
+  create_table "testreactions", force: :cascade do |t|
+    t.string   "authority"
+    t.integer  "publication"
+    t.string   "delivery_mechanism"
+    t.string   "infection_type"
+    t.integer  "isolate_id"
+    t.integer  "drug_id"
+    t.string   "reaction"
+    t.string   "footnote"
+    t.string   "eligible_interpretations"
+    t.integer  "rule_row_number"
+    t.integer  "used_surrogate_drug_id"
+    t.string   "used_surrogate_drug_ordinal"
+    t.string   "used_surrogate_rule_type"
+    t.datetime "created_at",                  null: false
+    t.datetime "updated_at",                  null: false
   end
 
   create_table "users", force: :cascade do |t|

@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :reactions
   resources :breakpoints do
     collection { post :import }
   end
@@ -16,5 +17,5 @@ Rails.application.routes.draw do
   end
   
   devise_for :users
-root 'home#index'
+root 'reactions#index'
 end

@@ -1,0 +1,5768 @@
+---
+Testreaction_1:
+  id: 1
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1020
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S R
+  rule_row_number: 6
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.091090000 Z
+  updated_at: 2015-09-05 15:37:34.091090000 Z
+Testreaction_2:
+  id: 2
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1020
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S R
+  rule_row_number: 6
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.101801000 Z
+  updated_at: 2015-09-05 15:37:34.101801000 Z
+Testreaction_3:
+  id: 3
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1008
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 8
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.110860000 Z
+  updated_at: 2015-09-05 15:37:34.110860000 Z
+Testreaction_4:
+  id: 4
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1008
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 8
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.120058000 Z
+  updated_at: 2015-09-05 15:37:34.120058000 Z
+Testreaction_5:
+  id: 5
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 9
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.128192000 Z
+  updated_at: 2015-09-05 15:37:34.128192000 Z
+Testreaction_6:
+  id: 6
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 9
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.136802000 Z
+  updated_at: 2015-09-05 15:37:34.136802000 Z
+Testreaction_7:
+  id: 7
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24752
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 10
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.144878000 Z
+  updated_at: 2015-09-05 15:37:34.144878000 Z
+Testreaction_8:
+  id: 8
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 20614
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 10
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.152168000 Z
+  updated_at: 2015-09-05 15:37:34.152168000 Z
+Testreaction_9:
+  id: 9
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 13
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.160851000 Z
+  updated_at: 2015-09-05 15:37:34.160851000 Z
+Testreaction_10:
+  id: 10
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 13
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.168866000 Z
+  updated_at: 2015-09-05 15:37:34.168866000 Z
+Testreaction_11:
+  id: 11
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1026
+  reaction: S
+  footnote: Intermediate interpreted as SDD
+  eligible_interpretations: S I R
+  rule_row_number: 15
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.177972000 Z
+  updated_at: 2015-09-05 15:37:34.177972000 Z
+Testreaction_12:
+  id: 12
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1026
+  reaction: S
+  footnote: Intermediate interpreted as SDD
+  eligible_interpretations: S I R
+  rule_row_number: 15
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.185671000 Z
+  updated_at: 2015-09-05 15:37:34.185671000 Z
+Testreaction_13:
+  id: 13
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1041
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 17
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.194690000 Z
+  updated_at: 2015-09-05 15:37:34.194690000 Z
+Testreaction_14:
+  id: 14
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 17
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.203890000 Z
+  updated_at: 2015-09-05 15:37:34.203890000 Z
+Testreaction_15:
+  id: 15
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 20614
+  drug_id: 1041
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 18
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.212931000 Z
+  updated_at: 2015-09-05 15:37:34.212931000 Z
+Testreaction_16:
+  id: 16
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24752
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 18
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.221222000 Z
+  updated_at: 2015-09-05 15:37:34.221222000 Z
+Testreaction_17:
+  id: 17
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1035
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 22
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.229362000 Z
+  updated_at: 2015-09-05 15:37:34.229362000 Z
+Testreaction_18:
+  id: 18
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1035
+  reaction: I
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 22
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.237306000 Z
+  updated_at: 2015-09-05 15:37:34.237306000 Z
+Testreaction_19:
+  id: 19
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1014
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 38
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.245332000 Z
+  updated_at: 2015-09-05 15:37:34.245332000 Z
+Testreaction_20:
+  id: 20
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1014
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 38
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.253483000 Z
+  updated_at: 2015-09-05 15:37:34.253483000 Z
+Testreaction_21:
+  id: 21
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1057
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 39
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.261283000 Z
+  updated_at: 2015-09-05 15:37:34.261283000 Z
+Testreaction_22:
+  id: 22
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1057
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 39
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.269382000 Z
+  updated_at: 2015-09-05 15:37:34.269382000 Z
+Testreaction_23:
+  id: 23
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1072
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 41
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.277809000 Z
+  updated_at: 2015-09-05 15:37:34.277809000 Z
+Testreaction_24:
+  id: 24
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1072
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 41
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.286997000 Z
+  updated_at: 2015-09-05 15:37:34.286997000 Z
+Testreaction_25:
+  id: 25
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1085
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 42
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.296311000 Z
+  updated_at: 2015-09-05 15:37:34.296311000 Z
+Testreaction_26:
+  id: 26
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1085
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 42
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.306023000 Z
+  updated_at: 2015-09-05 15:37:34.306023000 Z
+Testreaction_27:
+  id: 27
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24752
+  drug_id: 1085
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 43
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.315997000 Z
+  updated_at: 2015-09-05 15:37:34.315997000 Z
+Testreaction_28:
+  id: 28
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 20614
+  drug_id: 1085
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 43
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.324844000 Z
+  updated_at: 2015-09-05 15:37:34.324844000 Z
+Testreaction_29:
+  id: 29
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 20614
+  drug_id: 1050
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 44
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.333913000 Z
+  updated_at: 2015-09-05 15:37:34.333913000 Z
+Testreaction_30:
+  id: 30
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24752
+  drug_id: 1050
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 44
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.343248000 Z
+  updated_at: 2015-09-05 15:37:34.343248000 Z
+Testreaction_31:
+  id: 31
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 45
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.352515000 Z
+  updated_at: 2015-09-05 15:37:34.352515000 Z
+Testreaction_32:
+  id: 32
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 45
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.360740000 Z
+  updated_at: 2015-09-05 15:37:34.360740000 Z
+Testreaction_33:
+  id: 33
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24752
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 46
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.369246000 Z
+  updated_at: 2015-09-05 15:37:34.369246000 Z
+Testreaction_34:
+  id: 34
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 20614
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 46
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.378901000 Z
+  updated_at: 2015-09-05 15:37:34.378901000 Z
+Testreaction_35:
+  id: 35
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1128
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 47
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.387682000 Z
+  updated_at: 2015-09-05 15:37:34.387682000 Z
+Testreaction_36:
+  id: 36
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1128
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 47
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.397405000 Z
+  updated_at: 2015-09-05 15:37:34.397405000 Z
+Testreaction_37:
+  id: 37
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1001
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 48
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.405755000 Z
+  updated_at: 2015-09-05 15:37:34.405755000 Z
+Testreaction_38:
+  id: 38
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1001
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 48
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.413821000 Z
+  updated_at: 2015-09-05 15:37:34.413821000 Z
+Testreaction_39:
+  id: 39
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 52
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.422086000 Z
+  updated_at: 2015-09-05 15:37:34.422086000 Z
+Testreaction_40:
+  id: 40
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 52
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.431530000 Z
+  updated_at: 2015-09-05 15:37:34.431530000 Z
+Testreaction_41:
+  id: 41
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 53
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.441579000 Z
+  updated_at: 2015-09-05 15:37:34.441579000 Z
+Testreaction_42:
+  id: 42
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 53
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.451574000 Z
+  updated_at: 2015-09-05 15:37:34.451574000 Z
+Testreaction_43:
+  id: 43
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 54
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.461408000 Z
+  updated_at: 2015-09-05 15:37:34.461408000 Z
+Testreaction_44:
+  id: 44
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 54
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.469882000 Z
+  updated_at: 2015-09-05 15:37:34.469882000 Z
+Testreaction_45:
+  id: 45
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1047
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 55
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.480181000 Z
+  updated_at: 2015-09-05 15:37:34.480181000 Z
+Testreaction_46:
+  id: 46
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1047
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 55
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.489002000 Z
+  updated_at: 2015-09-05 15:37:34.489002000 Z
+Testreaction_47:
+  id: 47
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 56
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.500425000 Z
+  updated_at: 2015-09-05 15:37:34.500425000 Z
+Testreaction_48:
+  id: 48
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 56
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.509013000 Z
+  updated_at: 2015-09-05 15:37:34.509013000 Z
+Testreaction_49:
+  id: 49
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24752
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 57
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.517566000 Z
+  updated_at: 2015-09-05 15:37:34.517566000 Z
+Testreaction_50:
+  id: 50
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 20614
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 57
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.527523000 Z
+  updated_at: 2015-09-05 15:37:34.527523000 Z
+Testreaction_51:
+  id: 51
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 68
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.537310000 Z
+  updated_at: 2015-09-05 15:37:34.537310000 Z
+Testreaction_52:
+  id: 52
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 68
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.545286000 Z
+  updated_at: 2015-09-05 15:37:34.545286000 Z
+Testreaction_53:
+  id: 53
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1020
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S R
+  rule_row_number: 74
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.553602000 Z
+  updated_at: 2015-09-05 15:37:34.553602000 Z
+Testreaction_54:
+  id: 54
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 77
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.563559000 Z
+  updated_at: 2015-09-05 15:37:34.563559000 Z
+Testreaction_55:
+  id: 55
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24753
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 78
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.572860000 Z
+  updated_at: 2015-09-05 15:37:34.572860000 Z
+Testreaction_56:
+  id: 56
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1035
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 80
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.581072000 Z
+  updated_at: 2015-09-05 15:37:34.581072000 Z
+Testreaction_57:
+  id: 57
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24753
+  drug_id: 1035
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 81
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.588391000 Z
+  updated_at: 2015-09-05 15:37:34.588391000 Z
+Testreaction_58:
+  id: 58
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1026
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 82
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.597070000 Z
+  updated_at: 2015-09-05 15:37:34.597070000 Z
+Testreaction_59:
+  id: 59
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1014
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 83
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.604593000 Z
+  updated_at: 2015-09-05 15:37:34.604593000 Z
+Testreaction_60:
+  id: 60
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1057
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 84
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.612811000 Z
+  updated_at: 2015-09-05 15:37:34.612811000 Z
+Testreaction_61:
+  id: 61
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1072
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 85
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.620926000 Z
+  updated_at: 2015-09-05 15:37:34.620926000 Z
+Testreaction_62:
+  id: 62
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1085
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 86
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.629312000 Z
+  updated_at: 2015-09-05 15:37:34.629312000 Z
+Testreaction_63:
+  id: 63
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24753
+  drug_id: 1085
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 87
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.637458000 Z
+  updated_at: 2015-09-05 15:37:34.637458000 Z
+Testreaction_64:
+  id: 64
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1050
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 88
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.645327000 Z
+  updated_at: 2015-09-05 15:37:34.645327000 Z
+Testreaction_65:
+  id: 65
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24753
+  drug_id: 1050
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 89
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.653557000 Z
+  updated_at: 2015-09-05 15:37:34.653557000 Z
+Testreaction_66:
+  id: 66
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 91
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.661091000 Z
+  updated_at: 2015-09-05 15:37:34.661091000 Z
+Testreaction_67:
+  id: 67
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24753
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 92
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.669437000 Z
+  updated_at: 2015-09-05 15:37:34.669437000 Z
+Testreaction_68:
+  id: 68
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1128
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 93
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.678448000 Z
+  updated_at: 2015-09-05 15:37:34.678448000 Z
+Testreaction_69:
+  id: 69
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1001
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 94
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.687928000 Z
+  updated_at: 2015-09-05 15:37:34.687928000 Z
+Testreaction_70:
+  id: 70
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1047
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 96
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.705531000 Z
+  updated_at: 2015-09-05 15:37:34.705531000 Z
+Testreaction_71:
+  id: 71
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 97
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.712791000 Z
+  updated_at: 2015-09-05 15:37:34.712791000 Z
+Testreaction_72:
+  id: 72
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24753
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 98
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.720372000 Z
+  updated_at: 2015-09-05 15:37:34.720372000 Z
+Testreaction_73:
+  id: 73
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.729846000 Z
+  updated_at: 2015-09-05 15:37:34.729846000 Z
+Testreaction_74:
+  id: 74
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.737643000 Z
+  updated_at: 2015-09-05 15:37:34.737643000 Z
+Testreaction_75:
+  id: 75
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.744668000 Z
+  updated_at: 2015-09-05 15:37:34.744668000 Z
+Testreaction_76:
+  id: 76
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.752789000 Z
+  updated_at: 2015-09-05 15:37:34.752789000 Z
+Testreaction_77:
+  id: 77
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.761787000 Z
+  updated_at: 2015-09-05 15:37:34.761787000 Z
+Testreaction_78:
+  id: 78
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.769291000 Z
+  updated_at: 2015-09-05 15:37:34.769291000 Z
+Testreaction_79:
+  id: 79
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.776257000 Z
+  updated_at: 2015-09-05 15:37:34.776257000 Z
+Testreaction_80:
+  id: 80
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.785318000 Z
+  updated_at: 2015-09-05 15:37:34.785318000 Z
+Testreaction_81:
+  id: 81
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.793255000 Z
+  updated_at: 2015-09-05 15:37:34.793255000 Z
+Testreaction_82:
+  id: 82
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.801428000 Z
+  updated_at: 2015-09-05 15:37:34.801428000 Z
+Testreaction_83:
+  id: 83
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.809604000 Z
+  updated_at: 2015-09-05 15:37:34.809604000 Z
+Testreaction_84:
+  id: 84
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.817081000 Z
+  updated_at: 2015-09-05 15:37:34.817081000 Z
+Testreaction_85:
+  id: 85
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1101
+  reaction: R
+  footnote: MRSA reported as resistant
+  eligible_interpretations: S R
+  rule_row_number: 184
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.824824000 Z
+  updated_at: 2015-09-05 15:37:34.824824000 Z
+Testreaction_86:
+  id: 86
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1100
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 212
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.832924000 Z
+  updated_at: 2015-09-05 15:37:34.832924000 Z
+Testreaction_87:
+  id: 87
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1100
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 212
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.840540000 Z
+  updated_at: 2015-09-05 15:37:34.840540000 Z
+Testreaction_88:
+  id: 88
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1100
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 212
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.849349000 Z
+  updated_at: 2015-09-05 15:37:34.849349000 Z
+Testreaction_89:
+  id: 89
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1100
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 212
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.857411000 Z
+  updated_at: 2015-09-05 15:37:34.857411000 Z
+Testreaction_90:
+  id: 90
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1100
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 212
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.864927000 Z
+  updated_at: 2015-09-05 15:37:34.864927000 Z
+Testreaction_91:
+  id: 91
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1100
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 212
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.872307000 Z
+  updated_at: 2015-09-05 15:37:34.872307000 Z
+Testreaction_92:
+  id: 92
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1100
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 212
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.881291000 Z
+  updated_at: 2015-09-05 15:37:34.881291000 Z
+Testreaction_93:
+  id: 93
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1100
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 212
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.889008000 Z
+  updated_at: 2015-09-05 15:37:34.889008000 Z
+Testreaction_94:
+  id: 94
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1100
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 212
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.896652000 Z
+  updated_at: 2015-09-05 15:37:34.896652000 Z
+Testreaction_95:
+  id: 95
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1100
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 214
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.907595000 Z
+  updated_at: 2015-09-05 15:37:34.907595000 Z
+Testreaction_96:
+  id: 96
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1100
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 214
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.915987000 Z
+  updated_at: 2015-09-05 15:37:34.915987000 Z
+Testreaction_97:
+  id: 97
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1100
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 214
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.924063000 Z
+  updated_at: 2015-09-05 15:37:34.924063000 Z
+Testreaction_98:
+  id: 98
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1100
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 214
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.932872000 Z
+  updated_at: 2015-09-05 15:37:34.932872000 Z
+Testreaction_99:
+  id: 99
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.940196000 Z
+  updated_at: 2015-09-05 15:37:34.940196000 Z
+Testreaction_100:
+  id: 100
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.948907000 Z
+  updated_at: 2015-09-05 15:37:34.948907000 Z
+Testreaction_101:
+  id: 101
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.956336000 Z
+  updated_at: 2015-09-05 15:37:34.956336000 Z
+Testreaction_102:
+  id: 102
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.965959000 Z
+  updated_at: 2015-09-05 15:37:34.965959000 Z
+Testreaction_103:
+  id: 103
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.974942000 Z
+  updated_at: 2015-09-05 15:37:34.974942000 Z
+Testreaction_104:
+  id: 104
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.983628000 Z
+  updated_at: 2015-09-05 15:37:34.983628000 Z
+Testreaction_105:
+  id: 105
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:34.992437000 Z
+  updated_at: 2015-09-05 15:37:34.992437000 Z
+Testreaction_106:
+  id: 106
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.001486000 Z
+  updated_at: 2015-09-05 15:37:35.001486000 Z
+Testreaction_107:
+  id: 107
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1034
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.009178000 Z
+  updated_at: 2015-09-05 15:37:35.009178000 Z
+Testreaction_108:
+  id: 108
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1034
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 215
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.017600000 Z
+  updated_at: 2015-09-05 15:37:35.017600000 Z
+Testreaction_109:
+  id: 109
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 216
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.025366000 Z
+  updated_at: 2015-09-05 15:37:35.025366000 Z
+Testreaction_110:
+  id: 110
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 216
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.032628000 Z
+  updated_at: 2015-09-05 15:37:35.032628000 Z
+Testreaction_111:
+  id: 111
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 216
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.041910000 Z
+  updated_at: 2015-09-05 15:37:35.041910000 Z
+Testreaction_112:
+  id: 112
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 216
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.048967000 Z
+  updated_at: 2015-09-05 15:37:35.048967000 Z
+Testreaction_113:
+  id: 113
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 216
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.056414000 Z
+  updated_at: 2015-09-05 15:37:35.056414000 Z
+Testreaction_114:
+  id: 114
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 216
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.064893000 Z
+  updated_at: 2015-09-05 15:37:35.064893000 Z
+Testreaction_115:
+  id: 115
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 216
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.073178000 Z
+  updated_at: 2015-09-05 15:37:35.073178000 Z
+Testreaction_116:
+  id: 116
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 216
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.081314000 Z
+  updated_at: 2015-09-05 15:37:35.081314000 Z
+Testreaction_117:
+  id: 117
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 216
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.089054000 Z
+  updated_at: 2015-09-05 15:37:35.089054000 Z
+Testreaction_118:
+  id: 118
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 217
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.097647000 Z
+  updated_at: 2015-09-05 15:37:35.097647000 Z
+Testreaction_119:
+  id: 119
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 217
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.105987000 Z
+  updated_at: 2015-09-05 15:37:35.105987000 Z
+Testreaction_120:
+  id: 120
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 217
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.115332000 Z
+  updated_at: 2015-09-05 15:37:35.115332000 Z
+Testreaction_121:
+  id: 121
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 217
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.124210000 Z
+  updated_at: 2015-09-05 15:37:35.124210000 Z
+Testreaction_122:
+  id: 122
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.133156000 Z
+  updated_at: 2015-09-05 15:37:35.133156000 Z
+Testreaction_123:
+  id: 123
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.140749000 Z
+  updated_at: 2015-09-05 15:37:35.140749000 Z
+Testreaction_124:
+  id: 124
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.148100000 Z
+  updated_at: 2015-09-05 15:37:35.148100000 Z
+Testreaction_125:
+  id: 125
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.157199000 Z
+  updated_at: 2015-09-05 15:37:35.157199000 Z
+Testreaction_126:
+  id: 126
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.165315000 Z
+  updated_at: 2015-09-05 15:37:35.165315000 Z
+Testreaction_127:
+  id: 127
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.173993000 Z
+  updated_at: 2015-09-05 15:37:35.173993000 Z
+Testreaction_128:
+  id: 128
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.183564000 Z
+  updated_at: 2015-09-05 15:37:35.183564000 Z
+Testreaction_129:
+  id: 129
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.192425000 Z
+  updated_at: 2015-09-05 15:37:35.192425000 Z
+Testreaction_130:
+  id: 130
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.201082000 Z
+  updated_at: 2015-09-05 15:37:35.201082000 Z
+Testreaction_131:
+  id: 131
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.208808000 Z
+  updated_at: 2015-09-05 15:37:35.208808000 Z
+Testreaction_132:
+  id: 132
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.215858000 Z
+  updated_at: 2015-09-05 15:37:35.215858000 Z
+Testreaction_133:
+  id: 133
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.224649000 Z
+  updated_at: 2015-09-05 15:37:35.224649000 Z
+Testreaction_134:
+  id: 134
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 218
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.232989000 Z
+  updated_at: 2015-09-05 15:37:35.232989000 Z
+Testreaction_135:
+  id: 135
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.240611000 Z
+  updated_at: 2015-09-05 15:37:35.240611000 Z
+Testreaction_136:
+  id: 136
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.249464000 Z
+  updated_at: 2015-09-05 15:37:35.249464000 Z
+Testreaction_137:
+  id: 137
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.257190000 Z
+  updated_at: 2015-09-05 15:37:35.257190000 Z
+Testreaction_138:
+  id: 138
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.264832000 Z
+  updated_at: 2015-09-05 15:37:35.264832000 Z
+Testreaction_139:
+  id: 139
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.272198000 Z
+  updated_at: 2015-09-05 15:37:35.272198000 Z
+Testreaction_140:
+  id: 140
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.281344000 Z
+  updated_at: 2015-09-05 15:37:35.281344000 Z
+Testreaction_141:
+  id: 141
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.289247000 Z
+  updated_at: 2015-09-05 15:37:35.289247000 Z
+Testreaction_142:
+  id: 142
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.297232000 Z
+  updated_at: 2015-09-05 15:37:35.297232000 Z
+Testreaction_143:
+  id: 143
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.304500000 Z
+  updated_at: 2015-09-05 15:37:35.304500000 Z
+Testreaction_144:
+  id: 144
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.313798000 Z
+  updated_at: 2015-09-05 15:37:35.313798000 Z
+Testreaction_145:
+  id: 145
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.323415000 Z
+  updated_at: 2015-09-05 15:37:35.323415000 Z
+Testreaction_146:
+  id: 146
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.332574000 Z
+  updated_at: 2015-09-05 15:37:35.332574000 Z
+Testreaction_147:
+  id: 147
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 219
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.342068000 Z
+  updated_at: 2015-09-05 15:37:35.342068000 Z
+Testreaction_148:
+  id: 148
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.351178000 Z
+  updated_at: 2015-09-05 15:37:35.351178000 Z
+Testreaction_149:
+  id: 149
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.359725000 Z
+  updated_at: 2015-09-05 15:37:35.359725000 Z
+Testreaction_150:
+  id: 150
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.368530000 Z
+  updated_at: 2015-09-05 15:37:35.368530000 Z
+Testreaction_151:
+  id: 151
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.377382000 Z
+  updated_at: 2015-09-05 15:37:35.377382000 Z
+Testreaction_152:
+  id: 152
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.385129000 Z
+  updated_at: 2015-09-05 15:37:35.385129000 Z
+Testreaction_153:
+  id: 153
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.393298000 Z
+  updated_at: 2015-09-05 15:37:35.393298000 Z
+Testreaction_154:
+  id: 154
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.400795000 Z
+  updated_at: 2015-09-05 15:37:35.400795000 Z
+Testreaction_155:
+  id: 155
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.407708000 Z
+  updated_at: 2015-09-05 15:37:35.407708000 Z
+Testreaction_156:
+  id: 156
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.418416000 Z
+  updated_at: 2015-09-05 15:37:35.418416000 Z
+Testreaction_157:
+  id: 157
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.427220000 Z
+  updated_at: 2015-09-05 15:37:35.427220000 Z
+Testreaction_158:
+  id: 158
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1069
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.435383000 Z
+  updated_at: 2015-09-05 15:37:35.435383000 Z
+Testreaction_159:
+  id: 159
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1069
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.444044000 Z
+  updated_at: 2015-09-05 15:37:35.444044000 Z
+Testreaction_160:
+  id: 160
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1069
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.453214000 Z
+  updated_at: 2015-09-05 15:37:35.453214000 Z
+Testreaction_161:
+  id: 161
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1069
+  reaction: I
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 220
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.461862000 Z
+  updated_at: 2015-09-05 15:37:35.461862000 Z
+Testreaction_162:
+  id: 162
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1001
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 221
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.470641000 Z
+  updated_at: 2015-09-05 15:37:35.470641000 Z
+Testreaction_163:
+  id: 163
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1128
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 224
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.479546000 Z
+  updated_at: 2015-09-05 15:37:35.479546000 Z
+Testreaction_164:
+  id: 164
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1013
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.489188000 Z
+  updated_at: 2015-09-05 15:37:35.489188000 Z
+Testreaction_165:
+  id: 165
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1013
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.496548000 Z
+  updated_at: 2015-09-05 15:37:35.496548000 Z
+Testreaction_166:
+  id: 166
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1013
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.504988000 Z
+  updated_at: 2015-09-05 15:37:35.504988000 Z
+Testreaction_167:
+  id: 167
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1013
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.513204000 Z
+  updated_at: 2015-09-05 15:37:35.513204000 Z
+Testreaction_168:
+  id: 168
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1013
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.520679000 Z
+  updated_at: 2015-09-05 15:37:35.520679000 Z
+Testreaction_169:
+  id: 169
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1013
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.529498000 Z
+  updated_at: 2015-09-05 15:37:35.529498000 Z
+Testreaction_170:
+  id: 170
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1013
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.537052000 Z
+  updated_at: 2015-09-05 15:37:35.537052000 Z
+Testreaction_171:
+  id: 171
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1013
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.544630000 Z
+  updated_at: 2015-09-05 15:37:35.544630000 Z
+Testreaction_172:
+  id: 172
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1013
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.554343000 Z
+  updated_at: 2015-09-05 15:37:35.554343000 Z
+Testreaction_173:
+  id: 173
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1013
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.563078000 Z
+  updated_at: 2015-09-05 15:37:35.563078000 Z
+Testreaction_174:
+  id: 174
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1013
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.571170000 Z
+  updated_at: 2015-09-05 15:37:35.571170000 Z
+Testreaction_175:
+  id: 175
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1013
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.579854000 Z
+  updated_at: 2015-09-05 15:37:35.579854000 Z
+Testreaction_176:
+  id: 176
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1013
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 225
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.589387000 Z
+  updated_at: 2015-09-05 15:37:35.589387000 Z
+Testreaction_177:
+  id: 177
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1060
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.596992000 Z
+  updated_at: 2015-09-05 15:37:35.596992000 Z
+Testreaction_178:
+  id: 178
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1060
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.604906000 Z
+  updated_at: 2015-09-05 15:37:35.604906000 Z
+Testreaction_179:
+  id: 179
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1060
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.612232000 Z
+  updated_at: 2015-09-05 15:37:35.612232000 Z
+Testreaction_180:
+  id: 180
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1060
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.621161000 Z
+  updated_at: 2015-09-05 15:37:35.621161000 Z
+Testreaction_181:
+  id: 181
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1060
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.628747000 Z
+  updated_at: 2015-09-05 15:37:35.628747000 Z
+Testreaction_182:
+  id: 182
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1060
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.636585000 Z
+  updated_at: 2015-09-05 15:37:35.636585000 Z
+Testreaction_183:
+  id: 183
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1060
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.644827000 Z
+  updated_at: 2015-09-05 15:37:35.644827000 Z
+Testreaction_184:
+  id: 184
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1060
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.654019000 Z
+  updated_at: 2015-09-05 15:37:35.654019000 Z
+Testreaction_185:
+  id: 185
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1060
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.664326000 Z
+  updated_at: 2015-09-05 15:37:35.664326000 Z
+Testreaction_186:
+  id: 186
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1060
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.673525000 Z
+  updated_at: 2015-09-05 15:37:35.673525000 Z
+Testreaction_187:
+  id: 187
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1060
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.681922000 Z
+  updated_at: 2015-09-05 15:37:35.681922000 Z
+Testreaction_188:
+  id: 188
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1060
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.690989000 Z
+  updated_at: 2015-09-05 15:37:35.690989000 Z
+Testreaction_189:
+  id: 189
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1060
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 227
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.700149000 Z
+  updated_at: 2015-09-05 15:37:35.700149000 Z
+Testreaction_190:
+  id: 190
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.709825000 Z
+  updated_at: 2015-09-05 15:37:35.709825000 Z
+Testreaction_191:
+  id: 191
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.717186000 Z
+  updated_at: 2015-09-05 15:37:35.717186000 Z
+Testreaction_192:
+  id: 192
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.725414000 Z
+  updated_at: 2015-09-05 15:37:35.725414000 Z
+Testreaction_193:
+  id: 193
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.732896000 Z
+  updated_at: 2015-09-05 15:37:35.732896000 Z
+Testreaction_194:
+  id: 194
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.740541000 Z
+  updated_at: 2015-09-05 15:37:35.740541000 Z
+Testreaction_195:
+  id: 195
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.751833000 Z
+  updated_at: 2015-09-05 15:37:35.751833000 Z
+Testreaction_196:
+  id: 196
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.760866000 Z
+  updated_at: 2015-09-05 15:37:35.760866000 Z
+Testreaction_197:
+  id: 197
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.768337000 Z
+  updated_at: 2015-09-05 15:37:35.768337000 Z
+Testreaction_198:
+  id: 198
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.776746000 Z
+  updated_at: 2015-09-05 15:37:35.776746000 Z
+Testreaction_199:
+  id: 199
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.785128000 Z
+  updated_at: 2015-09-05 15:37:35.785128000 Z
+Testreaction_200:
+  id: 200
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.792209000 Z
+  updated_at: 2015-09-05 15:37:35.792209000 Z
+Testreaction_201:
+  id: 201
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1124
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.801297000 Z
+  updated_at: 2015-09-05 15:37:35.801297000 Z
+Testreaction_202:
+  id: 202
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1124
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.809284000 Z
+  updated_at: 2015-09-05 15:37:35.809284000 Z
+Testreaction_203:
+  id: 203
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1124
+  reaction: I
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 230
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.817378000 Z
+  updated_at: 2015-09-05 15:37:35.817378000 Z
+Testreaction_204:
+  id: 204
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.825177000 Z
+  updated_at: 2015-09-05 15:37:35.825177000 Z
+Testreaction_205:
+  id: 205
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.833229000 Z
+  updated_at: 2015-09-05 15:37:35.833229000 Z
+Testreaction_206:
+  id: 206
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.841060000 Z
+  updated_at: 2015-09-05 15:37:35.841060000 Z
+Testreaction_207:
+  id: 207
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.849426000 Z
+  updated_at: 2015-09-05 15:37:35.849426000 Z
+Testreaction_208:
+  id: 208
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.857547000 Z
+  updated_at: 2015-09-05 15:37:35.857547000 Z
+Testreaction_209:
+  id: 209
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.865743000 Z
+  updated_at: 2015-09-05 15:37:35.865743000 Z
+Testreaction_210:
+  id: 210
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.873286000 Z
+  updated_at: 2015-09-05 15:37:35.873286000 Z
+Testreaction_211:
+  id: 211
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.881201000 Z
+  updated_at: 2015-09-05 15:37:35.881201000 Z
+Testreaction_212:
+  id: 212
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.888465000 Z
+  updated_at: 2015-09-05 15:37:35.888465000 Z
+Testreaction_213:
+  id: 213
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.897673000 Z
+  updated_at: 2015-09-05 15:37:35.897673000 Z
+Testreaction_214:
+  id: 214
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.906115000 Z
+  updated_at: 2015-09-05 15:37:35.906115000 Z
+Testreaction_215:
+  id: 215
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.915307000 Z
+  updated_at: 2015-09-05 15:37:35.915307000 Z
+Testreaction_216:
+  id: 216
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.923617000 Z
+  updated_at: 2015-09-05 15:37:35.923617000 Z
+Testreaction_217:
+  id: 217
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1058
+  reaction: I
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 231
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.932645000 Z
+  updated_at: 2015-09-05 15:37:35.932645000 Z
+Testreaction_218:
+  id: 218
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.942363000 Z
+  updated_at: 2015-09-05 15:37:35.942363000 Z
+Testreaction_219:
+  id: 219
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.949404000 Z
+  updated_at: 2015-09-05 15:37:35.949404000 Z
+Testreaction_220:
+  id: 220
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.956876000 Z
+  updated_at: 2015-09-05 15:37:35.956876000 Z
+Testreaction_221:
+  id: 221
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.964407000 Z
+  updated_at: 2015-09-05 15:37:35.964407000 Z
+Testreaction_222:
+  id: 222
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.973025000 Z
+  updated_at: 2015-09-05 15:37:35.973025000 Z
+Testreaction_223:
+  id: 223
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.981643000 Z
+  updated_at: 2015-09-05 15:37:35.981643000 Z
+Testreaction_224:
+  id: 224
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.989377000 Z
+  updated_at: 2015-09-05 15:37:35.989377000 Z
+Testreaction_225:
+  id: 225
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:35.998015000 Z
+  updated_at: 2015-09-05 15:37:35.998015000 Z
+Testreaction_226:
+  id: 226
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.007605000 Z
+  updated_at: 2015-09-05 15:37:36.007605000 Z
+Testreaction_227:
+  id: 227
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.016081000 Z
+  updated_at: 2015-09-05 15:37:36.016081000 Z
+Testreaction_228:
+  id: 228
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.027876000 Z
+  updated_at: 2015-09-05 15:37:36.027876000 Z
+Testreaction_229:
+  id: 229
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.037004000 Z
+  updated_at: 2015-09-05 15:37:36.037004000 Z
+Testreaction_230:
+  id: 230
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.044652000 Z
+  updated_at: 2015-09-05 15:37:36.044652000 Z
+Testreaction_231:
+  id: 231
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1090
+  reaction: I
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 232
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.053649000 Z
+  updated_at: 2015-09-05 15:37:36.053649000 Z
+Testreaction_232:
+  id: 232
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1047
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 233
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.061548000 Z
+  updated_at: 2015-09-05 15:37:36.061548000 Z
+Testreaction_233:
+  id: 233
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.069211000 Z
+  updated_at: 2015-09-05 15:37:36.069211000 Z
+Testreaction_234:
+  id: 234
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.076624000 Z
+  updated_at: 2015-09-05 15:37:36.076624000 Z
+Testreaction_235:
+  id: 235
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.085535000 Z
+  updated_at: 2015-09-05 15:37:36.085535000 Z
+Testreaction_236:
+  id: 236
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.093572000 Z
+  updated_at: 2015-09-05 15:37:36.093572000 Z
+Testreaction_237:
+  id: 237
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.100706000 Z
+  updated_at: 2015-09-05 15:37:36.100706000 Z
+Testreaction_238:
+  id: 238
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.110149000 Z
+  updated_at: 2015-09-05 15:37:36.110149000 Z
+Testreaction_239:
+  id: 239
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.119032000 Z
+  updated_at: 2015-09-05 15:37:36.119032000 Z
+Testreaction_240:
+  id: 240
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.127369000 Z
+  updated_at: 2015-09-05 15:37:36.127369000 Z
+Testreaction_241:
+  id: 241
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1080
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.136640000 Z
+  updated_at: 2015-09-05 15:37:36.136640000 Z
+Testreaction_242:
+  id: 242
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1080
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.145284000 Z
+  updated_at: 2015-09-05 15:37:36.145284000 Z
+Testreaction_243:
+  id: 243
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1080
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.152369000 Z
+  updated_at: 2015-09-05 15:37:36.152369000 Z
+Testreaction_244:
+  id: 244
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1080
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.161075000 Z
+  updated_at: 2015-09-05 15:37:36.161075000 Z
+Testreaction_245:
+  id: 245
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1080
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.168357000 Z
+  updated_at: 2015-09-05 15:37:36.168357000 Z
+Testreaction_246:
+  id: 246
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1080
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 234
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.177485000 Z
+  updated_at: 2015-09-05 15:37:36.177485000 Z
+Testreaction_247:
+  id: 247
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1049
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.186000000 Z
+  updated_at: 2015-09-05 15:37:36.186000000 Z
+Testreaction_248:
+  id: 248
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1049
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.194969000 Z
+  updated_at: 2015-09-05 15:37:36.194969000 Z
+Testreaction_249:
+  id: 249
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1049
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.204060000 Z
+  updated_at: 2015-09-05 15:37:36.204060000 Z
+Testreaction_250:
+  id: 250
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1049
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.212302000 Z
+  updated_at: 2015-09-05 15:37:36.212302000 Z
+Testreaction_251:
+  id: 251
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1049
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.221214000 Z
+  updated_at: 2015-09-05 15:37:36.221214000 Z
+Testreaction_252:
+  id: 252
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1049
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.228515000 Z
+  updated_at: 2015-09-05 15:37:36.228515000 Z
+Testreaction_253:
+  id: 253
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1049
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.237708000 Z
+  updated_at: 2015-09-05 15:37:36.237708000 Z
+Testreaction_254:
+  id: 254
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1049
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.244791000 Z
+  updated_at: 2015-09-05 15:37:36.244791000 Z
+Testreaction_255:
+  id: 255
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1049
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.252602000 Z
+  updated_at: 2015-09-05 15:37:36.252602000 Z
+Testreaction_256:
+  id: 256
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1049
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.261746000 Z
+  updated_at: 2015-09-05 15:37:36.261746000 Z
+Testreaction_257:
+  id: 257
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1049
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.270673000 Z
+  updated_at: 2015-09-05 15:37:36.270673000 Z
+Testreaction_258:
+  id: 258
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1049
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.279178000 Z
+  updated_at: 2015-09-05 15:37:36.279178000 Z
+Testreaction_259:
+  id: 259
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1049
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 245
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.288032000 Z
+  updated_at: 2015-09-05 15:37:36.288032000 Z
+Testreaction_260:
+  id: 260
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.297563000 Z
+  updated_at: 2015-09-05 15:37:36.297563000 Z
+Testreaction_261:
+  id: 261
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.305681000 Z
+  updated_at: 2015-09-05 15:37:36.305681000 Z
+Testreaction_262:
+  id: 262
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.314461000 Z
+  updated_at: 2015-09-05 15:37:36.314461000 Z
+Testreaction_263:
+  id: 263
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.323428000 Z
+  updated_at: 2015-09-05 15:37:36.323428000 Z
+Testreaction_264:
+  id: 264
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.332098000 Z
+  updated_at: 2015-09-05 15:37:36.332098000 Z
+Testreaction_265:
+  id: 265
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.340816000 Z
+  updated_at: 2015-09-05 15:37:36.340816000 Z
+Testreaction_266:
+  id: 266
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.349430000 Z
+  updated_at: 2015-09-05 15:37:36.349430000 Z
+Testreaction_267:
+  id: 267
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.358040000 Z
+  updated_at: 2015-09-05 15:37:36.358040000 Z
+Testreaction_268:
+  id: 268
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.367080000 Z
+  updated_at: 2015-09-05 15:37:36.367080000 Z
+Testreaction_269:
+  id: 269
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.376150000 Z
+  updated_at: 2015-09-05 15:37:36.376150000 Z
+Testreaction_270:
+  id: 270
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1129
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.385658000 Z
+  updated_at: 2015-09-05 15:37:36.385658000 Z
+Testreaction_271:
+  id: 271
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1129
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.393083000 Z
+  updated_at: 2015-09-05 15:37:36.393083000 Z
+Testreaction_272:
+  id: 272
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1129
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.400096000 Z
+  updated_at: 2015-09-05 15:37:36.400096000 Z
+Testreaction_273:
+  id: 273
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1129
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 246
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.408132000 Z
+  updated_at: 2015-09-05 15:37:36.408132000 Z
+Testreaction_274:
+  id: 274
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.416671000 Z
+  updated_at: 2015-09-05 15:37:36.416671000 Z
+Testreaction_275:
+  id: 275
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.425690000 Z
+  updated_at: 2015-09-05 15:37:36.425690000 Z
+Testreaction_276:
+  id: 276
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.433783000 Z
+  updated_at: 2015-09-05 15:37:36.433783000 Z
+Testreaction_277:
+  id: 277
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.443063000 Z
+  updated_at: 2015-09-05 15:37:36.443063000 Z
+Testreaction_278:
+  id: 278
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.452409000 Z
+  updated_at: 2015-09-05 15:37:36.452409000 Z
+Testreaction_279:
+  id: 279
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.462132000 Z
+  updated_at: 2015-09-05 15:37:36.462132000 Z
+Testreaction_280:
+  id: 280
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.471090000 Z
+  updated_at: 2015-09-05 15:37:36.471090000 Z
+Testreaction_281:
+  id: 281
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.480300000 Z
+  updated_at: 2015-09-05 15:37:36.480300000 Z
+Testreaction_282:
+  id: 282
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.489188000 Z
+  updated_at: 2015-09-05 15:37:36.489188000 Z
+Testreaction_283:
+  id: 283
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.496622000 Z
+  updated_at: 2015-09-05 15:37:36.496622000 Z
+Testreaction_284:
+  id: 284
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.506002000 Z
+  updated_at: 2015-09-05 15:37:36.506002000 Z
+Testreaction_285:
+  id: 285
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.514923000 Z
+  updated_at: 2015-09-05 15:37:36.514923000 Z
+Testreaction_286:
+  id: 286
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 251
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.523788000 Z
+  updated_at: 2015-09-05 15:37:36.523788000 Z
+Testreaction_287:
+  id: 287
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 252
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.532968000 Z
+  updated_at: 2015-09-05 15:37:36.532968000 Z
+Testreaction_288:
+  id: 288
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 252
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.540874000 Z
+  updated_at: 2015-09-05 15:37:36.540874000 Z
+Testreaction_289:
+  id: 289
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 252
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.549641000 Z
+  updated_at: 2015-09-05 15:37:36.549641000 Z
+Testreaction_290:
+  id: 290
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 252
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.557333000 Z
+  updated_at: 2015-09-05 15:37:36.557333000 Z
+Testreaction_291:
+  id: 291
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 252
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.564827000 Z
+  updated_at: 2015-09-05 15:37:36.564827000 Z
+Testreaction_292:
+  id: 292
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 252
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.572122000 Z
+  updated_at: 2015-09-05 15:37:36.572122000 Z
+Testreaction_293:
+  id: 293
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 252
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.581330000 Z
+  updated_at: 2015-09-05 15:37:36.581330000 Z
+Testreaction_294:
+  id: 294
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 252
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.589103000 Z
+  updated_at: 2015-09-05 15:37:36.589103000 Z
+Testreaction_295:
+  id: 295
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 252
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.597191000 Z
+  updated_at: 2015-09-05 15:37:36.597191000 Z
+Testreaction_296:
+  id: 296
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1101
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 253
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.604975000 Z
+  updated_at: 2015-09-05 15:37:36.604975000 Z
+Testreaction_297:
+  id: 297
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1131
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 255
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.612845000 Z
+  updated_at: 2015-09-05 15:37:36.612845000 Z
+Testreaction_298:
+  id: 298
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1121
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 256
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.620590000 Z
+  updated_at: 2015-09-05 15:37:36.620590000 Z
+Testreaction_299:
+  id: 299
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1055
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S NS
+  rule_row_number: 257
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.629881000 Z
+  updated_at: 2015-09-05 15:37:36.629881000 Z
+Testreaction_300:
+  id: 300
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1060
+  reaction: I
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 258
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.640921000 Z
+  updated_at: 2015-09-05 15:37:36.640921000 Z
+Testreaction_301:
+  id: 301
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1124
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 259
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.648981000 Z
+  updated_at: 2015-09-05 15:37:36.648981000 Z
+Testreaction_302:
+  id: 302
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1058
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 260
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.656321000 Z
+  updated_at: 2015-09-05 15:37:36.656321000 Z
+Testreaction_303:
+  id: 303
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1090
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 261
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.665988000 Z
+  updated_at: 2015-09-05 15:37:36.665988000 Z
+Testreaction_304:
+  id: 304
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1080
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 263
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.674933000 Z
+  updated_at: 2015-09-05 15:37:36.674933000 Z
+Testreaction_305:
+  id: 305
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1081
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S I R
+  rule_row_number: 271
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.684578000 Z
+  updated_at: 2015-09-05 15:37:36.684578000 Z
+Testreaction_306:
+  id: 306
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1120
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 449
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.692791000 Z
+  updated_at: 2015-09-05 15:37:36.692791000 Z
+Testreaction_307:
+  id: 307
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1054
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 450
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.700127000 Z
+  updated_at: 2015-09-05 15:37:36.700127000 Z
+Testreaction_308:
+  id: 308
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1054
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 450
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.709591000 Z
+  updated_at: 2015-09-05 15:37:36.709591000 Z
+Testreaction_309:
+  id: 309
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1054
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 450
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.717590000 Z
+  updated_at: 2015-09-05 15:37:36.717590000 Z
+Testreaction_310:
+  id: 310
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1054
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 450
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.724717000 Z
+  updated_at: 2015-09-05 15:37:36.724717000 Z
+Testreaction_311:
+  id: 311
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1054
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 450
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.733634000 Z
+  updated_at: 2015-09-05 15:37:36.733634000 Z
+Testreaction_312:
+  id: 312
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1054
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 450
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.744363000 Z
+  updated_at: 2015-09-05 15:37:36.744363000 Z
+Testreaction_313:
+  id: 313
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1054
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 450
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.753440000 Z
+  updated_at: 2015-09-05 15:37:36.753440000 Z
+Testreaction_314:
+  id: 314
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1054
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 450
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.760868000 Z
+  updated_at: 2015-09-05 15:37:36.760868000 Z
+Testreaction_315:
+  id: 315
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1054
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 450
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.768702000 Z
+  updated_at: 2015-09-05 15:37:36.768702000 Z
+Testreaction_316:
+  id: 316
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1040
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 454
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.778287000 Z
+  updated_at: 2015-09-05 15:37:36.778287000 Z
+Testreaction_317:
+  id: 317
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1040
+  reaction: R
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 454
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.786936000 Z
+  updated_at: 2015-09-05 15:37:36.786936000 Z
+Testreaction_318:
+  id: 318
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1040
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S I R
+  rule_row_number: 455
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.796481000 Z
+  updated_at: 2015-09-05 15:37:36.796481000 Z
+Testreaction_319:
+  id: 319
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1099
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 462
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.806334000 Z
+  updated_at: 2015-09-05 15:37:36.806334000 Z
+Testreaction_320:
+  id: 320
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1099
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 462
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.815226000 Z
+  updated_at: 2015-09-05 15:37:36.815226000 Z
+Testreaction_321:
+  id: 321
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1099
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 462
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.824654000 Z
+  updated_at: 2015-09-05 15:37:36.824654000 Z
+Testreaction_322:
+  id: 322
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1099
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 462
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.833385000 Z
+  updated_at: 2015-09-05 15:37:36.833385000 Z
+Testreaction_323:
+  id: 323
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1099
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 462
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.840920000 Z
+  updated_at: 2015-09-05 15:37:36.840920000 Z
+Testreaction_324:
+  id: 324
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1099
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 462
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.848034000 Z
+  updated_at: 2015-09-05 15:37:36.848034000 Z
+Testreaction_325:
+  id: 325
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1099
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 462
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.856710000 Z
+  updated_at: 2015-09-05 15:37:36.856710000 Z
+Testreaction_326:
+  id: 326
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1099
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 462
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.865750000 Z
+  updated_at: 2015-09-05 15:37:36.865750000 Z
+Testreaction_327:
+  id: 327
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1099
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 462
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.873632000 Z
+  updated_at: 2015-09-05 15:37:36.873632000 Z
+Testreaction_328:
+  id: 328
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1099
+  reaction: S
+  footnote: Report for Vancomycin susceptible only.  Breakpoints from FDA Package
+    Insert.
+  eligible_interpretations: S NS
+  rule_row_number: 464
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.882334000 Z
+  updated_at: 2015-09-05 15:37:36.882334000 Z
+Testreaction_329:
+  id: 329
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1122
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 465
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.891487000 Z
+  updated_at: 2015-09-05 15:37:36.891487000 Z
+Testreaction_330:
+  id: 330
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1122
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 465
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.900162000 Z
+  updated_at: 2015-09-05 15:37:36.900162000 Z
+Testreaction_331:
+  id: 331
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1122
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 465
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.908979000 Z
+  updated_at: 2015-09-05 15:37:36.908979000 Z
+Testreaction_332:
+  id: 332
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1122
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 465
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.916251000 Z
+  updated_at: 2015-09-05 15:37:36.916251000 Z
+Testreaction_333:
+  id: 333
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1122
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 465
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.925144000 Z
+  updated_at: 2015-09-05 15:37:36.925144000 Z
+Testreaction_334:
+  id: 334
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1122
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 465
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.931927000 Z
+  updated_at: 2015-09-05 15:37:36.931927000 Z
+Testreaction_335:
+  id: 335
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1122
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 465
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.940809000 Z
+  updated_at: 2015-09-05 15:37:36.940809000 Z
+Testreaction_336:
+  id: 336
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1122
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 465
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.947812000 Z
+  updated_at: 2015-09-05 15:37:36.947812000 Z
+Testreaction_337:
+  id: 337
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1122
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert
+  eligible_interpretations: S NS
+  rule_row_number: 465
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.956757000 Z
+  updated_at: 2015-09-05 15:37:36.956757000 Z
+Testreaction_338:
+  id: 338
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1122
+  reaction: S
+  footnote: Report for Vancomycin susceptible only.  Breakpoints from FDA Package
+    Insert.
+  eligible_interpretations: S NS
+  rule_row_number: 468
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.963899000 Z
+  updated_at: 2015-09-05 15:37:36.963899000 Z
+Testreaction_339:
+  id: 339
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.972606000 Z
+  updated_at: 2015-09-05 15:37:36.972606000 Z
+Testreaction_340:
+  id: 340
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.981301000 Z
+  updated_at: 2015-09-05 15:37:36.981301000 Z
+Testreaction_341:
+  id: 341
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.988801000 Z
+  updated_at: 2015-09-05 15:37:36.988801000 Z
+Testreaction_342:
+  id: 342
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:36.995998000 Z
+  updated_at: 2015-09-05 15:37:36.995998000 Z
+Testreaction_343:
+  id: 343
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.004755000 Z
+  updated_at: 2015-09-05 15:37:37.004755000 Z
+Testreaction_344:
+  id: 344
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.013253000 Z
+  updated_at: 2015-09-05 15:37:37.013253000 Z
+Testreaction_345:
+  id: 345
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.020545000 Z
+  updated_at: 2015-09-05 15:37:37.020545000 Z
+Testreaction_346:
+  id: 346
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.028575000 Z
+  updated_at: 2015-09-05 15:37:37.028575000 Z
+Testreaction_347:
+  id: 347
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.037077000 Z
+  updated_at: 2015-09-05 15:37:37.037077000 Z
+Testreaction_348:
+  id: 348
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1127
+  reaction: NS
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 495
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.044210000 Z
+  updated_at: 2015-09-05 15:37:37.044210000 Z
+Testreaction_349:
+  id: 349
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24751
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S NS
+  rule_row_number: 498
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.053084000 Z
+  updated_at: 2015-09-05 15:37:37.053084000 Z
+Testreaction_350:
+  id: 350
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S I R
+  rule_row_number: 499
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.060761000 Z
+  updated_at: 2015-09-05 15:37:37.060761000 Z
+Testreaction_351:
+  id: 351
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S I R
+  rule_row_number: 499
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.069791000 Z
+  updated_at: 2015-09-05 15:37:37.069791000 Z
+Testreaction_352:
+  id: 352
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 24752
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S I R
+  rule_row_number: 500
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.077003000 Z
+  updated_at: 2015-09-05 15:37:37.077003000 Z
+Testreaction_353:
+  id: 353
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: MDR
+  isolate_id: 20614
+  drug_id: 1127
+  reaction: S
+  footnote: Breakpoints from FDA Package Insert revised 12/2014
+  eligible_interpretations: S I R
+  rule_row_number: 500
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.084494000 Z
+  updated_at: 2015-09-05 15:37:37.084494000 Z
+Testreaction_354:
+  id: 354
+  authority: CLSI
+  publication: 2015
+  isolate_id: 20614
+  drug_id: 1029
+  reaction: S
+  footnote: As published in Summary of Product Characteristics February 2015
+  eligible_interpretations: S I R
+  rule_row_number: 622
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.093400000 Z
+  updated_at: 2015-09-05 15:37:37.093400000 Z
+Testreaction_355:
+  id: 355
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24754
+  drug_id: 1029
+  reaction: S
+  footnote: As published in Summary of Product Characteristics February 2015
+  eligible_interpretations: S I R
+  rule_row_number: 628
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.101341000 Z
+  updated_at: 2015-09-05 15:37:37.101341000 Z
+Testreaction_356:
+  id: 356
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24752
+  drug_id: 1029
+  reaction: S
+  footnote: As published in Summary of Product Characteristics February 2015
+  eligible_interpretations: S I R
+  rule_row_number: 634
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.110070000 Z
+  updated_at: 2015-09-05 15:37:37.110070000 Z
+Testreaction_357:
+  id: 357
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24753
+  drug_id: 1029
+  reaction: S
+  footnote: As published in Summary of Product Characteristics February 2015
+  eligible_interpretations: S I R
+  rule_row_number: 640
+  used_surrogate_drug_id: 0
+  used_surrogate_drug_ordinal: 'NULL'
+  used_surrogate_rule_type: 'NULL'
+  created_at: 2015-09-05 15:37:37.119802000 Z
+  updated_at: 2015-09-05 15:37:37.119802000 Z
+Testreaction_358:
+  id: 358
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.129569000 Z
+  updated_at: 2015-09-05 15:37:37.129569000 Z
+Testreaction_359:
+  id: 359
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.137974000 Z
+  updated_at: 2015-09-05 15:37:37.137974000 Z
+Testreaction_360:
+  id: 360
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.145236000 Z
+  updated_at: 2015-09-05 15:37:37.145236000 Z
+Testreaction_361:
+  id: 361
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.154032000 Z
+  updated_at: 2015-09-05 15:37:37.154032000 Z
+Testreaction_362:
+  id: 362
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1103
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.161818000 Z
+  updated_at: 2015-09-05 15:37:37.161818000 Z
+Testreaction_363:
+  id: 363
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1103
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.170185000 Z
+  updated_at: 2015-09-05 15:37:37.170185000 Z
+Testreaction_364:
+  id: 364
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1103
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.179264000 Z
+  updated_at: 2015-09-05 15:37:37.179264000 Z
+Testreaction_365:
+  id: 365
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1103
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.188469000 Z
+  updated_at: 2015-09-05 15:37:37.188469000 Z
+Testreaction_366:
+  id: 366
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1103
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.197399000 Z
+  updated_at: 2015-09-05 15:37:37.197399000 Z
+Testreaction_367:
+  id: 367
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1103
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.204993000 Z
+  updated_at: 2015-09-05 15:37:37.204993000 Z
+Testreaction_368:
+  id: 368
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1103
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.212359000 Z
+  updated_at: 2015-09-05 15:37:37.212359000 Z
+Testreaction_369:
+  id: 369
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1103
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.220639000 Z
+  updated_at: 2015-09-05 15:37:37.220639000 Z
+Testreaction_370:
+  id: 370
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1103
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 187
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.229793000 Z
+  updated_at: 2015-09-05 15:37:37.229793000 Z
+Testreaction_371:
+  id: 371
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24750
+  drug_id: 1041
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.238627000 Z
+  updated_at: 2015-09-05 15:37:37.238627000 Z
+Testreaction_372:
+  id: 372
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25857
+  drug_id: 1041
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.247735000 Z
+  updated_at: 2015-09-05 15:37:37.247735000 Z
+Testreaction_373:
+  id: 373
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25860
+  drug_id: 1041
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.256660000 Z
+  updated_at: 2015-09-05 15:37:37.256660000 Z
+Testreaction_374:
+  id: 374
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25859
+  drug_id: 1041
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.265716000 Z
+  updated_at: 2015-09-05 15:37:37.265716000 Z
+Testreaction_375:
+  id: 375
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24663
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.275403000 Z
+  updated_at: 2015-09-05 15:37:37.275403000 Z
+Testreaction_376:
+  id: 376
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24666
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.284355000 Z
+  updated_at: 2015-09-05 15:37:37.284355000 Z
+Testreaction_377:
+  id: 377
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24664
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.293340000 Z
+  updated_at: 2015-09-05 15:37:37.293340000 Z
+Testreaction_378:
+  id: 378
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24667
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.300530000 Z
+  updated_at: 2015-09-05 15:37:37.300530000 Z
+Testreaction_379:
+  id: 379
+  authority: CLSI
+  publication: 2015
+  isolate_id: 25858
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.309286000 Z
+  updated_at: 2015-09-05 15:37:37.309286000 Z
+Testreaction_380:
+  id: 380
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24745
+  drug_id: 1041
+  reaction: S
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.316816000 Z
+  updated_at: 2015-09-05 15:37:37.316816000 Z
+Testreaction_381:
+  id: 381
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24746
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.324909000 Z
+  updated_at: 2015-09-05 15:37:37.324909000 Z
+Testreaction_382:
+  id: 382
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24747
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.333924000 Z
+  updated_at: 2015-09-05 15:37:37.333924000 Z
+Testreaction_383:
+  id: 383
+  authority: CLSI
+  publication: 2015
+  isolate_id: 24748
+  drug_id: 1041
+  reaction: R
+  footnote: 'NULL'
+  eligible_interpretations: S R
+  rule_row_number: 204
+  used_surrogate_drug_id: 1100
+  used_surrogate_drug_ordinal: '0'
+  used_surrogate_rule_type: no_base_drug_breakpoints
+  created_at: 2015-09-05 15:37:37.341121000 Z
+  updated_at: 2015-09-05 15:37:37.341121000 Z

@@ -1,0 +1,117 @@
+
+<%= form_for(@reaction, html: { class: 'form-horizontal' }) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.form_group :authority do |f| %>
+      <%= f.label :authority, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :authority, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :publication do |f| %>
+      <%= f.label :publication, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :publication, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :delivery_mechanism do |f| %>
+      <%= f.label :delivery_mechanism, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :delivery_mechanism, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :infection_type do |f| %>
+      <%= f.label :infection_type, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :infection_type, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :isolate_id do |f| %>
+      <%= f.label :isolate_id, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :isolate_id, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :drug_id do |f| %>
+      <%= f.label :drug_id, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :drug_id, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :reaction do |f| %>
+      <%= f.label :reaction, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :reaction, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :footnote do |f| %>
+      <%= f.label :footnote, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :footnote, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :eligible_interpretations do |f| %>
+      <%= f.label :eligible_interpretations, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :eligible_interpretations, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :rule_row_number do |f| %>
+      <%= f.label :rule_row_number, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :rule_row_number, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :used_surrogate_drug_id do |f| %>
+      <%= f.label :used_surrogate_drug_id, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.number_field :used_surrogate_drug_id, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :used_surrogate_drug_ordinal do |f| %>
+      <%= f.label :used_surrogate_drug_ordinal, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :used_surrogate_drug_ordinal, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+    <%= f.form_group :used_surrogate_rule_type do |f| %>
+      <%= f.label :used_surrogate_rule_type, class: 'control-label col-md-2' %>
+      <div class='col-md-8'>
+        <%= f.text_field :used_surrogate_rule_type, class: 'form-control' %>
+        <%= f.error_messages %>
+      </div>
+    <% end %>
+
+  </div>
+
+  <div class="form-actions col-md-offset-2 col-md-10">
+    <%= f.submit class: 'btn btn-primary' %>
+    <%= link_to "Cancel", reactions_path, class: 'btn' %>
+  </div>
+<% end %>
+

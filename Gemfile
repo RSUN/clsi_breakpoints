@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-
 gem 'rails', '4.2.4'
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
@@ -26,4 +25,9 @@ group :development do
   gem 'web-console', '~> 2.0'
   gem 'spring'
   gem 'pry'
+  gem 'yaml_db'
+  gem 'db_fixtures_dump'
 end
+
+gem 'dresssed-ives'
+
