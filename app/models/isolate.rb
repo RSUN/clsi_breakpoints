@@ -1,5 +1,5 @@
 class Isolate < ActiveRecord::Base
-belongs_to :isolate, primary_key: 'organism_code', foreign_key: 'code'
+belongs_to :organism, primary_key: 'code', foreign_key: 'organism_code'
 has_many :mic
 
 def self.import(file)

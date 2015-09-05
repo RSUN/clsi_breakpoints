@@ -6,5 +6,13 @@ class ActiveSupport::TestCase
   # Setup all fixtures in test/fixtures/*.yml for all tests in alphabetical order.
   fixtures :all
 
-  # Add more helper methods to be used by all tests here...
+  def isolate_id_to_rails_id(id)
+  	Isolate.where(isolate_id: id).pluck(:id).first 	
+  end
+
+  def get_organism_relation(id)
+	orgcode = Isolate.find(id).organism_code
+    Organism.where(code: orgcode).first
+  end
+
 end
