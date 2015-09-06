@@ -5,20 +5,7 @@ This is a small app to apply MIC testing results to the 2015 CLSI breakpoints.
 - TestReactions model is used for testing and to show proof of concept.
 - test/fixtures contains real data for production DB and can be load with $ rake db:fixtures:import
 - import csv via rake csv:import MODEL=Organism FILENAME=csv/test_data.organisms.csv
-
-Dump Fixtures: 
-rake db:fixtures:dump FIXTURES_PATH=test/fixtures/
-Example:
-Found models: Isolate, Testreaction, Organism, Drug, Mic, User, Breakpoint, Reaction
-Dumping to: test/fixtures/
-Dumping model: Isolate (377 entries)
-Dumping model: Testreaction (9897 entries)
-Dumping model: Organism (21 entries)
-Dumping model: Drug (48 entries)
-Dumping model: Mic (12064 entries)
-Dumping model: User (1 entries)
-Dumping model: Breakpoint (675 entries)
-Dumping model: Reaction (0 entries)
+- Dump Fixtures: rake db:fixtures:dump FIXTURES_PATH=test/fixtures/
 
 
 Work in Progress:
