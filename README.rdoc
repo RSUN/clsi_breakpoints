@@ -6,15 +6,13 @@ This is a small app to apply MIC testing results to the 2015 CLSI breakpoints.
 - test/fixtures contains real data for production DB and can be load with $ rake db:fixtures:import
 - import csv via rake csv:import MODEL=Organism FILENAME=csv/test_data.organisms.csv
 - Dump Fixtures: rake db:fixtures:dump FIXTURES_PATH=test/fixtures/
-
+- default user in fixture is: demo@gmail.com / password123
 
 Work in Progress:
 
 * Final Results
 
 * Setup asset pipeline for Dokku
-
-* Add jquery-datatables to all table views and pagination to the larger tables
 
 * ...
 

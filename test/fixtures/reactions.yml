@@ -1,1 +1,14 @@
---- {}
+---
+Reaction_1:
+  id: 1
+  authority: CLSI
+  publication: 2015
+  delivery_mechanism: ''
+  infection_type: ''
+  reaction: ''
+  footnote: ''
+  eligible_interpretations: ''
+  used_surrogate_drug_ordinal: ''
+  used_surrogate_rule_type: ''
+  created_at: 2015-09-06 04:17:17.220188000 Z
+  updated_at: 2015-09-06 04:19:14.722278000 Z
