@@ -1,4 +1,4 @@
-organism_code,organism_name,genus,species,sub_species,organism_group,master_group,viridans_group,level_1_class,level_2_class,level_3_class,level_4_class
+code,name,genus,species,sub_species,organism_group,master_group,viridans_group,level1,level2,level3,level4
 CF,Citrobacter freundii,Citrobacter,freundii,NULL,Citrobacter spp.,Enteric,NULL,Enteric,Citrobacter spp.,Citrobacter freundii species complex,NULL
 CFC,Citrobacter freundii species complex,Citrobacter,freundii species complex,NULL,Citrobacter spp.,Enteric,NULL,Enteric,Citrobacter spp.,Citrobacter freundii species complex,NULL
 CK,Citrobacter koseri,Citrobacter,koseri,NULL,Citrobacter spp.,Enteric,NULL,Enteric,Citrobacter spp.,NULL,NULL

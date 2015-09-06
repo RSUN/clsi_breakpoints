@@ -1,3771 +1,3771 @@
 ---
 Isolate_1:
-  id: 380
+  id: 757
   isolate_id: 20614
   collection: 876418
   site: 464
   study_year: 2015
   bank: 885
   organism_code: EAE
-  created_at: 2015-09-05 16:38:40.212781000 Z
-  updated_at: 2015-09-05 16:38:40.212781000 Z
+  created_at: 2015-09-06 03:54:27.666500000 Z
+  updated_at: 2015-09-06 03:54:27.666500000 Z
 Isolate_2:
-  id: 381
+  id: 758
   isolate_id: 22197
   collection: 875105
   site: 2
   study_year: 2015
   bank: 113
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.225553000 Z
-  updated_at: 2015-09-05 16:38:40.225553000 Z
+  created_at: 2015-09-06 03:54:27.676210000 Z
+  updated_at: 2015-09-06 03:54:27.676210000 Z
 Isolate_3:
-  id: 382
+  id: 759
   isolate_id: 24663
   collection: 876448
   site: 464
   study_year: 2015
   bank: 910
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.234290000 Z
-  updated_at: 2015-09-05 16:38:40.234290000 Z
+  created_at: 2015-09-06 03:54:27.684098000 Z
+  updated_at: 2015-09-06 03:54:27.684098000 Z
 Isolate_4:
-  id: 383
+  id: 760
   isolate_id: 24664
   collection: 876449
   site: 464
   study_year: 2015
   bank: 911
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.243993000 Z
-  updated_at: 2015-09-05 16:38:40.243993000 Z
+  created_at: 2015-09-06 03:54:27.692529000 Z
+  updated_at: 2015-09-06 03:54:27.692529000 Z
 Isolate_5:
-  id: 384
+  id: 761
   isolate_id: 24665
   collection: 876450
   site: 464
   study_year: 2015
   bank: 912
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.253165000 Z
-  updated_at: 2015-09-05 16:38:40.253165000 Z
+  created_at: 2015-09-06 03:54:27.701002000 Z
+  updated_at: 2015-09-06 03:54:27.701002000 Z
 Isolate_6:
-  id: 385
+  id: 762
   isolate_id: 24666
   collection: 876453
   site: 464
   study_year: 2015
   bank: 914
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.263782000 Z
-  updated_at: 2015-09-05 16:38:40.263782000 Z
+  created_at: 2015-09-06 03:54:27.708169000 Z
+  updated_at: 2015-09-06 03:54:27.708169000 Z
 Isolate_7:
-  id: 386
+  id: 763
   isolate_id: 24667
   collection: 876454
   site: 464
   study_year: 2015
   bank: 915
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.273383000 Z
-  updated_at: 2015-09-05 16:38:40.273383000 Z
+  created_at: 2015-09-06 03:54:27.716378000 Z
+  updated_at: 2015-09-06 03:54:27.716378000 Z
 Isolate_8:
-  id: 387
+  id: 764
   isolate_id: 24745
   collection: 876420
   site: 464
   study_year: 2015
   bank: 887
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.281362000 Z
-  updated_at: 2015-09-05 16:38:40.281362000 Z
+  created_at: 2015-09-06 03:54:27.724783000 Z
+  updated_at: 2015-09-06 03:54:27.724783000 Z
 Isolate_9:
-  id: 388
+  id: 765
   isolate_id: 24746
   collection: 876421
   site: 464
   study_year: 2015
   bank: 888
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.289419000 Z
-  updated_at: 2015-09-05 16:38:40.289419000 Z
+  created_at: 2015-09-06 03:54:27.731849000 Z
+  updated_at: 2015-09-06 03:54:27.731849000 Z
 Isolate_10:
-  id: 389
+  id: 766
   isolate_id: 24747
   collection: 876422
   site: 464
   study_year: 2015
   bank: 889
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.300227000 Z
-  updated_at: 2015-09-05 16:38:40.300227000 Z
+  created_at: 2015-09-06 03:54:27.740431000 Z
+  updated_at: 2015-09-06 03:54:27.740431000 Z
 Isolate_11:
-  id: 390
+  id: 767
   isolate_id: 24748
   collection: 876424
   site: 464
   study_year: 2015
   bank: 891
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.309676000 Z
-  updated_at: 2015-09-05 16:38:40.309676000 Z
+  created_at: 2015-09-06 03:54:27.749680000 Z
+  updated_at: 2015-09-06 03:54:27.749680000 Z
 Isolate_12:
-  id: 391
+  id: 768
   isolate_id: 24749
   collection: 876425
   site: 464
   study_year: 2015
   bank: 892
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.316574000 Z
-  updated_at: 2015-09-05 16:38:40.316574000 Z
+  created_at: 2015-09-06 03:54:27.757377000 Z
+  updated_at: 2015-09-06 03:54:27.757377000 Z
 Isolate_13:
-  id: 392
+  id: 769
   isolate_id: 24750
   collection: 876427
   site: 464
   study_year: 2015
   bank: 893
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.327508000 Z
-  updated_at: 2015-09-05 16:38:40.327508000 Z
+  created_at: 2015-09-06 03:54:27.765409000 Z
+  updated_at: 2015-09-06 03:54:27.765409000 Z
 Isolate_14:
-  id: 393
+  id: 770
   isolate_id: 24751
   collection: 876429
   site: 464
   study_year: 2015
   bank: 894
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.335784000 Z
-  updated_at: 2015-09-05 16:38:40.335784000 Z
+  created_at: 2015-09-06 03:54:27.773209000 Z
+  updated_at: 2015-09-06 03:54:27.773209000 Z
 Isolate_15:
-  id: 394
+  id: 771
   isolate_id: 24752
   collection: 876430
   site: 464
   study_year: 2015
   bank: 895
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.344866000 Z
-  updated_at: 2015-09-05 16:38:40.344866000 Z
+  created_at: 2015-09-06 03:54:27.781158000 Z
+  updated_at: 2015-09-06 03:54:27.781158000 Z
 Isolate_16:
-  id: 395
+  id: 772
   isolate_id: 24753
   collection: 876431
   site: 464
   study_year: 2015
   bank: 896
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.352852000 Z
-  updated_at: 2015-09-05 16:38:40.352852000 Z
+  created_at: 2015-09-06 03:54:27.788115000 Z
+  updated_at: 2015-09-06 03:54:27.788115000 Z
 Isolate_17:
-  id: 396
+  id: 773
   isolate_id: 24754
   collection: 876438
   site: 464
   study_year: 2015
   bank: 903
   organism_code: EC
-  created_at: 2015-09-05 16:38:40.360722000 Z
-  updated_at: 2015-09-05 16:38:40.360722000 Z
+  created_at: 2015-09-06 03:54:27.796011000 Z
+  updated_at: 2015-09-06 03:54:27.796011000 Z
 Isolate_18:
-  id: 397
+  id: 774
   isolate_id: 25856
   collection: 876423
   site: 464
   study_year: 2015
   bank: 890
   organism_code: KPN
-  created_at: 2015-09-05 16:38:40.367693000 Z
-  updated_at: 2015-09-05 16:38:40.367693000 Z
+  created_at: 2015-09-06 03:54:27.804623000 Z
+  updated_at: 2015-09-06 03:54:27.804623000 Z
 Isolate_19:
-  id: 398
+  id: 775
   isolate_id: 25857
   collection: 876433
   site: 464
   study_year: 2015
   bank: 898
   organism_code: KPN
-  created_at: 2015-09-05 16:38:40.375900000 Z
-  updated_at: 2015-09-05 16:38:40.375900000 Z
+  created_at: 2015-09-06 03:54:27.812923000 Z
+  updated_at: 2015-09-06 03:54:27.812923000 Z
 Isolate_20:
-  id: 399
+  id: 776
   isolate_id: 25858
   collection: 876434
   site: 464
   study_year: 2015
   bank: 899
   organism_code: KPN
-  created_at: 2015-09-05 16:38:40.384928000 Z
-  updated_at: 2015-09-05 16:38:40.384928000 Z
+  created_at: 2015-09-06 03:54:27.819986000 Z
+  updated_at: 2015-09-06 03:54:27.819986000 Z
 Isolate_21:
-  id: 400
+  id: 777
   isolate_id: 25859
   collection: 876439
   site: 464
   study_year: 2015
   bank: 904
   organism_code: KPN
-  created_at: 2015-09-05 16:38:40.392490000 Z
-  updated_at: 2015-09-05 16:38:40.392490000 Z
+  created_at: 2015-09-06 03:54:27.828877000 Z
+  updated_at: 2015-09-06 03:54:27.828877000 Z
 Isolate_22:
-  id: 401
+  id: 778
   isolate_id: 25860
   collection: 876452
   site: 464
   study_year: 2015
   bank: 913
   organism_code: KPN
-  created_at: 2015-09-05 16:38:40.402035000 Z
-  updated_at: 2015-09-05 16:38:40.402035000 Z
+  created_at: 2015-09-06 03:54:27.836326000 Z
+  updated_at: 2015-09-06 03:54:27.836326000 Z
 Isolate_23:
-  id: 402
+  id: 779
   isolate_id: 29223
   collection: 882936
   site: 411
   study_year: 2015
   bank: 7311
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:40.411225000 Z
-  updated_at: 2015-09-05 16:38:40.411225000 Z
+  created_at: 2015-09-06 03:54:27.844887000 Z
+  updated_at: 2015-09-06 03:54:27.844887000 Z
 Isolate_24:
-  id: 403
+  id: 780
   isolate_id: 29224
   collection: 882957
   site: 411
   study_year: 2015
   bank: 7312
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:40.420811000 Z
-  updated_at: 2015-09-05 16:38:40.420811000 Z
+  created_at: 2015-09-06 03:54:27.852549000 Z
+  updated_at: 2015-09-06 03:54:27.852549000 Z
 Isolate_25:
-  id: 404
+  id: 781
   isolate_id: 30818
   collection: 882913
   site: 411
   study_year: 2015
   bank: 7325
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.429751000 Z
-  updated_at: 2015-09-05 16:38:40.429751000 Z
+  created_at: 2015-09-06 03:54:27.860986000 Z
+  updated_at: 2015-09-06 03:54:27.860986000 Z
 Isolate_26:
-  id: 405
+  id: 782
   isolate_id: 30822
   collection: 882918
   site: 411
   study_year: 2015
   bank: 7327
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.438807000 Z
-  updated_at: 2015-09-05 16:38:40.438807000 Z
+  created_at: 2015-09-06 03:54:27.870031000 Z
+  updated_at: 2015-09-06 03:54:27.870031000 Z
 Isolate_27:
-  id: 406
+  id: 783
   isolate_id: 41302
   collection: 897100
   site: 91
   study_year: 2015
   bank: 20504
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.450674000 Z
-  updated_at: 2015-09-05 16:38:40.450674000 Z
+  created_at: 2015-09-06 03:54:27.878508000 Z
+  updated_at: 2015-09-06 03:54:27.878508000 Z
 Isolate_28:
-  id: 407
+  id: 784
   isolate_id: 41310
   collection: 896651
   site: 68
   study_year: 2015
   bank: 20398
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.459407000 Z
-  updated_at: 2015-09-05 16:38:40.459407000 Z
+  created_at: 2015-09-06 03:54:27.887145000 Z
+  updated_at: 2015-09-06 03:54:27.887145000 Z
 Isolate_29:
-  id: 408
+  id: 785
   isolate_id: 41319
   collection: 897117
   site: 91
   study_year: 2015
   bank: 20513
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.470118000 Z
-  updated_at: 2015-09-05 16:38:40.470118000 Z
+  created_at: 2015-09-06 03:54:27.895698000 Z
+  updated_at: 2015-09-06 03:54:27.895698000 Z
 Isolate_30:
-  id: 409
+  id: 786
   isolate_id: 41325
   collection: 896620
   site: 68
   study_year: 2015
   bank: 20390
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.477612000 Z
-  updated_at: 2015-09-05 16:38:40.477612000 Z
+  created_at: 2015-09-06 03:54:27.904666000 Z
+  updated_at: 2015-09-06 03:54:27.904666000 Z
 Isolate_31:
-  id: 410
+  id: 787
   isolate_id: 41338
   collection: 897116
   site: 91
   study_year: 2015
   bank: 20512
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.485033000 Z
-  updated_at: 2015-09-05 16:38:40.485033000 Z
+  created_at: 2015-09-06 03:54:27.913241000 Z
+  updated_at: 2015-09-06 03:54:27.913241000 Z
 Isolate_32:
-  id: 411
+  id: 788
   isolate_id: 41342
   collection: 897098
   site: 91
   study_year: 2015
   bank: 20503
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.493063000 Z
-  updated_at: 2015-09-05 16:38:40.493063000 Z
+  created_at: 2015-09-06 03:54:27.921109000 Z
+  updated_at: 2015-09-06 03:54:27.921109000 Z
 Isolate_33:
-  id: 412
+  id: 789
   isolate_id: 41417
   collection: 897325
   site: 260
   study_year: 2015
   bank: 20552
   organism_code: CF
-  created_at: 2015-09-05 16:38:40.500980000 Z
-  updated_at: 2015-09-05 16:38:40.500980000 Z
+  created_at: 2015-09-06 03:54:27.927985000 Z
+  updated_at: 2015-09-06 03:54:27.927985000 Z
 Isolate_34:
-  id: 413
+  id: 790
   isolate_id: 41515
   collection: 897319
   site: 117
   study_year: 2015
   bank: 20706
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.509060000 Z
-  updated_at: 2015-09-05 16:38:40.509060000 Z
+  created_at: 2015-09-06 03:54:27.936939000 Z
+  updated_at: 2015-09-06 03:54:27.936939000 Z
 Isolate_35:
-  id: 414
+  id: 791
   isolate_id: 41568
   collection: 897606
   site: 371
   study_year: 2015
   bank: 20727
   organism_code: SLUG
-  created_at: 2015-09-05 16:38:40.520747000 Z
-  updated_at: 2015-09-05 16:38:40.520747000 Z
+  created_at: 2015-09-06 03:54:27.943763000 Z
+  updated_at: 2015-09-06 03:54:27.943763000 Z
 Isolate_36:
-  id: 415
+  id: 792
   isolate_id: 41573
   collection: 897587
   site: 371
   study_year: 2015
   bank: 20711
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.528683000 Z
-  updated_at: 2015-09-05 16:38:40.528683000 Z
+  created_at: 2015-09-06 03:54:27.952410000 Z
+  updated_at: 2015-09-06 03:54:27.952410000 Z
 Isolate_37:
-  id: 416
+  id: 793
   isolate_id: 41574
   collection: 897604
   site: 371
   study_year: 2015
   bank: 20725
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.537748000 Z
-  updated_at: 2015-09-05 16:38:40.537748000 Z
+  created_at: 2015-09-06 03:54:27.960484000 Z
+  updated_at: 2015-09-06 03:54:27.960484000 Z
 Isolate_38:
-  id: 417
+  id: 794
   isolate_id: 41575
   collection: 897602
   site: 371
   study_year: 2015
   bank: 20723
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.545401000 Z
-  updated_at: 2015-09-05 16:38:40.545401000 Z
+  created_at: 2015-09-06 03:54:27.969136000 Z
+  updated_at: 2015-09-06 03:54:27.969136000 Z
 Isolate_39:
-  id: 418
+  id: 795
   isolate_id: 41576
   collection: 897596
   site: 371
   study_year: 2015
   bank: 20718
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.553556000 Z
-  updated_at: 2015-09-05 16:38:40.553556000 Z
+  created_at: 2015-09-06 03:54:27.977160000 Z
+  updated_at: 2015-09-06 03:54:27.977160000 Z
 Isolate_40:
-  id: 419
+  id: 796
   isolate_id: 41577
   collection: 897600
   site: 371
   study_year: 2015
   bank: 20721
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.562840000 Z
-  updated_at: 2015-09-05 16:38:40.562840000 Z
+  created_at: 2015-09-06 03:54:27.985228000 Z
+  updated_at: 2015-09-06 03:54:27.985228000 Z
 Isolate_41:
-  id: 420
+  id: 797
   isolate_id: 41578
   collection: 897599
   site: 371
   study_year: 2015
   bank: 20720
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.572183000 Z
-  updated_at: 2015-09-05 16:38:40.572183000 Z
+  created_at: 2015-09-06 03:54:27.992911000 Z
+  updated_at: 2015-09-06 03:54:27.992911000 Z
 Isolate_42:
-  id: 421
+  id: 798
   isolate_id: 41579
   collection: 897594
   site: 371
   study_year: 2015
   bank: 20716
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.582226000 Z
-  updated_at: 2015-09-05 16:38:40.582226000 Z
+  created_at: 2015-09-06 03:54:27.999761000 Z
+  updated_at: 2015-09-06 03:54:27.999761000 Z
 Isolate_43:
-  id: 422
+  id: 799
   isolate_id: 41580
   collection: 897605
   site: 371
   study_year: 2015
   bank: 20726
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.591775000 Z
-  updated_at: 2015-09-05 16:38:40.591775000 Z
+  created_at: 2015-09-06 03:54:28.007859000 Z
+  updated_at: 2015-09-06 03:54:28.007859000 Z
 Isolate_44:
-  id: 423
+  id: 800
   isolate_id: 41581
   collection: 897588
   site: 371
   study_year: 2015
   bank: 20712
   organism_code: SA
-  created_at: 2015-09-05 16:38:40.603769000 Z
-  updated_at: 2015-09-05 16:38:40.603769000 Z
+  created_at: 2015-09-06 03:54:28.016119000 Z
+  updated_at: 2015-09-06 03:54:28.016119000 Z
 Isolate_45:
-  id: 424
+  id: 801
   isolate_id: 41582
   collection: 897613
   site: 371
   study_year: 2015
   bank: 20732
   organism_code: SA
-  created_at: 2015-09-05 16:38:41.829897000 Z
-  updated_at: 2015-09-05 16:38:41.829897000 Z
+  created_at: 2015-09-06 03:54:28.024563000 Z
+  updated_at: 2015-09-06 03:54:28.024563000 Z
 Isolate_46:
-  id: 425
+  id: 802
   isolate_id: 41583
   collection: 897615
   site: 371
   study_year: 2015
   bank: 20733
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.484858000 Z
-  updated_at: 2015-09-05 16:38:42.484858000 Z
+  created_at: 2015-09-06 03:54:28.032889000 Z
+  updated_at: 2015-09-06 03:54:28.032889000 Z
 Isolate_47:
-  id: 426
+  id: 803
   isolate_id: 41584
   collection: 897601
   site: 371
   study_year: 2015
   bank: 20722
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.512464000 Z
-  updated_at: 2015-09-05 16:38:42.512464000 Z
+  created_at: 2015-09-06 03:54:28.040415000 Z
+  updated_at: 2015-09-06 03:54:28.040415000 Z
 Isolate_48:
-  id: 427
+  id: 804
   isolate_id: 41585
   collection: 897608
   site: 371
   study_year: 2015
   bank: 20728
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.538580000 Z
-  updated_at: 2015-09-05 16:38:42.538580000 Z
+  created_at: 2015-09-06 03:54:28.049549000 Z
+  updated_at: 2015-09-06 03:54:28.049549000 Z
 Isolate_49:
-  id: 428
+  id: 805
   isolate_id: 41586
   collection: 897589
   site: 371
   study_year: 2015
   bank: 20713
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.565043000 Z
-  updated_at: 2015-09-05 16:38:42.565043000 Z
+  created_at: 2015-09-06 03:54:28.057410000 Z
+  updated_at: 2015-09-06 03:54:28.057410000 Z
 Isolate_50:
-  id: 429
+  id: 806
   isolate_id: 41587
   collection: 897593
   site: 371
   study_year: 2015
   bank: 20715
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.590809000 Z
-  updated_at: 2015-09-05 16:38:42.590809000 Z
+  created_at: 2015-09-06 03:54:28.065123000 Z
+  updated_at: 2015-09-06 03:54:28.065123000 Z
 Isolate_51:
-  id: 430
+  id: 807
   isolate_id: 41588
   collection: 897585
   site: 371
   study_year: 2015
   bank: 20710
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.616995000 Z
-  updated_at: 2015-09-05 16:38:42.616995000 Z
+  created_at: 2015-09-06 03:54:28.072892000 Z
+  updated_at: 2015-09-06 03:54:28.072892000 Z
 Isolate_52:
-  id: 431
+  id: 808
   isolate_id: 41589
   collection: 897603
   site: 371
   study_year: 2015
   bank: 20724
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.643398000 Z
-  updated_at: 2015-09-05 16:38:42.643398000 Z
+  created_at: 2015-09-06 03:54:28.080530000 Z
+  updated_at: 2015-09-06 03:54:28.080530000 Z
 Isolate_53:
-  id: 432
+  id: 809
   isolate_id: 41613
   collection: 897643
   site: 371
   study_year: 2015
   bank: 20750
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.669058000 Z
-  updated_at: 2015-09-05 16:38:42.669058000 Z
+  created_at: 2015-09-06 03:54:28.089407000 Z
+  updated_at: 2015-09-06 03:54:28.089407000 Z
 Isolate_54:
-  id: 433
+  id: 810
   isolate_id: 41614
   collection: 897651
   site: 371
   study_year: 2015
   bank: 20755
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.695121000 Z
-  updated_at: 2015-09-05 16:38:42.695121000 Z
+  created_at: 2015-09-06 03:54:28.096172000 Z
+  updated_at: 2015-09-06 03:54:28.096172000 Z
 Isolate_55:
-  id: 434
+  id: 811
   isolate_id: 41615
   collection: 897647
   site: 371
   study_year: 2015
   bank: 20752
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.727872000 Z
-  updated_at: 2015-09-05 16:38:42.727872000 Z
+  created_at: 2015-09-06 03:54:28.104682000 Z
+  updated_at: 2015-09-06 03:54:28.104682000 Z
 Isolate_56:
-  id: 435
+  id: 812
   isolate_id: 41616
   collection: 897657
   site: 371
   study_year: 2015
   bank: 20760
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.753955000 Z
-  updated_at: 2015-09-05 16:38:42.753955000 Z
+  created_at: 2015-09-06 03:54:28.112848000 Z
+  updated_at: 2015-09-06 03:54:28.112848000 Z
 Isolate_57:
-  id: 436
+  id: 813
   isolate_id: 41625
   collection: 897507
   site: 117
   study_year: 2015
   bank: 20840
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.780454000 Z
-  updated_at: 2015-09-05 16:38:42.780454000 Z
+  created_at: 2015-09-06 03:54:28.119913000 Z
+  updated_at: 2015-09-06 03:54:28.119913000 Z
 Isolate_58:
-  id: 437
+  id: 814
   isolate_id: 41829
   collection: 897569
   site: 371
   study_year: 2015
   bank: 20937
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.805251000 Z
-  updated_at: 2015-09-05 16:38:42.805251000 Z
+  created_at: 2015-09-06 03:54:28.128689000 Z
+  updated_at: 2015-09-06 03:54:28.128689000 Z
 Isolate_59:
-  id: 438
+  id: 815
   isolate_id: 41831
   collection: 897579
   site: 371
   study_year: 2015
   bank: 20944
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.830973000 Z
-  updated_at: 2015-09-05 16:38:42.830973000 Z
+  created_at: 2015-09-06 03:54:28.137277000 Z
+  updated_at: 2015-09-06 03:54:28.137277000 Z
 Isolate_60:
-  id: 439
+  id: 816
   isolate_id: 41832
   collection: 897565
   site: 371
   study_year: 2015
   bank: 20934
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.856585000 Z
-  updated_at: 2015-09-05 16:38:42.856585000 Z
+  created_at: 2015-09-06 03:54:28.145081000 Z
+  updated_at: 2015-09-06 03:54:28.145081000 Z
 Isolate_61:
-  id: 440
+  id: 817
   isolate_id: 41833
   collection: 897575
   site: 371
   study_year: 2015
   bank: 20940
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.881999000 Z
-  updated_at: 2015-09-05 16:38:42.881999000 Z
+  created_at: 2015-09-06 03:54:28.153243000 Z
+  updated_at: 2015-09-06 03:54:28.153243000 Z
 Isolate_62:
-  id: 441
+  id: 818
   isolate_id: 41834
   collection: 897558
   site: 371
   study_year: 2015
   bank: 20930
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.907190000 Z
-  updated_at: 2015-09-05 16:38:42.907190000 Z
+  created_at: 2015-09-06 03:54:28.161596000 Z
+  updated_at: 2015-09-06 03:54:28.161596000 Z
 Isolate_63:
-  id: 442
+  id: 819
   isolate_id: 41835
   collection: 897549
   site: 371
   study_year: 2015
   bank: 20921
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.932712000 Z
-  updated_at: 2015-09-05 16:38:42.932712000 Z
+  created_at: 2015-09-06 03:54:28.170802000 Z
+  updated_at: 2015-09-06 03:54:28.170802000 Z
 Isolate_64:
-  id: 443
+  id: 820
   isolate_id: 41836
   collection: 897564
   site: 371
   study_year: 2015
   bank: 20933
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.965499000 Z
-  updated_at: 2015-09-05 16:38:42.965499000 Z
+  created_at: 2015-09-06 03:54:28.179381000 Z
+  updated_at: 2015-09-06 03:54:28.179381000 Z
 Isolate_65:
-  id: 444
+  id: 821
   isolate_id: 41837
   collection: 897525
   site: 371
   study_year: 2015
   bank: 20904
   organism_code: SA
-  created_at: 2015-09-05 16:38:42.998304000 Z
-  updated_at: 2015-09-05 16:38:42.998304000 Z
+  created_at: 2015-09-06 03:54:28.187899000 Z
+  updated_at: 2015-09-06 03:54:28.187899000 Z
 Isolate_66:
-  id: 445
+  id: 822
   isolate_id: 41858
   collection: 896816
   site: 68
   study_year: 2015
   bank: 20968
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.023132000 Z
-  updated_at: 2015-09-05 16:38:43.023132000 Z
+  created_at: 2015-09-06 03:54:28.196601000 Z
+  updated_at: 2015-09-06 03:54:28.196601000 Z
 Isolate_67:
-  id: 446
+  id: 823
   isolate_id: 41901
   collection: 897907
   site: 86
   study_year: 2015
   bank: 21020
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.050326000 Z
-  updated_at: 2015-09-05 16:38:43.050326000 Z
+  created_at: 2015-09-06 03:54:28.205511000 Z
+  updated_at: 2015-09-06 03:54:28.205511000 Z
 Isolate_68:
-  id: 447
+  id: 824
   isolate_id: 41902
   collection: 897906
   site: 86
   study_year: 2015
   bank: 21019
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.075633000 Z
-  updated_at: 2015-09-05 16:38:43.075633000 Z
+  created_at: 2015-09-06 03:54:28.213513000 Z
+  updated_at: 2015-09-06 03:54:28.213513000 Z
 Isolate_69:
-  id: 448
+  id: 825
   isolate_id: 41903
   collection: 897895
   site: 86
   study_year: 2015
   bank: 21012
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.108523000 Z
-  updated_at: 2015-09-05 16:38:43.108523000 Z
+  created_at: 2015-09-06 03:54:28.221196000 Z
+  updated_at: 2015-09-06 03:54:28.221196000 Z
 Isolate_70:
-  id: 449
+  id: 826
   isolate_id: 41904
   collection: 897881
   site: 86
   study_year: 2015
   bank: 21000
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.133208000 Z
-  updated_at: 2015-09-05 16:38:43.133208000 Z
+  created_at: 2015-09-06 03:54:28.228769000 Z
+  updated_at: 2015-09-06 03:54:28.228769000 Z
 Isolate_71:
-  id: 450
+  id: 827
   isolate_id: 41905
   collection: 897879
   site: 86
   study_year: 2015
   bank: 20998
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.156593000 Z
-  updated_at: 2015-09-05 16:38:43.156593000 Z
+  created_at: 2015-09-06 03:54:28.236231000 Z
+  updated_at: 2015-09-06 03:54:28.236231000 Z
 Isolate_72:
-  id: 451
+  id: 828
   isolate_id: 41906
   collection: 897865
   site: 86
   study_year: 2015
   bank: 20986
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.176442000 Z
-  updated_at: 2015-09-05 16:38:43.176442000 Z
+  created_at: 2015-09-06 03:54:28.244536000 Z
+  updated_at: 2015-09-06 03:54:28.244536000 Z
 Isolate_73:
-  id: 452
+  id: 829
   isolate_id: 41907
   collection: 897903
   site: 86
   study_year: 2015
   bank: 21017
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.190452000 Z
-  updated_at: 2015-09-05 16:38:43.190452000 Z
+  created_at: 2015-09-06 03:54:28.252832000 Z
+  updated_at: 2015-09-06 03:54:28.252832000 Z
 Isolate_74:
-  id: 453
+  id: 830
   isolate_id: 41908
   collection: 897878
   site: 86
   study_year: 2015
   bank: 20997
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.201940000 Z
-  updated_at: 2015-09-05 16:38:43.201940000 Z
+  created_at: 2015-09-06 03:54:28.261631000 Z
+  updated_at: 2015-09-06 03:54:28.261631000 Z
 Isolate_75:
-  id: 454
+  id: 831
   isolate_id: 41909
   collection: 897893
   site: 86
   study_year: 2015
   bank: 21010
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.211008000 Z
-  updated_at: 2015-09-05 16:38:43.211008000 Z
+  created_at: 2015-09-06 03:54:28.269070000 Z
+  updated_at: 2015-09-06 03:54:28.269070000 Z
 Isolate_76:
-  id: 455
+  id: 832
   isolate_id: 41910
   collection: 897876
   site: 86
   study_year: 2015
   bank: 20995
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.219563000 Z
-  updated_at: 2015-09-05 16:38:43.219563000 Z
+  created_at: 2015-09-06 03:54:28.277403000 Z
+  updated_at: 2015-09-06 03:54:28.277403000 Z
 Isolate_77:
-  id: 456
+  id: 833
   isolate_id: 41911
   collection: 897859
   site: 86
   study_year: 2015
   bank: 20980
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.228938000 Z
-  updated_at: 2015-09-05 16:38:43.228938000 Z
+  created_at: 2015-09-06 03:54:28.285531000 Z
+  updated_at: 2015-09-06 03:54:28.285531000 Z
 Isolate_78:
-  id: 457
+  id: 834
   isolate_id: 41912
   collection: 897908
   site: 86
   study_year: 2015
   bank: 21021
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.237422000 Z
-  updated_at: 2015-09-05 16:38:43.237422000 Z
+  created_at: 2015-09-06 03:54:28.294159000 Z
+  updated_at: 2015-09-06 03:54:28.294159000 Z
 Isolate_79:
-  id: 458
+  id: 835
   isolate_id: 41913
   collection: 897900
   site: 86
   study_year: 2015
   bank: 21016
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.245386000 Z
-  updated_at: 2015-09-05 16:38:43.245386000 Z
+  created_at: 2015-09-06 03:54:28.303296000 Z
+  updated_at: 2015-09-06 03:54:28.303296000 Z
 Isolate_80:
-  id: 459
+  id: 836
   isolate_id: 41914
   collection: 897899
   site: 86
   study_year: 2015
   bank: 21015
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.252907000 Z
-  updated_at: 2015-09-05 16:38:43.252907000 Z
+  created_at: 2015-09-06 03:54:28.312275000 Z
+  updated_at: 2015-09-06 03:54:28.312275000 Z
 Isolate_81:
-  id: 460
+  id: 837
   isolate_id: 41915
   collection: 897882
   site: 86
   study_year: 2015
   bank: 21001
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.260838000 Z
-  updated_at: 2015-09-05 16:38:43.260838000 Z
+  created_at: 2015-09-06 03:54:28.320415000 Z
+  updated_at: 2015-09-06 03:54:28.320415000 Z
 Isolate_82:
-  id: 461
+  id: 838
   isolate_id: 41916
   collection: 897860
   site: 86
   study_year: 2015
   bank: 20981
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.272210000 Z
-  updated_at: 2015-09-05 16:38:43.272210000 Z
+  created_at: 2015-09-06 03:54:28.328938000 Z
+  updated_at: 2015-09-06 03:54:28.328938000 Z
 Isolate_83:
-  id: 462
+  id: 839
   isolate_id: 41917
   collection: 897875
   site: 86
   study_year: 2015
   bank: 20994
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.281383000 Z
-  updated_at: 2015-09-05 16:38:43.281383000 Z
+  created_at: 2015-09-06 03:54:28.337101000 Z
+  updated_at: 2015-09-06 03:54:28.337101000 Z
 Isolate_84:
-  id: 463
+  id: 840
   isolate_id: 41935
   collection: 897825
   site: 86
   study_year: 2015
   bank: 21080
   organism_code: SHOM
-  created_at: 2015-09-05 16:38:43.291022000 Z
-  updated_at: 2015-09-05 16:38:43.291022000 Z
+  created_at: 2015-09-06 03:54:28.344601000 Z
+  updated_at: 2015-09-06 03:54:28.344601000 Z
 Isolate_85:
-  id: 464
+  id: 841
   isolate_id: 41962
   collection: 897835
   site: 86
   study_year: 2015
   bank: 21089
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.300111000 Z
-  updated_at: 2015-09-05 16:38:43.300111000 Z
+  created_at: 2015-09-06 03:54:28.353000000 Z
+  updated_at: 2015-09-06 03:54:28.353000000 Z
 Isolate_86:
-  id: 465
+  id: 842
   isolate_id: 41963
   collection: 897848
   site: 86
   study_year: 2015
   bank: 21102
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.309086000 Z
-  updated_at: 2015-09-05 16:38:43.309086000 Z
+  created_at: 2015-09-06 03:54:28.360859000 Z
+  updated_at: 2015-09-06 03:54:28.360859000 Z
 Isolate_87:
-  id: 466
+  id: 843
   isolate_id: 41964
   collection: 897791
   site: 86
   study_year: 2015
   bank: 21051
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.316873000 Z
-  updated_at: 2015-09-05 16:38:43.316873000 Z
+  created_at: 2015-09-06 03:54:28.368611000 Z
+  updated_at: 2015-09-06 03:54:28.368611000 Z
 Isolate_88:
-  id: 467
+  id: 844
   isolate_id: 41965
   collection: 897774
   site: 86
   study_year: 2015
   bank: 21035
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.324478000 Z
-  updated_at: 2015-09-05 16:38:43.324478000 Z
+  created_at: 2015-09-06 03:54:28.376731000 Z
+  updated_at: 2015-09-06 03:54:28.376731000 Z
 Isolate_89:
-  id: 468
+  id: 845
   isolate_id: 41966
   collection: 897851
   site: 86
   study_year: 2015
   bank: 21105
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.332812000 Z
-  updated_at: 2015-09-05 16:38:43.332812000 Z
+  created_at: 2015-09-06 03:54:28.385646000 Z
+  updated_at: 2015-09-06 03:54:28.385646000 Z
 Isolate_90:
-  id: 469
+  id: 846
   isolate_id: 41989
   collection: 897819
   site: 86
   study_year: 2015
   bank: 21074
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.340707000 Z
-  updated_at: 2015-09-05 16:38:43.340707000 Z
+  created_at: 2015-09-06 03:54:28.393876000 Z
+  updated_at: 2015-09-06 03:54:28.393876000 Z
 Isolate_91:
-  id: 470
+  id: 847
   isolate_id: 41990
   collection: 897805
   site: 86
   study_year: 2015
   bank: 21061
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.349379000 Z
-  updated_at: 2015-09-05 16:38:43.349379000 Z
+  created_at: 2015-09-06 03:54:28.400589000 Z
+  updated_at: 2015-09-06 03:54:28.400589000 Z
 Isolate_92:
-  id: 471
+  id: 848
   isolate_id: 41992
   collection: 897818
   site: 86
   study_year: 2015
   bank: 21073
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.357969000 Z
-  updated_at: 2015-09-05 16:38:43.357969000 Z
+  created_at: 2015-09-06 03:54:28.409151000 Z
+  updated_at: 2015-09-06 03:54:28.409151000 Z
 Isolate_93:
-  id: 472
+  id: 849
   isolate_id: 41993
   collection: 897855
   site: 86
   study_year: 2015
   bank: 21108
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.368048000 Z
-  updated_at: 2015-09-05 16:38:43.368048000 Z
+  created_at: 2015-09-06 03:54:28.415871000 Z
+  updated_at: 2015-09-06 03:54:28.415871000 Z
 Isolate_94:
-  id: 473
+  id: 850
   isolate_id: 41994
   collection: 897765
   site: 86
   study_year: 2015
   bank: 21027
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.377094000 Z
-  updated_at: 2015-09-05 16:38:43.377094000 Z
+  created_at: 2015-09-06 03:54:28.424707000 Z
+  updated_at: 2015-09-06 03:54:28.424707000 Z
 Isolate_95:
-  id: 474
+  id: 851
   isolate_id: 41995
   collection: 897788
   site: 86
   study_year: 2015
   bank: 21048
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.386037000 Z
-  updated_at: 2015-09-05 16:38:43.386037000 Z
+  created_at: 2015-09-06 03:54:28.432628000 Z
+  updated_at: 2015-09-06 03:54:28.432628000 Z
 Isolate_96:
-  id: 475
+  id: 852
   isolate_id: 41996
   collection: 897779
   site: 86
   study_year: 2015
   bank: 21040
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.393838000 Z
-  updated_at: 2015-09-05 16:38:43.393838000 Z
+  created_at: 2015-09-06 03:54:28.441235000 Z
+  updated_at: 2015-09-06 03:54:28.441235000 Z
 Isolate_97:
-  id: 476
+  id: 853
   isolate_id: 41997
   collection: 897840
   site: 86
   study_year: 2015
   bank: 21094
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.403168000 Z
-  updated_at: 2015-09-05 16:38:43.403168000 Z
+  created_at: 2015-09-06 03:54:28.448539000 Z
+  updated_at: 2015-09-06 03:54:28.448539000 Z
 Isolate_98:
-  id: 477
+  id: 854
   isolate_id: 41998
   collection: 897810
   site: 86
   study_year: 2015
   bank: 21065
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.412733000 Z
-  updated_at: 2015-09-05 16:38:43.412733000 Z
+  created_at: 2015-09-06 03:54:28.457311000 Z
+  updated_at: 2015-09-06 03:54:28.457311000 Z
 Isolate_99:
-  id: 478
+  id: 855
   isolate_id: 41999
   collection: 897827
   site: 86
   study_year: 2015
   bank: 21082
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.420140000 Z
-  updated_at: 2015-09-05 16:38:43.420140000 Z
+  created_at: 2015-09-06 03:54:28.464333000 Z
+  updated_at: 2015-09-06 03:54:28.464333000 Z
 Isolate_100:
-  id: 479
+  id: 856
   isolate_id: 42000
   collection: 897776
   site: 86
   study_year: 2015
   bank: 21037
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.428923000 Z
-  updated_at: 2015-09-05 16:38:43.428923000 Z
+  created_at: 2015-09-06 03:54:28.475275000 Z
+  updated_at: 2015-09-06 03:54:28.475275000 Z
 Isolate_101:
-  id: 480
+  id: 857
   isolate_id: 42001
   collection: 897796
   site: 86
   study_year: 2015
   bank: 21054
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.440260000 Z
-  updated_at: 2015-09-05 16:38:43.440260000 Z
+  created_at: 2015-09-06 03:54:28.483844000 Z
+  updated_at: 2015-09-06 03:54:28.483844000 Z
 Isolate_102:
-  id: 481
+  id: 858
   isolate_id: 42002
   collection: 897828
   site: 86
   study_year: 2015
   bank: 21083
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.448367000 Z
-  updated_at: 2015-09-05 16:38:43.448367000 Z
+  created_at: 2015-09-06 03:54:28.492159000 Z
+  updated_at: 2015-09-06 03:54:28.492159000 Z
 Isolate_103:
-  id: 482
+  id: 859
   isolate_id: 42003
   collection: 897806
   site: 86
   study_year: 2015
   bank: 21062
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.457808000 Z
-  updated_at: 2015-09-05 16:38:43.457808000 Z
+  created_at: 2015-09-06 03:54:28.501374000 Z
+  updated_at: 2015-09-06 03:54:28.501374000 Z
 Isolate_104:
-  id: 483
+  id: 860
   isolate_id: 42004
   collection: 897763
   site: 86
   study_year: 2015
   bank: 21025
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.464766000 Z
-  updated_at: 2015-09-05 16:38:43.464766000 Z
+  created_at: 2015-09-06 03:54:28.509143000 Z
+  updated_at: 2015-09-06 03:54:28.509143000 Z
 Isolate_105:
-  id: 484
+  id: 861
   isolate_id: 42005
   collection: 897795
   site: 86
   study_year: 2015
   bank: 21053
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.472810000 Z
-  updated_at: 2015-09-05 16:38:43.472810000 Z
+  created_at: 2015-09-06 03:54:28.516708000 Z
+  updated_at: 2015-09-06 03:54:28.516708000 Z
 Isolate_106:
-  id: 485
+  id: 862
   isolate_id: 42006
   collection: 897760
   site: 86
   study_year: 2015
   bank: 21022
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.479846000 Z
-  updated_at: 2015-09-05 16:38:43.479846000 Z
+  created_at: 2015-09-06 03:54:28.524898000 Z
+  updated_at: 2015-09-06 03:54:28.524898000 Z
 Isolate_107:
-  id: 486
+  id: 863
   isolate_id: 42007
   collection: 897843
   site: 86
   study_year: 2015
   bank: 21097
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.488844000 Z
-  updated_at: 2015-09-05 16:38:43.488844000 Z
+  created_at: 2015-09-06 03:54:28.531974000 Z
+  updated_at: 2015-09-06 03:54:28.531974000 Z
 Isolate_108:
-  id: 487
+  id: 864
   isolate_id: 42042
   collection: 897074
   site: 91
   study_year: 2015
   bank: 21135
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.496495000 Z
-  updated_at: 2015-09-05 16:38:43.496495000 Z
+  created_at: 2015-09-06 03:54:28.541198000 Z
+  updated_at: 2015-09-06 03:54:28.541198000 Z
 Isolate_109:
-  id: 488
+  id: 865
   isolate_id: 42043
   collection: 897040
   site: 91
   study_year: 2015
   bank: 21125
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.508519000 Z
-  updated_at: 2015-09-05 16:38:43.508519000 Z
+  created_at: 2015-09-06 03:54:28.549649000 Z
+  updated_at: 2015-09-06 03:54:28.549649000 Z
 Isolate_110:
-  id: 489
+  id: 866
   isolate_id: 42044
   collection: 897206
   site: 410
   study_year: 2015
   bank: 21149
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.517016000 Z
-  updated_at: 2015-09-05 16:38:43.517016000 Z
+  created_at: 2015-09-06 03:54:28.558807000 Z
+  updated_at: 2015-09-06 03:54:28.558807000 Z
 Isolate_111:
-  id: 490
+  id: 867
   isolate_id: 42046
   collection: 897748
   site: 86
   study_year: 2015
   bank: 21245
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.524270000 Z
-  updated_at: 2015-09-05 16:38:43.524270000 Z
+  created_at: 2015-09-06 03:54:28.567181000 Z
+  updated_at: 2015-09-06 03:54:28.567181000 Z
 Isolate_112:
-  id: 491
+  id: 868
   isolate_id: 42047
   collection: 897021
   site: 91
   study_year: 2015
   bank: 21115
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.532481000 Z
-  updated_at: 2015-09-05 16:38:43.532481000 Z
+  created_at: 2015-09-06 03:54:28.576092000 Z
+  updated_at: 2015-09-06 03:54:28.576092000 Z
 Isolate_113:
-  id: 492
+  id: 869
   isolate_id: 42048
   collection: 897562
   site: 371
   study_year: 2015
   bank: 21176
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.541792000 Z
-  updated_at: 2015-09-05 16:38:43.541792000 Z
+  created_at: 2015-09-06 03:54:28.584985000 Z
+  updated_at: 2015-09-06 03:54:28.584985000 Z
 Isolate_114:
-  id: 493
+  id: 870
   isolate_id: 42049
   collection: 897226
   site: 410
   study_year: 2015
   bank: 21152
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.549353000 Z
-  updated_at: 2015-09-05 16:38:43.549353000 Z
+  created_at: 2015-09-06 03:54:28.592805000 Z
+  updated_at: 2015-09-06 03:54:28.592805000 Z
 Isolate_115:
-  id: 494
+  id: 871
   isolate_id: 42050
   collection: 897121
   site: 91
   study_year: 2015
   bank: 21148
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.556941000 Z
-  updated_at: 2015-09-05 16:38:43.556941000 Z
+  created_at: 2015-09-06 03:54:28.600102000 Z
+  updated_at: 2015-09-06 03:54:28.600102000 Z
 Isolate_116:
-  id: 495
+  id: 872
   isolate_id: 42051
   collection: 897703
   site: 86
   study_year: 2015
   bank: 21220
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.564204000 Z
-  updated_at: 2015-09-05 16:38:43.564204000 Z
+  created_at: 2015-09-06 03:54:28.608022000 Z
+  updated_at: 2015-09-06 03:54:28.608022000 Z
 Isolate_117:
-  id: 496
+  id: 873
   isolate_id: 42052
   collection: 897343
   site: 260
   study_year: 2015
   bank: 21160
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.572655000 Z
-  updated_at: 2015-09-05 16:38:43.572655000 Z
+  created_at: 2015-09-06 03:54:28.616102000 Z
+  updated_at: 2015-09-06 03:54:28.616102000 Z
 Isolate_118:
-  id: 497
+  id: 874
   isolate_id: 42053
   collection: 897020
   site: 91
   study_year: 2015
   bank: 21114
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.580634000 Z
-  updated_at: 2015-09-05 16:38:43.580634000 Z
+  created_at: 2015-09-06 03:54:28.623905000 Z
+  updated_at: 2015-09-06 03:54:28.623905000 Z
 Isolate_119:
-  id: 498
+  id: 875
   isolate_id: 42054
   collection: 897218
   site: 410
   study_year: 2015
   bank: 21150
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.590075000 Z
-  updated_at: 2015-09-05 16:38:43.590075000 Z
+  created_at: 2015-09-06 03:54:28.631867000 Z
+  updated_at: 2015-09-06 03:54:28.631867000 Z
 Isolate_120:
-  id: 499
+  id: 876
   isolate_id: 42055
   collection: 897052
   site: 91
   study_year: 2015
   bank: 21129
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.599111000 Z
-  updated_at: 2015-09-05 16:38:43.599111000 Z
+  created_at: 2015-09-06 03:54:28.639812000 Z
+  updated_at: 2015-09-06 03:54:28.639812000 Z
 Isolate_121:
-  id: 500
+  id: 877
   isolate_id: 42056
   collection: 897018
   site: 91
   study_year: 2015
   bank: 21113
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.609064000 Z
-  updated_at: 2015-09-05 16:38:43.609064000 Z
+  created_at: 2015-09-06 03:54:28.647807000 Z
+  updated_at: 2015-09-06 03:54:28.647807000 Z
 Isolate_122:
-  id: 501
+  id: 878
   isolate_id: 42057
   collection: 897534
   site: 371
   study_year: 2015
   bank: 21171
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.616568000 Z
-  updated_at: 2015-09-05 16:38:43.616568000 Z
+  created_at: 2015-09-06 03:54:28.655896000 Z
+  updated_at: 2015-09-06 03:54:28.655896000 Z
 Isolate_123:
-  id: 502
+  id: 879
   isolate_id: 42058
   collection: 897066
   site: 91
   study_year: 2015
   bank: 21131
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.625827000 Z
-  updated_at: 2015-09-05 16:38:43.625827000 Z
+  created_at: 2015-09-06 03:54:28.664272000 Z
+  updated_at: 2015-09-06 03:54:28.664272000 Z
 Isolate_124:
-  id: 503
+  id: 880
   isolate_id: 42059
   collection: 897095
   site: 91
   study_year: 2015
   bank: 21141
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.633396000 Z
-  updated_at: 2015-09-05 16:38:43.633396000 Z
+  created_at: 2015-09-06 03:54:28.672845000 Z
+  updated_at: 2015-09-06 03:54:28.672845000 Z
 Isolate_125:
-  id: 504
+  id: 881
   isolate_id: 42060
   collection: 897671
   site: 86
   study_year: 2015
   bank: 21197
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.641354000 Z
-  updated_at: 2015-09-05 16:38:43.641354000 Z
+  created_at: 2015-09-06 03:54:28.681247000 Z
+  updated_at: 2015-09-06 03:54:28.681247000 Z
 Isolate_126:
-  id: 505
+  id: 882
   isolate_id: 42061
   collection: 897614
   site: 371
   study_year: 2015
   bank: 21186
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.650177000 Z
-  updated_at: 2015-09-05 16:38:43.650177000 Z
+  created_at: 2015-09-06 03:54:28.688064000 Z
+  updated_at: 2015-09-06 03:54:28.688064000 Z
 Isolate_127:
-  id: 506
+  id: 883
   isolate_id: 42062
   collection: 897571
   site: 371
   study_year: 2015
   bank: 21179
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.660324000 Z
-  updated_at: 2015-09-05 16:38:43.660324000 Z
+  created_at: 2015-09-06 03:54:28.695728000 Z
+  updated_at: 2015-09-06 03:54:28.695728000 Z
 Isolate_128:
-  id: 507
+  id: 884
   isolate_id: 42063
   collection: 897028
   site: 91
   study_year: 2015
   bank: 21120
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.669028000 Z
-  updated_at: 2015-09-05 16:38:43.669028000 Z
+  created_at: 2015-09-06 03:54:28.703957000 Z
+  updated_at: 2015-09-06 03:54:28.703957000 Z
 Isolate_129:
-  id: 508
+  id: 885
   isolate_id: 42065
   collection: 897697
   site: 86
   study_year: 2015
   bank: 21216
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.676408000 Z
-  updated_at: 2015-09-05 16:38:43.676408000 Z
+  created_at: 2015-09-06 03:54:28.711939000 Z
+  updated_at: 2015-09-06 03:54:28.711939000 Z
 Isolate_130:
-  id: 509
+  id: 886
   isolate_id: 42066
   collection: 897572
   site: 371
   study_year: 2015
   bank: 21180
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.685217000 Z
-  updated_at: 2015-09-05 16:38:43.685217000 Z
+  created_at: 2015-09-06 03:54:28.720145000 Z
+  updated_at: 2015-09-06 03:54:28.720145000 Z
 Isolate_131:
-  id: 510
+  id: 887
   isolate_id: 42067
   collection: 897609
   site: 371
   study_year: 2015
   bank: 21185
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.692821000 Z
-  updated_at: 2015-09-05 16:38:43.692821000 Z
+  created_at: 2015-09-06 03:54:28.728444000 Z
+  updated_at: 2015-09-06 03:54:28.728444000 Z
 Isolate_132:
-  id: 511
+  id: 888
   isolate_id: 42068
   collection: 897673
   site: 86
   study_year: 2015
   bank: 21199
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.701190000 Z
-  updated_at: 2015-09-05 16:38:43.701190000 Z
+  created_at: 2015-09-06 03:54:28.736266000 Z
+  updated_at: 2015-09-06 03:54:28.736266000 Z
 Isolate_133:
-  id: 512
+  id: 889
   isolate_id: 42069
   collection: 897224
   site: 410
   study_year: 2015
   bank: 21151
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.709315000 Z
-  updated_at: 2015-09-05 16:38:43.709315000 Z
+  created_at: 2015-09-06 03:54:28.744930000 Z
+  updated_at: 2015-09-06 03:54:28.744930000 Z
 Isolate_134:
-  id: 513
+  id: 890
   isolate_id: 42070
   collection: 897050
   site: 91
   study_year: 2015
   bank: 21128
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.717637000 Z
-  updated_at: 2015-09-05 16:38:43.717637000 Z
+  created_at: 2015-09-06 03:54:28.753733000 Z
+  updated_at: 2015-09-06 03:54:28.753733000 Z
 Isolate_135:
-  id: 514
+  id: 891
   isolate_id: 42071
   collection: 897732
   site: 86
   study_year: 2015
   bank: 21235
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.725446000 Z
-  updated_at: 2015-09-05 16:38:43.725446000 Z
+  created_at: 2015-09-06 03:54:28.761030000 Z
+  updated_at: 2015-09-06 03:54:28.761030000 Z
 Isolate_136:
-  id: 515
+  id: 892
   isolate_id: 42072
   collection: 897082
   site: 91
   study_year: 2015
   bank: 21137
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.737055000 Z
-  updated_at: 2015-09-05 16:38:43.737055000 Z
+  created_at: 2015-09-06 03:54:28.768481000 Z
+  updated_at: 2015-09-06 03:54:28.768481000 Z
 Isolate_137:
-  id: 516
+  id: 893
   isolate_id: 42073
   collection: 897685
   site: 86
   study_year: 2015
   bank: 21206
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.744948000 Z
-  updated_at: 2015-09-05 16:38:43.744948000 Z
+  created_at: 2015-09-06 03:54:28.777076000 Z
+  updated_at: 2015-09-06 03:54:28.777076000 Z
 Isolate_138:
-  id: 517
+  id: 894
   isolate_id: 42074
   collection: 897049
   site: 91
   study_year: 2015
   bank: 21127
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.752778000 Z
-  updated_at: 2015-09-05 16:38:43.752778000 Z
+  created_at: 2015-09-06 03:54:28.784107000 Z
+  updated_at: 2015-09-06 03:54:28.784107000 Z
 Isolate_139:
-  id: 518
+  id: 895
   isolate_id: 42124
   collection: 897750
   site: 86
   study_year: 2015
   bank: 21246
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.761002000 Z
-  updated_at: 2015-09-05 16:38:43.761002000 Z
+  created_at: 2015-09-06 03:54:28.792590000 Z
+  updated_at: 2015-09-06 03:54:28.792590000 Z
 Isolate_140:
-  id: 519
+  id: 896
   isolate_id: 42125
   collection: 897705
   site: 86
   study_year: 2015
   bank: 21222
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.768651000 Z
-  updated_at: 2015-09-05 16:38:43.768651000 Z
+  created_at: 2015-09-06 03:54:28.801539000 Z
+  updated_at: 2015-09-06 03:54:28.801539000 Z
 Isolate_141:
-  id: 520
+  id: 897
   isolate_id: 42126
   collection: 897654
   site: 371
   study_year: 2015
   bank: 21187
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.780083000 Z
-  updated_at: 2015-09-05 16:38:43.780083000 Z
+  created_at: 2015-09-06 03:54:28.808852000 Z
+  updated_at: 2015-09-06 03:54:28.808852000 Z
 Isolate_142:
-  id: 521
+  id: 898
   isolate_id: 42127
   collection: 897695
   site: 86
   study_year: 2015
   bank: 21214
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.788928000 Z
-  updated_at: 2015-09-05 16:38:43.788928000 Z
+  created_at: 2015-09-06 03:54:28.815778000 Z
+  updated_at: 2015-09-06 03:54:28.815778000 Z
 Isolate_143:
-  id: 522
+  id: 899
   isolate_id: 42128
   collection: 897586
   site: 371
   study_year: 2015
   bank: 21184
   organism_code: SLUG
-  created_at: 2015-09-05 16:38:43.796564000 Z
-  updated_at: 2015-09-05 16:38:43.796564000 Z
+  created_at: 2015-09-06 03:54:28.823501000 Z
+  updated_at: 2015-09-06 03:54:28.823501000 Z
 Isolate_144:
-  id: 523
+  id: 900
   isolate_id: 42147
   collection: 897678
   site: 86
   study_year: 2015
   bank: 21203
   organism_code: SH
-  created_at: 2015-09-05 16:38:43.805850000 Z
-  updated_at: 2015-09-05 16:38:43.805850000 Z
+  created_at: 2015-09-06 03:54:28.832195000 Z
+  updated_at: 2015-09-06 03:54:28.832195000 Z
 Isolate_145:
-  id: 524
+  id: 901
   isolate_id: 42188
   collection: 897646
   site: 371
   study_year: 2015
   bank: 21265
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.817877000 Z
-  updated_at: 2015-09-05 16:38:43.817877000 Z
+  created_at: 2015-09-06 03:54:28.840627000 Z
+  updated_at: 2015-09-06 03:54:28.840627000 Z
 Isolate_146:
-  id: 525
+  id: 902
   isolate_id: 42189
   collection: 897645
   site: 371
   study_year: 2015
   bank: 21264
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:43.827785000 Z
-  updated_at: 2015-09-05 16:38:43.827785000 Z
+  created_at: 2015-09-06 03:54:28.849350000 Z
+  updated_at: 2015-09-06 03:54:28.849350000 Z
 Isolate_147:
-  id: 526
+  id: 903
   isolate_id: 42190
   collection: 897681
   site: 86
   study_year: 2015
   bank: 21266
   organism_code: SCAP
-  created_at: 2015-09-05 16:38:43.837829000 Z
-  updated_at: 2015-09-05 16:38:43.837829000 Z
+  created_at: 2015-09-06 03:54:28.857076000 Z
+  updated_at: 2015-09-06 03:54:28.857076000 Z
 Isolate_148:
-  id: 527
+  id: 904
   isolate_id: 42221
   collection: 898007
   site: 481
   study_year: 2015
   bank: 21313
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.848085000 Z
-  updated_at: 2015-09-05 16:38:43.848085000 Z
+  created_at: 2015-09-06 03:54:28.865467000 Z
+  updated_at: 2015-09-06 03:54:28.865467000 Z
 Isolate_149:
-  id: 528
+  id: 905
   isolate_id: 42222
   collection: 897994
   site: 481
   study_year: 2015
   bank: 21301
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.856616000 Z
-  updated_at: 2015-09-05 16:38:43.856616000 Z
+  created_at: 2015-09-06 03:54:28.872874000 Z
+  updated_at: 2015-09-06 03:54:28.872874000 Z
 Isolate_150:
-  id: 529
+  id: 906
   isolate_id: 42223
   collection: 898003
   site: 481
   study_year: 2015
   bank: 21309
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.865647000 Z
-  updated_at: 2015-09-05 16:38:43.865647000 Z
+  created_at: 2015-09-06 03:54:28.881256000 Z
+  updated_at: 2015-09-06 03:54:28.881256000 Z
 Isolate_151:
-  id: 530
+  id: 907
   isolate_id: 42224
   collection: 897986
   site: 481
   study_year: 2015
   bank: 21293
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.873105000 Z
-  updated_at: 2015-09-05 16:38:43.873105000 Z
+  created_at: 2015-09-06 03:54:28.889697000 Z
+  updated_at: 2015-09-06 03:54:28.889697000 Z
 Isolate_152:
-  id: 531
+  id: 908
   isolate_id: 42225
   collection: 898011
   site: 481
   study_year: 2015
   bank: 21317
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.880058000 Z
-  updated_at: 2015-09-05 16:38:43.880058000 Z
+  created_at: 2015-09-06 03:54:28.897583000 Z
+  updated_at: 2015-09-06 03:54:28.897583000 Z
 Isolate_153:
-  id: 532
+  id: 909
   isolate_id: 42226
   collection: 898017
   site: 468
   study_year: 2015
   bank: 21318
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.889160000 Z
-  updated_at: 2015-09-05 16:38:43.889160000 Z
+  created_at: 2015-09-06 03:54:28.907086000 Z
+  updated_at: 2015-09-06 03:54:28.907086000 Z
 Isolate_154:
-  id: 533
+  id: 910
   isolate_id: 42227
   collection: 897985
   site: 481
   study_year: 2015
   bank: 21292
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.902429000 Z
-  updated_at: 2015-09-05 16:38:43.902429000 Z
+  created_at: 2015-09-06 03:54:28.915085000 Z
+  updated_at: 2015-09-06 03:54:28.915085000 Z
 Isolate_155:
-  id: 534
+  id: 911
   isolate_id: 42228
   collection: 898004
   site: 481
   study_year: 2015
   bank: 21310
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.912039000 Z
-  updated_at: 2015-09-05 16:38:43.912039000 Z
+  created_at: 2015-09-06 03:54:28.924158000 Z
+  updated_at: 2015-09-06 03:54:28.924158000 Z
 Isolate_156:
-  id: 535
+  id: 912
   isolate_id: 42229
   collection: 898001
   site: 481
   study_year: 2015
   bank: 21307
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.921416000 Z
-  updated_at: 2015-09-05 16:38:43.921416000 Z
+  created_at: 2015-09-06 03:54:28.933097000 Z
+  updated_at: 2015-09-06 03:54:28.933097000 Z
 Isolate_157:
-  id: 536
+  id: 913
   isolate_id: 42230
   collection: 898002
   site: 481
   study_year: 2015
   bank: 21308
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.930643000 Z
-  updated_at: 2015-09-05 16:38:43.930643000 Z
+  created_at: 2015-09-06 03:54:28.940645000 Z
+  updated_at: 2015-09-06 03:54:28.940645000 Z
 Isolate_158:
-  id: 537
+  id: 914
   isolate_id: 42231
   collection: 898019
   site: 468
   study_year: 2015
   bank: 21320
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.939851000 Z
-  updated_at: 2015-09-05 16:38:43.939851000 Z
+  created_at: 2015-09-06 03:54:28.950003000 Z
+  updated_at: 2015-09-06 03:54:28.950003000 Z
 Isolate_159:
-  id: 538
+  id: 915
   isolate_id: 42232
   collection: 898010
   site: 481
   study_year: 2015
   bank: 21316
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.949029000 Z
-  updated_at: 2015-09-05 16:38:43.949029000 Z
+  created_at: 2015-09-06 03:54:28.958341000 Z
+  updated_at: 2015-09-06 03:54:28.958341000 Z
 Isolate_160:
-  id: 539
+  id: 916
   isolate_id: 42275
   collection: 897679
   site: 86
   study_year: 2015
   bank: 21329
   organism_code: SHOM
-  created_at: 2015-09-05 16:38:43.957864000 Z
-  updated_at: 2015-09-05 16:38:43.957864000 Z
+  created_at: 2015-09-06 03:54:28.967307000 Z
+  updated_at: 2015-09-06 03:54:28.967307000 Z
 Isolate_161:
-  id: 540
+  id: 917
   isolate_id: 42276
   collection: 897707
   site: 86
   study_year: 2015
   bank: 21335
   organism_code: SHOM
-  created_at: 2015-09-05 16:38:43.965774000 Z
-  updated_at: 2015-09-05 16:38:43.965774000 Z
+  created_at: 2015-09-06 03:54:28.976058000 Z
+  updated_at: 2015-09-06 03:54:28.976058000 Z
 Isolate_162:
-  id: 541
+  id: 918
   isolate_id: 42277
   collection: 897718
   site: 86
   study_year: 2015
   bank: 21341
   organism_code: SHOM
-  created_at: 2015-09-05 16:38:43.972960000 Z
-  updated_at: 2015-09-05 16:38:43.972960000 Z
+  created_at: 2015-09-06 03:54:28.984614000 Z
+  updated_at: 2015-09-06 03:54:28.984614000 Z
 Isolate_163:
-  id: 542
+  id: 919
   isolate_id: 42308
   collection: 897590
   site: 371
   study_year: 2015
   bank: 21323
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.980542000 Z
-  updated_at: 2015-09-05 16:38:43.980542000 Z
+  created_at: 2015-09-06 03:54:28.993547000 Z
+  updated_at: 2015-09-06 03:54:28.993547000 Z
 Isolate_164:
-  id: 543
+  id: 920
   isolate_id: 42309
   collection: 897897
   site: 86
   study_year: 2015
   bank: 21363
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.989604000 Z
-  updated_at: 2015-09-05 16:38:43.989604000 Z
+  created_at: 2015-09-06 03:54:29.000269000 Z
+  updated_at: 2015-09-06 03:54:29.000269000 Z
 Isolate_165:
-  id: 544
+  id: 921
   isolate_id: 42310
   collection: 897736
   site: 86
   study_year: 2015
   bank: 21344
   organism_code: SA
-  created_at: 2015-09-05 16:38:43.996981000 Z
-  updated_at: 2015-09-05 16:38:43.996981000 Z
+  created_at: 2015-09-06 03:54:29.008770000 Z
+  updated_at: 2015-09-06 03:54:29.008770000 Z
 Isolate_166:
-  id: 545
+  id: 922
   isolate_id: 42311
   collection: 897717
   site: 86
   study_year: 2015
   bank: 21340
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.004737000 Z
-  updated_at: 2015-09-05 16:38:44.004737000 Z
+  created_at: 2015-09-06 03:54:29.017187000 Z
+  updated_at: 2015-09-06 03:54:29.017187000 Z
 Isolate_167:
-  id: 546
+  id: 923
   isolate_id: 42312
   collection: 898067
   site: 15
   study_year: 2015
   bank: 21387
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.012796000 Z
-  updated_at: 2015-09-05 16:38:44.012796000 Z
+  created_at: 2015-09-06 03:54:29.024490000 Z
+  updated_at: 2015-09-06 03:54:29.024490000 Z
 Isolate_168:
-  id: 547
+  id: 924
   isolate_id: 42313
   collection: 897799
   site: 86
   study_year: 2015
   bank: 21356
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.021482000 Z
-  updated_at: 2015-09-05 16:38:44.021482000 Z
+  created_at: 2015-09-06 03:54:29.033329000 Z
+  updated_at: 2015-09-06 03:54:29.033329000 Z
 Isolate_169:
-  id: 548
+  id: 925
   isolate_id: 42315
   collection: 897683
   site: 86
   study_year: 2015
   bank: 21330
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.029909000 Z
-  updated_at: 2015-09-05 16:38:44.029909000 Z
+  created_at: 2015-09-06 03:54:29.040963000 Z
+  updated_at: 2015-09-06 03:54:29.040963000 Z
 Isolate_170:
-  id: 549
+  id: 926
   isolate_id: 42316
   collection: 897784
   site: 86
   study_year: 2015
   bank: 21353
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.039430000 Z
-  updated_at: 2015-09-05 16:38:44.039430000 Z
+  created_at: 2015-09-06 03:54:29.049027000 Z
+  updated_at: 2015-09-06 03:54:29.049027000 Z
 Isolate_171:
-  id: 550
+  id: 927
   isolate_id: 42317
   collection: 897720
   site: 86
   study_year: 2015
   bank: 21342
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.049264000 Z
-  updated_at: 2015-09-05 16:38:44.049264000 Z
+  created_at: 2015-09-06 03:54:29.056451000 Z
+  updated_at: 2015-09-06 03:54:29.056451000 Z
 Isolate_172:
-  id: 551
+  id: 928
   isolate_id: 42318
   collection: 897109
   site: 91
   study_year: 2015
   bank: 21321
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.057217000 Z
-  updated_at: 2015-09-05 16:38:44.057217000 Z
+  created_at: 2015-09-06 03:54:29.064775000 Z
+  updated_at: 2015-09-06 03:54:29.064775000 Z
 Isolate_173:
-  id: 552
+  id: 929
   isolate_id: 42347
   collection: 897684
   site: 86
   study_year: 2015
   bank: 21331
   organism_code: SH
-  created_at: 2015-09-05 16:38:44.065194000 Z
-  updated_at: 2015-09-05 16:38:44.065194000 Z
+  created_at: 2015-09-06 03:54:29.073386000 Z
+  updated_at: 2015-09-06 03:54:29.073386000 Z
 Isolate_174:
-  id: 553
+  id: 930
   isolate_id: 42348
   collection: 897902
   site: 86
   study_year: 2015
   bank: 21365
   organism_code: SH
-  created_at: 2015-09-05 16:38:44.072984000 Z
-  updated_at: 2015-09-05 16:38:44.072984000 Z
+  created_at: 2015-09-06 03:54:29.081542000 Z
+  updated_at: 2015-09-06 03:54:29.081542000 Z
 Isolate_175:
-  id: 554
+  id: 931
   isolate_id: 42349
   collection: 897724
   site: 86
   study_year: 2015
   bank: 21343
   organism_code: SH
-  created_at: 2015-09-05 16:38:44.080461000 Z
-  updated_at: 2015-09-05 16:38:44.080461000 Z
+  created_at: 2015-09-06 03:54:29.089014000 Z
+  updated_at: 2015-09-06 03:54:29.089014000 Z
 Isolate_176:
-  id: 555
+  id: 932
   isolate_id: 42614
   collection: 898296
   site: 3
   study_year: 2015
   bank: 21657
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.089231000 Z
-  updated_at: 2015-09-05 16:38:44.089231000 Z
+  created_at: 2015-09-06 03:54:29.097658000 Z
+  updated_at: 2015-09-06 03:54:29.097658000 Z
 Isolate_177:
-  id: 556
+  id: 933
   isolate_id: 42915
   collection: 898477
   site: 65
   study_year: 2015
   bank: 21797
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.100745000 Z
-  updated_at: 2015-09-05 16:38:44.100745000 Z
+  created_at: 2015-09-06 03:54:29.106397000 Z
+  updated_at: 2015-09-06 03:54:29.106397000 Z
 Isolate_178:
-  id: 557
+  id: 934
   isolate_id: 42917
   collection: 898511
   site: 65
   study_year: 2015
   bank: 21827
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.108628000 Z
-  updated_at: 2015-09-05 16:38:44.108628000 Z
+  created_at: 2015-09-06 03:54:29.115288000 Z
+  updated_at: 2015-09-06 03:54:29.115288000 Z
 Isolate_179:
-  id: 558
+  id: 935
   isolate_id: 42923
   collection: 898490
   site: 65
   study_year: 2015
   bank: 21808
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.117826000 Z
-  updated_at: 2015-09-05 16:38:44.117826000 Z
+  created_at: 2015-09-06 03:54:29.124333000 Z
+  updated_at: 2015-09-06 03:54:29.124333000 Z
 Isolate_180:
-  id: 559
+  id: 936
   isolate_id: 42937
   collection: 898518
   site: 65
   study_year: 2015
   bank: 21832
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.127132000 Z
-  updated_at: 2015-09-05 16:38:44.127132000 Z
+  created_at: 2015-09-06 03:54:29.133360000 Z
+  updated_at: 2015-09-06 03:54:29.133360000 Z
 Isolate_181:
-  id: 560
+  id: 937
   isolate_id: 42939
   collection: 898510
   site: 65
   study_year: 2015
   bank: 21826
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.135852000 Z
-  updated_at: 2015-09-05 16:38:44.135852000 Z
+  created_at: 2015-09-06 03:54:29.141159000 Z
+  updated_at: 2015-09-06 03:54:29.141159000 Z
 Isolate_182:
-  id: 561
+  id: 938
   isolate_id: 42953
   collection: 898514
   site: 65
   study_year: 2015
   bank: 21828
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.146945000 Z
-  updated_at: 2015-09-05 16:38:44.146945000 Z
+  created_at: 2015-09-06 03:54:29.148627000 Z
+  updated_at: 2015-09-06 03:54:29.148627000 Z
 Isolate_183:
-  id: 562
+  id: 939
   isolate_id: 43012
   collection: 898592
   site: 377
   study_year: 2015
   bank: 21881
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.156541000 Z
-  updated_at: 2015-09-05 16:38:44.156541000 Z
+  created_at: 2015-09-06 03:54:29.157056000 Z
+  updated_at: 2015-09-06 03:54:29.157056000 Z
 Isolate_184:
-  id: 563
+  id: 940
   isolate_id: 43146
   collection: 898813
   site: 377
   study_year: 2015
   bank: 22053
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.164482000 Z
-  updated_at: 2015-09-05 16:38:44.164482000 Z
+  created_at: 2015-09-06 03:54:29.164560000 Z
+  updated_at: 2015-09-06 03:54:29.164560000 Z
 Isolate_185:
-  id: 564
+  id: 941
   isolate_id: 43249
   collection: 898553
   site: 728
   study_year: 2015
   bank: 22154
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.173456000 Z
-  updated_at: 2015-09-05 16:38:44.173456000 Z
+  created_at: 2015-09-06 03:54:29.173293000 Z
+  updated_at: 2015-09-06 03:54:29.173293000 Z
 Isolate_186:
-  id: 565
+  id: 942
   isolate_id: 43721
   collection: 899386
   site: 443
   study_year: 2015
   bank: 22543
   organism_code: PM
-  created_at: 2015-09-05 16:38:44.181238000 Z
-  updated_at: 2015-09-05 16:38:44.181238000 Z
+  created_at: 2015-09-06 03:54:29.180938000 Z
+  updated_at: 2015-09-06 03:54:29.180938000 Z
 Isolate_187:
-  id: 566
+  id: 943
   isolate_id: 43778
   collection: 899391
   site: 443
   study_year: 2015
   bank: 22548
   organism_code: CF
-  created_at: 2015-09-05 16:38:44.189652000 Z
-  updated_at: 2015-09-05 16:38:44.189652000 Z
+  created_at: 2015-09-06 03:54:29.188123000 Z
+  updated_at: 2015-09-06 03:54:29.188123000 Z
 Isolate_188:
-  id: 567
+  id: 944
   isolate_id: 43893
   collection: 899196
   site: 317
   study_year: 2015
   bank: 22611
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.199792000 Z
-  updated_at: 2015-09-05 16:38:44.199792000 Z
+  created_at: 2015-09-06 03:54:29.196479000 Z
+  updated_at: 2015-09-06 03:54:29.196479000 Z
 Isolate_189:
-  id: 568
+  id: 945
   isolate_id: 43901
   collection: 899185
   site: 317
   study_year: 2015
   bank: 22604
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.209977000 Z
-  updated_at: 2015-09-05 16:38:44.209977000 Z
+  created_at: 2015-09-06 03:54:29.204515000 Z
+  updated_at: 2015-09-06 03:54:29.204515000 Z
 Isolate_190:
-  id: 569
+  id: 946
   isolate_id: 43903
   collection: 899191
   site: 317
   study_year: 2015
   bank: 22608
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.219310000 Z
-  updated_at: 2015-09-05 16:38:44.219310000 Z
+  created_at: 2015-09-06 03:54:29.213090000 Z
+  updated_at: 2015-09-06 03:54:29.213090000 Z
 Isolate_191:
-  id: 570
+  id: 947
   isolate_id: 43909
   collection: 899174
   site: 317
   study_year: 2015
   bank: 22594
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.228912000 Z
-  updated_at: 2015-09-05 16:38:44.228912000 Z
+  created_at: 2015-09-06 03:54:29.221035000 Z
+  updated_at: 2015-09-06 03:54:29.221035000 Z
 Isolate_192:
-  id: 571
+  id: 948
   isolate_id: 43944
   collection: 899429
   site: 133
   study_year: 2015
   bank: 22682
   organism_code: SCAP
-  created_at: 2015-09-05 16:38:44.236182000 Z
-  updated_at: 2015-09-05 16:38:44.236182000 Z
+  created_at: 2015-09-06 03:54:29.228526000 Z
+  updated_at: 2015-09-06 03:54:29.228526000 Z
 Isolate_193:
-  id: 572
+  id: 949
   isolate_id: 43959
   collection: 899504
   site: 133
   study_year: 2015
   bank: 22744
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.244891000 Z
-  updated_at: 2015-09-05 16:38:44.244891000 Z
+  created_at: 2015-09-06 03:54:29.237160000 Z
+  updated_at: 2015-09-06 03:54:29.237160000 Z
 Isolate_194:
-  id: 573
+  id: 950
   isolate_id: 43968
   collection: 899472
   site: 133
   study_year: 2015
   bank: 22715
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.253769000 Z
-  updated_at: 2015-09-05 16:38:44.253769000 Z
+  created_at: 2015-09-06 03:54:29.244763000 Z
+  updated_at: 2015-09-06 03:54:29.244763000 Z
 Isolate_195:
-  id: 574
+  id: 951
   isolate_id: 43970
   collection: 899473
   site: 133
   study_year: 2015
   bank: 22716
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.261410000 Z
-  updated_at: 2015-09-05 16:38:44.261410000 Z
+  created_at: 2015-09-06 03:54:29.253212000 Z
+  updated_at: 2015-09-06 03:54:29.253212000 Z
 Isolate_196:
-  id: 575
+  id: 952
   isolate_id: 43971
   collection: 899456
   site: 133
   study_year: 2015
   bank: 22703
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.269399000 Z
-  updated_at: 2015-09-05 16:38:44.269399000 Z
+  created_at: 2015-09-06 03:54:29.261356000 Z
+  updated_at: 2015-09-06 03:54:29.261356000 Z
 Isolate_197:
-  id: 576
+  id: 953
   isolate_id: 43976
   collection: 899452
   site: 133
   study_year: 2015
   bank: 22701
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.277297000 Z
-  updated_at: 2015-09-05 16:38:44.277297000 Z
+  created_at: 2015-09-06 03:54:29.269373000 Z
+  updated_at: 2015-09-06 03:54:29.269373000 Z
 Isolate_198:
-  id: 577
+  id: 954
   isolate_id: 43980
   collection: 899417
   site: 133
   study_year: 2015
   bank: 22672
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.285757000 Z
-  updated_at: 2015-09-05 16:38:44.285757000 Z
+  created_at: 2015-09-06 03:54:29.276738000 Z
+  updated_at: 2015-09-06 03:54:29.276738000 Z
 Isolate_199:
-  id: 578
+  id: 955
   isolate_id: 43985
   collection: 899474
   site: 133
   study_year: 2015
   bank: 22717
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.295185000 Z
-  updated_at: 2015-09-05 16:38:44.295185000 Z
+  created_at: 2015-09-06 03:54:29.284517000 Z
+  updated_at: 2015-09-06 03:54:29.284517000 Z
 Isolate_200:
-  id: 579
+  id: 956
   isolate_id: 44000
   collection: 899436
   site: 133
   study_year: 2015
   bank: 22689
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.304599000 Z
-  updated_at: 2015-09-05 16:38:44.304599000 Z
+  created_at: 2015-09-06 03:54:29.293654000 Z
+  updated_at: 2015-09-06 03:54:29.293654000 Z
 Isolate_201:
-  id: 580
+  id: 957
   isolate_id: 44013
   collection: 899440
   site: 133
   study_year: 2015
   bank: 22693
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:44.312760000 Z
-  updated_at: 2015-09-05 16:38:44.312760000 Z
+  created_at: 2015-09-06 03:54:29.301500000 Z
+  updated_at: 2015-09-06 03:54:29.301500000 Z
 Isolate_202:
-  id: 581
+  id: 958
   isolate_id: 44014
   collection: 899430
   site: 133
   study_year: 2015
   bank: 22683
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:44.321010000 Z
-  updated_at: 2015-09-05 16:38:44.321010000 Z
+  created_at: 2015-09-06 03:54:29.309330000 Z
+  updated_at: 2015-09-06 03:54:29.309330000 Z
 Isolate_203:
-  id: 582
+  id: 959
   isolate_id: 44015
   collection: 899445
   site: 133
   study_year: 2015
   bank: 22697
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:44.329108000 Z
-  updated_at: 2015-09-05 16:38:44.329108000 Z
+  created_at: 2015-09-06 03:54:29.316837000 Z
+  updated_at: 2015-09-06 03:54:29.316837000 Z
 Isolate_204:
-  id: 583
+  id: 960
   isolate_id: 44020
   collection: 899587
   site: 801
   study_year: 2015
   bank: 22851
   organism_code: ECL
-  created_at: 2015-09-05 16:38:44.336969000 Z
-  updated_at: 2015-09-05 16:38:44.336969000 Z
+  created_at: 2015-09-06 03:54:29.324007000 Z
+  updated_at: 2015-09-06 03:54:29.324007000 Z
 Isolate_205:
-  id: 584
+  id: 961
   isolate_id: 44050
   collection: 899470
   site: 133
   study_year: 2015
   bank: 22792
   organism_code: SHOM
-  created_at: 2015-09-05 16:38:44.348496000 Z
-  updated_at: 2015-09-05 16:38:44.348496000 Z
+  created_at: 2015-09-06 03:54:29.332679000 Z
+  updated_at: 2015-09-06 03:54:29.332679000 Z
 Isolate_206:
-  id: 585
+  id: 962
   isolate_id: 44051
   collection: 899462
   site: 133
   study_year: 2015
   bank: 22791
   organism_code: SHOM
-  created_at: 2015-09-05 16:38:44.358321000 Z
-  updated_at: 2015-09-05 16:38:44.358321000 Z
+  created_at: 2015-09-06 03:54:29.342123000 Z
+  updated_at: 2015-09-06 03:54:29.342123000 Z
 Isolate_207:
-  id: 586
+  id: 963
   isolate_id: 44072
   collection: 899259
   site: 317
   study_year: 2015
   bank: 22757
   organism_code: SEPI
-  created_at: 2015-09-05 16:38:44.365571000 Z
-  updated_at: 2015-09-05 16:38:44.365571000 Z
+  created_at: 2015-09-06 03:54:29.349507000 Z
+  updated_at: 2015-09-06 03:54:29.349507000 Z
 Isolate_208:
-  id: 587
+  id: 964
   isolate_id: 44083
   collection: 899269
   site: 317
   study_year: 2015
   bank: 22759
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.373135000 Z
-  updated_at: 2015-09-05 16:38:44.373135000 Z
+  created_at: 2015-09-06 03:54:29.357386000 Z
+  updated_at: 2015-09-06 03:54:29.357386000 Z
 Isolate_209:
-  id: 588
+  id: 965
   isolate_id: 44087
   collection: 899373
   site: 443
   study_year: 2015
   bank: 22782
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.381203000 Z
-  updated_at: 2015-09-05 16:38:44.381203000 Z
+  created_at: 2015-09-06 03:54:29.364696000 Z
+  updated_at: 2015-09-06 03:54:29.364696000 Z
 Isolate_210:
-  id: 589
+  id: 966
   isolate_id: 44096
   collection: 899353
   site: 317
   study_year: 2015
   bank: 22779
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.389185000 Z
-  updated_at: 2015-09-05 16:38:44.389185000 Z
+  created_at: 2015-09-06 03:54:29.373296000 Z
+  updated_at: 2015-09-06 03:54:29.373296000 Z
 Isolate_211:
-  id: 590
+  id: 967
   isolate_id: 44097
   collection: 899453
   site: 133
   study_year: 2015
   bank: 22789
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.397169000 Z
-  updated_at: 2015-09-05 16:38:44.397169000 Z
+  created_at: 2015-09-06 03:54:29.380855000 Z
+  updated_at: 2015-09-06 03:54:29.380855000 Z
 Isolate_212:
-  id: 591
+  id: 968
   isolate_id: 44101
   collection: 899311
   site: 317
   study_year: 2015
   bank: 22768
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.405605000 Z
-  updated_at: 2015-09-05 16:38:44.405605000 Z
+  created_at: 2015-09-06 03:54:29.388999000 Z
+  updated_at: 2015-09-06 03:54:29.388999000 Z
 Isolate_213:
-  id: 592
+  id: 969
   isolate_id: 44108
   collection: 899297
   site: 317
   study_year: 2015
   bank: 22766
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.413195000 Z
-  updated_at: 2015-09-05 16:38:44.413195000 Z
+  created_at: 2015-09-06 03:54:29.396779000 Z
+  updated_at: 2015-09-06 03:54:29.396779000 Z
 Isolate_214:
-  id: 593
+  id: 970
   isolate_id: 44109
   collection: 899331
   site: 317
   study_year: 2015
   bank: 22774
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.420899000 Z
-  updated_at: 2015-09-05 16:38:44.420899000 Z
+  created_at: 2015-09-06 03:54:29.404290000 Z
+  updated_at: 2015-09-06 03:54:29.404290000 Z
 Isolate_215:
-  id: 594
+  id: 971
   isolate_id: 44114
   collection: 899283
   site: 317
   study_year: 2015
   bank: 22761
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.429616000 Z
-  updated_at: 2015-09-05 16:38:44.429616000 Z
+  created_at: 2015-09-06 03:54:29.412447000 Z
+  updated_at: 2015-09-06 03:54:29.412447000 Z
 Isolate_216:
-  id: 595
+  id: 972
   isolate_id: 44247
   collection: 899651
   site: 52
   study_year: 2015
   bank: 22927
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.436973000 Z
-  updated_at: 2015-09-05 16:38:44.436973000 Z
+  created_at: 2015-09-06 03:54:29.420567000 Z
+  updated_at: 2015-09-06 03:54:29.420567000 Z
 Isolate_217:
-  id: 596
+  id: 973
   isolate_id: 44248
   collection: 899633
   site: 52
   study_year: 2015
   bank: 22912
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.445360000 Z
-  updated_at: 2015-09-05 16:38:44.445360000 Z
+  created_at: 2015-09-06 03:54:29.429311000 Z
+  updated_at: 2015-09-06 03:54:29.429311000 Z
 Isolate_218:
-  id: 597
+  id: 974
   isolate_id: 44249
   collection: 899647
   site: 52
   study_year: 2015
   bank: 22923
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.453719000 Z
-  updated_at: 2015-09-05 16:38:44.453719000 Z
+  created_at: 2015-09-06 03:54:29.436618000 Z
+  updated_at: 2015-09-06 03:54:29.436618000 Z
 Isolate_219:
-  id: 598
+  id: 975
   isolate_id: 44250
   collection: 899628
   site: 52
   study_year: 2015
   bank: 22908
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.462760000 Z
-  updated_at: 2015-09-05 16:38:44.462760000 Z
+  created_at: 2015-09-06 03:54:29.443803000 Z
+  updated_at: 2015-09-06 03:54:29.443803000 Z
 Isolate_220:
-  id: 599
+  id: 976
   isolate_id: 44251
   collection: 899641
   site: 52
   study_year: 2015
   bank: 22919
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.471482000 Z
-  updated_at: 2015-09-05 16:38:44.471482000 Z
+  created_at: 2015-09-06 03:54:29.452181000 Z
+  updated_at: 2015-09-06 03:54:29.452181000 Z
 Isolate_221:
-  id: 600
+  id: 977
   isolate_id: 44252
   collection: 899643
   site: 52
   study_year: 2015
   bank: 22920
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.479841000 Z
-  updated_at: 2015-09-05 16:38:44.479841000 Z
+  created_at: 2015-09-06 03:54:29.461342000 Z
+  updated_at: 2015-09-06 03:54:29.461342000 Z
 Isolate_222:
-  id: 601
+  id: 978
   isolate_id: 44253
   collection: 899650
   site: 52
   study_year: 2015
   bank: 22926
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.489765000 Z
-  updated_at: 2015-09-05 16:38:44.489765000 Z
+  created_at: 2015-09-06 03:54:29.469048000 Z
+  updated_at: 2015-09-06 03:54:29.469048000 Z
 Isolate_223:
-  id: 602
+  id: 979
   isolate_id: 44254
   collection: 899625
   site: 52
   study_year: 2015
   bank: 22905
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.497922000 Z
-  updated_at: 2015-09-05 16:38:44.497922000 Z
+  created_at: 2015-09-06 03:54:29.477481000 Z
+  updated_at: 2015-09-06 03:54:29.477481000 Z
 Isolate_224:
-  id: 603
+  id: 980
   isolate_id: 44255
   collection: 899636
   site: 52
   study_year: 2015
   bank: 22914
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.507013000 Z
-  updated_at: 2015-09-05 16:38:44.507013000 Z
+  created_at: 2015-09-06 03:54:29.485657000 Z
+  updated_at: 2015-09-06 03:54:29.485657000 Z
 Isolate_225:
-  id: 604
+  id: 981
   isolate_id: 44256
   collection: 899649
   site: 52
   study_year: 2015
   bank: 22925
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.516632000 Z
-  updated_at: 2015-09-05 16:38:44.516632000 Z
+  created_at: 2015-09-06 03:54:29.492570000 Z
+  updated_at: 2015-09-06 03:54:29.492570000 Z
 Isolate_226:
-  id: 605
+  id: 982
   isolate_id: 44257
   collection: 899638
   site: 52
   study_year: 2015
   bank: 22916
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.525087000 Z
-  updated_at: 2015-09-05 16:38:44.525087000 Z
+  created_at: 2015-09-06 03:54:29.501157000 Z
+  updated_at: 2015-09-06 03:54:29.501157000 Z
 Isolate_227:
-  id: 606
+  id: 983
   isolate_id: 44258
   collection: 899637
   site: 52
   study_year: 2015
   bank: 22915
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.532560000 Z
-  updated_at: 2015-09-05 16:38:44.532560000 Z
+  created_at: 2015-09-06 03:54:29.508180000 Z
+  updated_at: 2015-09-06 03:54:29.508180000 Z
 Isolate_228:
-  id: 607
+  id: 984
   isolate_id: 44259
   collection: 899631
   site: 52
   study_year: 2015
   bank: 22910
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.540348000 Z
-  updated_at: 2015-09-05 16:38:44.540348000 Z
+  created_at: 2015-09-06 03:54:29.516249000 Z
+  updated_at: 2015-09-06 03:54:29.516249000 Z
 Isolate_229:
-  id: 608
+  id: 985
   isolate_id: 44260
   collection: 899622
   site: 52
   study_year: 2015
   bank: 22903
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.549301000 Z
-  updated_at: 2015-09-05 16:38:44.549301000 Z
+  created_at: 2015-09-06 03:54:29.525204000 Z
+  updated_at: 2015-09-06 03:54:29.525204000 Z
 Isolate_230:
-  id: 609
+  id: 986
   isolate_id: 44261
   collection: 899639
   site: 52
   study_year: 2015
   bank: 22917
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.557357000 Z
-  updated_at: 2015-09-05 16:38:44.557357000 Z
+  created_at: 2015-09-06 03:54:29.532991000 Z
+  updated_at: 2015-09-06 03:54:29.532991000 Z
 Isolate_231:
-  id: 610
+  id: 987
   isolate_id: 44262
   collection: 899640
   site: 52
   study_year: 2015
   bank: 22918
   organism_code: SA
-  created_at: 2015-09-05 16:38:44.565792000 Z
-  updated_at: 2015-09-05 16:38:44.565792000 Z
+  created_at: 2015-09-06 03:54:29.540799000 Z
+  updated_at: 2015-09-06 03:54:29.540799000 Z
 Isolate_232:
-  id: 611
+  id: 988
   isolate_id: 44351
   collection: 899692
   site: 709
   study_year: 2015
   bank: 23018
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.575238000 Z
-  updated_at: 2015-09-05 16:38:44.575238000 Z
+  created_at: 2015-09-06 03:54:29.547498000 Z
+  updated_at: 2015-09-06 03:54:29.547498000 Z
 Isolate_233:
-  id: 612
+  id: 989
   isolate_id: 44569
   collection: 900108
   site: 764
   study_year: 2015
   bank: 23301
   organism_code: EAE
-  created_at: 2015-09-05 16:38:44.584873000 Z
-  updated_at: 2015-09-05 16:38:44.584873000 Z
+  created_at: 2015-09-06 03:54:29.555662000 Z
+  updated_at: 2015-09-06 03:54:29.555662000 Z
 Isolate_234:
-  id: 613
+  id: 990
   isolate_id: 44570
   collection: 900089
   site: 764
   study_year: 2015
   bank: 23282
   organism_code: EAE
-  created_at: 2015-09-05 16:38:44.592949000 Z
-  updated_at: 2015-09-05 16:38:44.592949000 Z
+  created_at: 2015-09-06 03:54:29.563694000 Z
+  updated_at: 2015-09-06 03:54:29.563694000 Z
 Isolate_235:
-  id: 614
+  id: 991
   isolate_id: 44585
   collection: 900075
   site: 764
   study_year: 2015
   bank: 23269
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.600579000 Z
-  updated_at: 2015-09-05 16:38:44.600579000 Z
+  created_at: 2015-09-06 03:54:29.571677000 Z
+  updated_at: 2015-09-06 03:54:29.571677000 Z
 Isolate_236:
-  id: 615
+  id: 992
   isolate_id: 44666
   collection: 899964
   site: 136
   study_year: 2015
   bank: 23351
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.609041000 Z
-  updated_at: 2015-09-05 16:38:44.609041000 Z
+  created_at: 2015-09-06 03:54:29.579700000 Z
+  updated_at: 2015-09-06 03:54:29.579700000 Z
 Isolate_237:
-  id: 616
+  id: 993
   isolate_id: 44730
   collection: 900137
   site: 764
   study_year: 2015
   bank: 23389
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.616223000 Z
-  updated_at: 2015-09-05 16:38:44.616223000 Z
+  created_at: 2015-09-06 03:54:29.587795000 Z
+  updated_at: 2015-09-06 03:54:29.587795000 Z
 Isolate_238:
-  id: 617
+  id: 994
   isolate_id: 45340
   collection: 900335
   site: 279
   study_year: 2015
   bank: 23617
   organism_code: SM
-  created_at: 2015-09-05 16:38:44.624711000 Z
-  updated_at: 2015-09-05 16:38:44.624711000 Z
+  created_at: 2015-09-06 03:54:29.596074000 Z
+  updated_at: 2015-09-06 03:54:29.596074000 Z
 Isolate_239:
-  id: 618
+  id: 995
   isolate_id: 45532
   collection: 900433
   site: 3
   study_year: 2015
   bank: 23693
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.632938000 Z
-  updated_at: 2015-09-05 16:38:44.632938000 Z
+  created_at: 2015-09-06 03:54:29.603883000 Z
+  updated_at: 2015-09-06 03:54:29.603883000 Z
 Isolate_240:
-  id: 619
+  id: 996
   isolate_id: 45577
   collection: 900719
   site: 65
   study_year: 2015
   bank: 23819
   organism_code: ECL
-  created_at: 2015-09-05 16:38:44.640376000 Z
-  updated_at: 2015-09-05 16:38:44.640376000 Z
+  created_at: 2015-09-06 03:54:29.612351000 Z
+  updated_at: 2015-09-06 03:54:29.612351000 Z
 Isolate_241:
-  id: 620
+  id: 997
   isolate_id: 45578
   collection: 900553
   site: 130
   study_year: 2015
   bank: 23798
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.649306000 Z
-  updated_at: 2015-09-05 16:38:44.649306000 Z
+  created_at: 2015-09-06 03:54:29.620490000 Z
+  updated_at: 2015-09-06 03:54:29.620490000 Z
 Isolate_242:
-  id: 621
+  id: 998
   isolate_id: 45585
   collection: 900735
   site: 65
   study_year: 2015
   bank: 23832
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.657369000 Z
-  updated_at: 2015-09-05 16:38:44.657369000 Z
+  created_at: 2015-09-06 03:54:29.628683000 Z
+  updated_at: 2015-09-06 03:54:29.628683000 Z
 Isolate_243:
-  id: 622
+  id: 999
   isolate_id: 45598
   collection: 900768
   site: 65
   study_year: 2015
   bank: 23860
   organism_code: EAE
-  created_at: 2015-09-05 16:38:44.667859000 Z
-  updated_at: 2015-09-05 16:38:44.667859000 Z
+  created_at: 2015-09-06 03:54:29.637307000 Z
+  updated_at: 2015-09-06 03:54:29.637307000 Z
 Isolate_244:
-  id: 623
+  id: 1000
   isolate_id: 45601
   collection: 900766
   site: 65
   study_year: 2015
   bank: 23858
   organism_code: SM
-  created_at: 2015-09-05 16:38:44.676921000 Z
-  updated_at: 2015-09-05 16:38:44.676921000 Z
+  created_at: 2015-09-06 03:54:29.644927000 Z
+  updated_at: 2015-09-06 03:54:29.644927000 Z
 Isolate_245:
-  id: 624
+  id: 1001
   isolate_id: 45603
   collection: 900732
   site: 65
   study_year: 2015
   bank: 23829
   organism_code: SM
-  created_at: 2015-09-05 16:38:44.684948000 Z
-  updated_at: 2015-09-05 16:38:44.684948000 Z
+  created_at: 2015-09-06 03:54:29.652797000 Z
+  updated_at: 2015-09-06 03:54:29.652797000 Z
 Isolate_246:
-  id: 625
+  id: 1002
   isolate_id: 45605
   collection: 900749
   site: 65
   study_year: 2015
   bank: 23845
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.693159000 Z
-  updated_at: 2015-09-05 16:38:44.693159000 Z
+  created_at: 2015-09-06 03:54:29.661168000 Z
+  updated_at: 2015-09-06 03:54:29.661168000 Z
 Isolate_247:
-  id: 626
+  id: 1003
   isolate_id: 45612
   collection: 900571
   site: 51
   study_year: 2015
   bank: 23880
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.701551000 Z
-  updated_at: 2015-09-05 16:38:44.701551000 Z
+  created_at: 2015-09-06 03:54:29.668564000 Z
+  updated_at: 2015-09-06 03:54:29.668564000 Z
 Isolate_248:
-  id: 627
+  id: 1004
   isolate_id: 45620
   collection: 900712
   site: 65
   study_year: 2015
   bank: 23813
   organism_code: ECL
-  created_at: 2015-09-05 16:38:44.710913000 Z
-  updated_at: 2015-09-05 16:38:44.710913000 Z
+  created_at: 2015-09-06 03:54:29.677037000 Z
+  updated_at: 2015-09-06 03:54:29.677037000 Z
 Isolate_249:
-  id: 628
+  id: 1005
   isolate_id: 45621
   collection: 900537
   site: 130
   study_year: 2015
   bank: 23787
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.719965000 Z
-  updated_at: 2015-09-05 16:38:44.719965000 Z
+  created_at: 2015-09-06 03:54:29.684830000 Z
+  updated_at: 2015-09-06 03:54:29.684830000 Z
 Isolate_250:
-  id: 629
+  id: 1006
   isolate_id: 45624
   collection: 900535
   site: 130
   study_year: 2015
   bank: 23785
   organism_code: PM
-  created_at: 2015-09-05 16:38:44.729267000 Z
-  updated_at: 2015-09-05 16:38:44.729267000 Z
+  created_at: 2015-09-06 03:54:29.692465000 Z
+  updated_at: 2015-09-06 03:54:29.692465000 Z
 Isolate_251:
-  id: 630
+  id: 1007
   isolate_id: 45628
   collection: 900739
   site: 65
   study_year: 2015
   bank: 23836
   organism_code: SM
-  created_at: 2015-09-05 16:38:44.736920000 Z
-  updated_at: 2015-09-05 16:38:44.736920000 Z
+  created_at: 2015-09-06 03:54:29.700890000 Z
+  updated_at: 2015-09-06 03:54:29.700890000 Z
 Isolate_252:
-  id: 631
+  id: 1008
   isolate_id: 45630
   collection: 900574
   site: 51
   study_year: 2015
   bank: 23883
   organism_code: MM
-  created_at: 2015-09-05 16:38:44.745192000 Z
-  updated_at: 2015-09-05 16:38:44.745192000 Z
+  created_at: 2015-09-06 03:54:29.708107000 Z
+  updated_at: 2015-09-06 03:54:29.708107000 Z
 Isolate_253:
-  id: 632
+  id: 1009
   isolate_id: 45633
   collection: 900709
   site: 65
   study_year: 2015
   bank: 23810
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.753828000 Z
-  updated_at: 2015-09-05 16:38:44.753828000 Z
+  created_at: 2015-09-06 03:54:29.716718000 Z
+  updated_at: 2015-09-06 03:54:29.716718000 Z
 Isolate_254:
-  id: 633
+  id: 1010
   isolate_id: 45634
   collection: 900706
   site: 65
   study_year: 2015
   bank: 23807
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.766027000 Z
-  updated_at: 2015-09-05 16:38:44.766027000 Z
+  created_at: 2015-09-06 03:54:29.725764000 Z
+  updated_at: 2015-09-06 03:54:29.725764000 Z
 Isolate_255:
-  id: 634
+  id: 1011
   isolate_id: 45637
   collection: 900741
   site: 65
   study_year: 2015
   bank: 23838
   organism_code: ECL
-  created_at: 2015-09-05 16:38:44.777999000 Z
-  updated_at: 2015-09-05 16:38:44.777999000 Z
+  created_at: 2015-09-06 03:54:29.733268000 Z
+  updated_at: 2015-09-06 03:54:29.733268000 Z
 Isolate_256:
-  id: 635
+  id: 1012
   isolate_id: 45638
   collection: 900773
   site: 65
   study_year: 2015
   bank: 23863
   organism_code: PM
-  created_at: 2015-09-05 16:38:44.785442000 Z
-  updated_at: 2015-09-05 16:38:44.785442000 Z
+  created_at: 2015-09-06 03:54:29.740789000 Z
+  updated_at: 2015-09-06 03:54:29.740789000 Z
 Isolate_257:
-  id: 636
+  id: 1013
   isolate_id: 45642
   collection: 900573
   site: 51
   study_year: 2015
   bank: 23882
   organism_code: CK
-  created_at: 2015-09-05 16:38:44.794002000 Z
-  updated_at: 2015-09-05 16:38:44.794002000 Z
+  created_at: 2015-09-06 03:54:29.748534000 Z
+  updated_at: 2015-09-06 03:54:29.748534000 Z
 Isolate_258:
-  id: 637
+  id: 1014
   isolate_id: 45643
   collection: 900710
   site: 65
   study_year: 2015
   bank: 23811
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.803470000 Z
-  updated_at: 2015-09-05 16:38:44.803470000 Z
+  created_at: 2015-09-06 03:54:29.756963000 Z
+  updated_at: 2015-09-06 03:54:29.756963000 Z
 Isolate_259:
-  id: 638
+  id: 1015
   isolate_id: 45644
   collection: 900711
   site: 65
   study_year: 2015
   bank: 23812
   organism_code: PM
-  created_at: 2015-09-05 16:38:44.812319000 Z
-  updated_at: 2015-09-05 16:38:44.812319000 Z
+  created_at: 2015-09-06 03:54:29.764527000 Z
+  updated_at: 2015-09-06 03:54:29.764527000 Z
 Isolate_260:
-  id: 639
+  id: 1016
   isolate_id: 45645
   collection: 900568
   site: 51
   study_year: 2015
   bank: 23877
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.821273000 Z
-  updated_at: 2015-09-05 16:38:44.821273000 Z
+  created_at: 2015-09-06 03:54:29.772486000 Z
+  updated_at: 2015-09-06 03:54:29.772486000 Z
 Isolate_261:
-  id: 640
+  id: 1017
   isolate_id: 45646
   collection: 900554
   site: 130
   study_year: 2015
   bank: 23799
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.828928000 Z
-  updated_at: 2015-09-05 16:38:44.828928000 Z
+  created_at: 2015-09-06 03:54:29.781227000 Z
+  updated_at: 2015-09-06 03:54:29.781227000 Z
 Isolate_262:
-  id: 641
+  id: 1018
   isolate_id: 45648
   collection: 900729
   site: 65
   study_year: 2015
   bank: 23826
   organism_code: ECL
-  created_at: 2015-09-05 16:38:44.836770000 Z
-  updated_at: 2015-09-05 16:38:44.836770000 Z
+  created_at: 2015-09-06 03:54:29.788950000 Z
+  updated_at: 2015-09-06 03:54:29.788950000 Z
 Isolate_263:
-  id: 642
+  id: 1019
   isolate_id: 45656
   collection: 900536
   site: 130
   study_year: 2015
   bank: 23786
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.844480000 Z
-  updated_at: 2015-09-05 16:38:44.844480000 Z
+  created_at: 2015-09-06 03:54:29.795580000 Z
+  updated_at: 2015-09-06 03:54:29.795580000 Z
 Isolate_264:
-  id: 643
+  id: 1020
   isolate_id: 45657
   collection: 900736
   site: 65
   study_year: 2015
   bank: 23833
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.853722000 Z
-  updated_at: 2015-09-05 16:38:44.853722000 Z
+  created_at: 2015-09-06 03:54:29.803844000 Z
+  updated_at: 2015-09-06 03:54:29.803844000 Z
 Isolate_265:
-  id: 644
+  id: 1021
   isolate_id: 45658
   collection: 900547
   site: 130
   study_year: 2015
   bank: 23793
   organism_code: ECL
-  created_at: 2015-09-05 16:38:44.861040000 Z
-  updated_at: 2015-09-05 16:38:44.861040000 Z
+  created_at: 2015-09-06 03:54:29.811944000 Z
+  updated_at: 2015-09-06 03:54:29.811944000 Z
 Isolate_266:
-  id: 645
+  id: 1022
   isolate_id: 45661
   collection: 900777
   site: 65
   study_year: 2015
   bank: 23866
   organism_code: KOX
-  created_at: 2015-09-05 16:38:44.869764000 Z
-  updated_at: 2015-09-05 16:38:44.869764000 Z
+  created_at: 2015-09-06 03:54:29.821048000 Z
+  updated_at: 2015-09-06 03:54:29.821048000 Z
 Isolate_267:
-  id: 646
+  id: 1023
   isolate_id: 45665
   collection: 900545
   site: 130
   study_year: 2015
   bank: 23792
   organism_code: SM
-  created_at: 2015-09-05 16:38:44.877271000 Z
-  updated_at: 2015-09-05 16:38:44.877271000 Z
+  created_at: 2015-09-06 03:54:29.828421000 Z
+  updated_at: 2015-09-06 03:54:29.828421000 Z
 Isolate_268:
-  id: 647
+  id: 1024
   isolate_id: 45668
   collection: 900720
   site: 65
   study_year: 2015
   bank: 23820
   organism_code: PM
-  created_at: 2015-09-05 16:38:44.884612000 Z
-  updated_at: 2015-09-05 16:38:44.884612000 Z
+  created_at: 2015-09-06 03:54:29.836388000 Z
+  updated_at: 2015-09-06 03:54:29.836388000 Z
 Isolate_269:
-  id: 648
+  id: 1025
   isolate_id: 45669
   collection: 900763
   site: 65
   study_year: 2015
   bank: 23855
   organism_code: ECL
-  created_at: 2015-09-05 16:38:44.895740000 Z
-  updated_at: 2015-09-05 16:38:44.895740000 Z
+  created_at: 2015-09-06 03:54:29.844817000 Z
+  updated_at: 2015-09-06 03:54:29.844817000 Z
 Isolate_270:
-  id: 649
+  id: 1026
   isolate_id: 45672
   collection: 900738
   site: 65
   study_year: 2015
   bank: 23835
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.904753000 Z
-  updated_at: 2015-09-05 16:38:44.904753000 Z
+  created_at: 2015-09-06 03:54:29.852070000 Z
+  updated_at: 2015-09-06 03:54:29.852070000 Z
 Isolate_271:
-  id: 650
+  id: 1027
   isolate_id: 45677
   collection: 900713
   site: 65
   study_year: 2015
   bank: 23814
   organism_code: EAE
-  created_at: 2015-09-05 16:38:44.913234000 Z
-  updated_at: 2015-09-05 16:38:44.913234000 Z
+  created_at: 2015-09-06 03:54:29.859709000 Z
+  updated_at: 2015-09-06 03:54:29.859709000 Z
 Isolate_272:
-  id: 651
+  id: 1028
   isolate_id: 45680
   collection: 900708
   site: 65
   study_year: 2015
   bank: 23809
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.921833000 Z
-  updated_at: 2015-09-05 16:38:44.921833000 Z
+  created_at: 2015-09-06 03:54:29.868688000 Z
+  updated_at: 2015-09-06 03:54:29.868688000 Z
 Isolate_273:
-  id: 652
+  id: 1029
   isolate_id: 45682
   collection: 900757
   site: 65
   study_year: 2015
   bank: 23851
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.929289000 Z
-  updated_at: 2015-09-05 16:38:44.929289000 Z
+  created_at: 2015-09-06 03:54:29.877232000 Z
+  updated_at: 2015-09-06 03:54:29.877232000 Z
 Isolate_274:
-  id: 653
+  id: 1030
   isolate_id: 45704
   collection: 900753
   site: 65
   study_year: 2015
   bank: 23914
   organism_code: KPN
-  created_at: 2015-09-05 16:38:44.937541000 Z
-  updated_at: 2015-09-05 16:38:44.937541000 Z
+  created_at: 2015-09-06 03:54:29.884265000 Z
+  updated_at: 2015-09-06 03:54:29.884265000 Z
 Isolate_275:
-  id: 654
+  id: 1031
   isolate_id: 45705
   collection: 900534
   site: 130
   study_year: 2015
   bank: 23910
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.945288000 Z
-  updated_at: 2015-09-05 16:38:44.945288000 Z
+  created_at: 2015-09-06 03:54:29.892847000 Z
+  updated_at: 2015-09-06 03:54:29.892847000 Z
 Isolate_276:
-  id: 655
+  id: 1032
   isolate_id: 45708
   collection: 900726
   site: 65
   study_year: 2015
   bank: 23913
   organism_code: EC
-  created_at: 2015-09-05 16:38:44.952283000 Z
-  updated_at: 2015-09-05 16:38:44.952283000 Z
+  created_at: 2015-09-06 03:54:29.900762000 Z
+  updated_at: 2015-09-06 03:54:29.900762000 Z
 Isolate_277:
-  id: 656
+  id: 1033
   isolate_id: 45765
   collection: 900817
   site: 136
   study_year: 2015
   bank: 24012
   organism_code: EAE
-  created_at: 2015-09-05 16:38:44.961229000 Z
-  updated_at: 2015-09-05 16:38:44.961229000 Z
+  created_at: 2015-09-06 03:54:29.908393000 Z
+  updated_at: 2015-09-06 03:54:29.908393000 Z
 Isolate_278:
-  id: 657
+  id: 1034
   isolate_id: 45768
   collection: 900849
   site: 136
   study_year: 2015
   bank: 24040
   organism_code: PVS
-  created_at: 2015-09-05 16:38:44.969115000 Z
-  updated_at: 2015-09-05 16:38:44.969115000 Z
+  created_at: 2015-09-06 03:54:29.916756000 Z
+  updated_at: 2015-09-06 03:54:29.916756000 Z
 Isolate_279:
-  id: 658
+  id: 1035
   isolate_id: 45769
   collection: 900683
   site: 461
   study_year: 2015
   bank: 23983
   organism_code: SM
-  created_at: 2015-09-05 16:38:44.976276000 Z
-  updated_at: 2015-09-05 16:38:44.976276000 Z
+  created_at: 2015-09-06 03:54:29.924771000 Z
+  updated_at: 2015-09-06 03:54:29.924771000 Z
 Isolate_280:
-  id: 659
+  id: 1036
   isolate_id: 45770
   collection: 900681
   site: 461
   study_year: 2015
   bank: 23981
   organism_code: SM
-  created_at: 2015-09-05 16:38:44.987126000 Z
-  updated_at: 2015-09-05 16:38:44.987126000 Z
+  created_at: 2015-09-06 03:54:29.932856000 Z
+  updated_at: 2015-09-06 03:54:29.932856000 Z
 Isolate_281:
-  id: 660
+  id: 1037
   isolate_id: 45774
   collection: 900843
   site: 136
   study_year: 2015
   bank: 24034
   organism_code: PM
-  created_at: 2015-09-05 16:38:44.995404000 Z
-  updated_at: 2015-09-05 16:38:44.995404000 Z
+  created_at: 2015-09-06 03:54:29.939815000 Z
+  updated_at: 2015-09-06 03:54:29.939815000 Z
 Isolate_282:
-  id: 661
+  id: 1038
   isolate_id: 45775
   collection: 900858
   site: 136
   study_year: 2015
   bank: 24048
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.004064000 Z
-  updated_at: 2015-09-05 16:38:45.004064000 Z
+  created_at: 2015-09-06 03:54:29.948252000 Z
+  updated_at: 2015-09-06 03:54:29.948252000 Z
 Isolate_283:
-  id: 662
+  id: 1039
   isolate_id: 45785
   collection: 900831
   site: 136
   study_year: 2015
   bank: 24024
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.013129000 Z
-  updated_at: 2015-09-05 16:38:45.013129000 Z
+  created_at: 2015-09-06 03:54:29.956676000 Z
+  updated_at: 2015-09-06 03:54:29.956676000 Z
 Isolate_284:
-  id: 663
+  id: 1040
   isolate_id: 45787
   collection: 900863
   site: 136
   study_year: 2015
   bank: 24052
   organism_code: KOX
-  created_at: 2015-09-05 16:38:45.021460000 Z
-  updated_at: 2015-09-05 16:38:45.021460000 Z
+  created_at: 2015-09-06 03:54:29.965729000 Z
+  updated_at: 2015-09-06 03:54:29.965729000 Z
 Isolate_285:
-  id: 664
+  id: 1041
   isolate_id: 45790
   collection: 900813
   site: 461
   study_year: 2015
   bank: 24009
   organism_code: MM
-  created_at: 2015-09-05 16:38:45.029682000 Z
-  updated_at: 2015-09-05 16:38:45.029682000 Z
+  created_at: 2015-09-06 03:54:29.974498000 Z
+  updated_at: 2015-09-06 03:54:29.974498000 Z
 Isolate_286:
-  id: 665
+  id: 1042
   isolate_id: 45794
   collection: 900856
   site: 136
   study_year: 2015
   bank: 24046
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.037094000 Z
-  updated_at: 2015-09-05 16:38:45.037094000 Z
+  created_at: 2015-09-06 03:54:29.982926000 Z
+  updated_at: 2015-09-06 03:54:29.982926000 Z
 Isolate_287:
-  id: 666
+  id: 1043
   isolate_id: 45797
   collection: 900850
   site: 136
   study_year: 2015
   bank: 24041
   organism_code: PM
-  created_at: 2015-09-05 16:38:45.044244000 Z
-  updated_at: 2015-09-05 16:38:45.044244000 Z
+  created_at: 2015-09-06 03:54:29.991736000 Z
+  updated_at: 2015-09-06 03:54:29.991736000 Z
 Isolate_288:
-  id: 667
+  id: 1044
   isolate_id: 45802
   collection: 900682
   site: 461
   study_year: 2015
   bank: 23982
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.053015000 Z
-  updated_at: 2015-09-05 16:38:45.053015000 Z
+  created_at: 2015-09-06 03:54:30.001137000 Z
+  updated_at: 2015-09-06 03:54:30.001137000 Z
 Isolate_289:
-  id: 668
+  id: 1045
   isolate_id: 45808
   collection: 900841
   site: 136
   study_year: 2015
   bank: 24032
   organism_code: KOX
-  created_at: 2015-09-05 16:38:45.064898000 Z
-  updated_at: 2015-09-05 16:38:45.064898000 Z
+  created_at: 2015-09-06 03:54:30.009245000 Z
+  updated_at: 2015-09-06 03:54:30.009245000 Z
 Isolate_290:
-  id: 669
+  id: 1046
   isolate_id: 45821
   collection: 900685
   site: 461
   study_year: 2015
   bank: 23984
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.074625000 Z
-  updated_at: 2015-09-05 16:38:45.074625000 Z
+  created_at: 2015-09-06 03:54:30.017001000 Z
+  updated_at: 2015-09-06 03:54:30.017001000 Z
 Isolate_291:
-  id: 670
+  id: 1047
   isolate_id: 45826
   collection: 900830
   site: 136
   study_year: 2015
   bank: 24023
   organism_code: PVS
-  created_at: 2015-09-05 16:38:45.083704000 Z
-  updated_at: 2015-09-05 16:38:45.083704000 Z
+  created_at: 2015-09-06 03:54:30.024667000 Z
+  updated_at: 2015-09-06 03:54:30.024667000 Z
 Isolate_292:
-  id: 671
+  id: 1048
   isolate_id: 45830
   collection: 900862
   site: 136
   study_year: 2015
   bank: 24051
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.093100000 Z
-  updated_at: 2015-09-05 16:38:45.093100000 Z
+  created_at: 2015-09-06 03:54:30.033401000 Z
+  updated_at: 2015-09-06 03:54:30.033401000 Z
 Isolate_293:
-  id: 672
+  id: 1049
   isolate_id: 45831
   collection: 900828
   site: 136
   study_year: 2015
   bank: 24021
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.100172000 Z
-  updated_at: 2015-09-05 16:38:45.100172000 Z
+  created_at: 2015-09-06 03:54:30.041755000 Z
+  updated_at: 2015-09-06 03:54:30.041755000 Z
 Isolate_294:
-  id: 673
+  id: 1050
   isolate_id: 45832
   collection: 900837
   site: 136
   study_year: 2015
   bank: 24028
   organism_code: CK
-  created_at: 2015-09-05 16:38:45.110767000 Z
-  updated_at: 2015-09-05 16:38:45.110767000 Z
+  created_at: 2015-09-06 03:54:30.050841000 Z
+  updated_at: 2015-09-06 03:54:30.050841000 Z
 Isolate_295:
-  id: 674
+  id: 1051
   isolate_id: 45836
   collection: 900812
   site: 461
   study_year: 2015
   bank: 24008
   organism_code: PVR
-  created_at: 2015-09-05 16:38:45.119901000 Z
-  updated_at: 2015-09-05 16:38:45.119901000 Z
+  created_at: 2015-09-06 03:54:30.060000000 Z
+  updated_at: 2015-09-06 03:54:30.060000000 Z
 Isolate_296:
-  id: 675
+  id: 1052
   isolate_id: 45840
   collection: 900839
   site: 136
   study_year: 2015
   bank: 24030
   organism_code: PVR
-  created_at: 2015-09-05 16:38:45.128849000 Z
-  updated_at: 2015-09-05 16:38:45.128849000 Z
+  created_at: 2015-09-06 03:54:30.068307000 Z
+  updated_at: 2015-09-06 03:54:30.068307000 Z
 Isolate_297:
-  id: 676
+  id: 1053
   isolate_id: 45843
   collection: 900786
   site: 65
   study_year: 2015
   bank: 24059
   organism_code: SM
-  created_at: 2015-09-05 16:38:45.136475000 Z
-  updated_at: 2015-09-05 16:38:45.136475000 Z
+  created_at: 2015-09-06 03:54:30.076583000 Z
+  updated_at: 2015-09-06 03:54:30.076583000 Z
 Isolate_298:
-  id: 677
+  id: 1054
   isolate_id: 45849
   collection: 900793
   site: 65
   study_year: 2015
   bank: 24063
   organism_code: PM
-  created_at: 2015-09-05 16:38:45.145869000 Z
-  updated_at: 2015-09-05 16:38:45.145869000 Z
+  created_at: 2015-09-06 03:54:30.085494000 Z
+  updated_at: 2015-09-06 03:54:30.085494000 Z
 Isolate_299:
-  id: 678
+  id: 1055
   isolate_id: 45850
   collection: 900791
   site: 65
   study_year: 2015
   bank: 24061
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.154855000 Z
-  updated_at: 2015-09-05 16:38:45.154855000 Z
+  created_at: 2015-09-06 03:54:30.093036000 Z
+  updated_at: 2015-09-06 03:54:30.093036000 Z
 Isolate_300:
-  id: 679
+  id: 1056
   isolate_id: 45851
   collection: 900792
   site: 65
   study_year: 2015
   bank: 24062
   organism_code: EAE
-  created_at: 2015-09-05 16:38:45.163273000 Z
-  updated_at: 2015-09-05 16:38:45.163273000 Z
+  created_at: 2015-09-06 03:54:30.101104000 Z
+  updated_at: 2015-09-06 03:54:30.101104000 Z
 Isolate_301:
-  id: 680
+  id: 1057
   isolate_id: 45853
   collection: 900795
   site: 65
   study_year: 2015
   bank: 24064
   organism_code: KOX
-  created_at: 2015-09-05 16:38:45.172313000 Z
-  updated_at: 2015-09-05 16:38:45.172313000 Z
+  created_at: 2015-09-06 03:54:30.108745000 Z
+  updated_at: 2015-09-06 03:54:30.108745000 Z
 Isolate_302:
-  id: 681
+  id: 1058
   isolate_id: 45855
   collection: 900800
   site: 65
   study_year: 2015
   bank: 24068
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.182126000 Z
-  updated_at: 2015-09-05 16:38:45.182126000 Z
+  created_at: 2015-09-06 03:54:30.118227000 Z
+  updated_at: 2015-09-06 03:54:30.118227000 Z
 Isolate_303:
-  id: 682
+  id: 1059
   isolate_id: 45856
   collection: 900783
   site: 65
   study_year: 2015
   bank: 24057
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.191925000 Z
-  updated_at: 2015-09-05 16:38:45.191925000 Z
+  created_at: 2015-09-06 03:54:30.127478000 Z
+  updated_at: 2015-09-06 03:54:30.127478000 Z
 Isolate_304:
-  id: 683
+  id: 1060
   isolate_id: 46065
   collection: 900533
   site: 130
   study_year: 2015
   bank: 24095
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.201342000 Z
-  updated_at: 2015-09-05 16:38:45.201342000 Z
+  created_at: 2015-09-06 03:54:30.135831000 Z
+  updated_at: 2015-09-06 03:54:30.135831000 Z
 Isolate_305:
-  id: 684
+  id: 1061
   isolate_id: 46072
   collection: 900760
   site: 65
   study_year: 2015
   bank: 24093
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.209436000 Z
-  updated_at: 2015-09-05 16:38:45.209436000 Z
+  created_at: 2015-09-06 03:54:30.144017000 Z
+  updated_at: 2015-09-06 03:54:30.144017000 Z
 Isolate_306:
-  id: 685
+  id: 1062
   isolate_id: 46081
   collection: 900743
   site: 65
   study_year: 2015
   bank: 24094
   organism_code: CFC
-  created_at: 2015-09-05 16:38:45.216408000 Z
-  updated_at: 2015-09-05 16:38:45.216408000 Z
+  created_at: 2015-09-06 03:54:30.153355000 Z
+  updated_at: 2015-09-06 03:54:30.153355000 Z
 Isolate_307:
-  id: 686
+  id: 1063
   isolate_id: 46083
   collection: 900770
   site: 65
   study_year: 2015
   bank: 24092
   organism_code: KOX
-  created_at: 2015-09-05 16:38:45.226168000 Z
-  updated_at: 2015-09-05 16:38:45.226168000 Z
+  created_at: 2015-09-06 03:54:30.161324000 Z
+  updated_at: 2015-09-06 03:54:30.161324000 Z
 Isolate_308:
-  id: 687
+  id: 1064
   isolate_id: 46192
   collection: 901064
   site: 433
   study_year: 2015
   bank: 24219
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.236448000 Z
-  updated_at: 2015-09-05 16:38:45.236448000 Z
+  created_at: 2015-09-06 03:54:30.169326000 Z
+  updated_at: 2015-09-06 03:54:30.169326000 Z
 Isolate_309:
-  id: 688
+  id: 1065
   isolate_id: 46194
   collection: 900998
   site: 433
   study_year: 2015
   bank: 24182
   organism_code: MM
-  created_at: 2015-09-05 16:38:45.245083000 Z
-  updated_at: 2015-09-05 16:38:45.245083000 Z
+  created_at: 2015-09-06 03:54:30.176891000 Z
+  updated_at: 2015-09-06 03:54:30.176891000 Z
 Isolate_310:
-  id: 689
+  id: 1066
   isolate_id: 46196
   collection: 900921
   site: 433
   study_year: 2015
   bank: 24127
   organism_code: KOX
-  created_at: 2015-09-05 16:38:45.253018000 Z
-  updated_at: 2015-09-05 16:38:45.253018000 Z
+  created_at: 2015-09-06 03:54:30.184652000 Z
+  updated_at: 2015-09-06 03:54:30.184652000 Z
 Isolate_311:
-  id: 690
+  id: 1067
   isolate_id: 46197
   collection: 901021
   site: 146
   study_year: 2015
   bank: 24194
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.261415000 Z
-  updated_at: 2015-09-05 16:38:45.261415000 Z
+  created_at: 2015-09-06 03:54:30.192923000 Z
+  updated_at: 2015-09-06 03:54:30.192923000 Z
 Isolate_312:
-  id: 691
+  id: 1068
   isolate_id: 46214
   collection: 900937
   site: 433
   study_year: 2015
   bank: 24138
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.269978000 Z
-  updated_at: 2015-09-05 16:38:45.269978000 Z
+  created_at: 2015-09-06 03:54:30.200274000 Z
+  updated_at: 2015-09-06 03:54:30.200274000 Z
 Isolate_313:
-  id: 692
+  id: 1069
   isolate_id: 46219
   collection: 901012
   site: 433
   study_year: 2015
   bank: 24188
   organism_code: PV
-  created_at: 2015-09-05 16:38:45.276973000 Z
-  updated_at: 2015-09-05 16:38:45.276973000 Z
+  created_at: 2015-09-06 03:54:30.208561000 Z
+  updated_at: 2015-09-06 03:54:30.208561000 Z
 Isolate_314:
-  id: 693
+  id: 1070
   isolate_id: 46226
   collection: 901014
   site: 433
   study_year: 2015
   bank: 24189
   organism_code: MM
-  created_at: 2015-09-05 16:38:45.286346000 Z
-  updated_at: 2015-09-05 16:38:45.286346000 Z
+  created_at: 2015-09-06 03:54:30.216729000 Z
+  updated_at: 2015-09-06 03:54:30.216729000 Z
 Isolate_315:
-  id: 694
+  id: 1071
   isolate_id: 46227
   collection: 901048
   site: 468
   study_year: 2015
   bank: 24205
   organism_code: PM
-  created_at: 2015-09-05 16:38:45.293393000 Z
-  updated_at: 2015-09-05 16:38:45.293393000 Z
+  created_at: 2015-09-06 03:54:30.225933000 Z
+  updated_at: 2015-09-06 03:54:30.225933000 Z
 Isolate_316:
-  id: 695
+  id: 1072
   isolate_id: 46237
   collection: 900852
   site: 136
   study_year: 2015
   bank: 24109
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.300935000 Z
-  updated_at: 2015-09-05 16:38:45.300935000 Z
+  created_at: 2015-09-06 03:54:30.234840000 Z
+  updated_at: 2015-09-06 03:54:30.234840000 Z
 Isolate_317:
-  id: 696
+  id: 1073
   isolate_id: 46240
   collection: 900918
   site: 433
   study_year: 2015
   bank: 24124
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.307894000 Z
-  updated_at: 2015-09-05 16:38:45.307894000 Z
+  created_at: 2015-09-06 03:54:30.244082000 Z
+  updated_at: 2015-09-06 03:54:30.244082000 Z
 Isolate_318:
-  id: 697
+  id: 1074
   isolate_id: 46253
   collection: 901100
   site: 433
   study_year: 2015
   bank: 24251
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.316879000 Z
-  updated_at: 2015-09-05 16:38:45.316879000 Z
+  created_at: 2015-09-06 03:54:30.252876000 Z
+  updated_at: 2015-09-06 03:54:30.252876000 Z
 Isolate_319:
-  id: 698
+  id: 1075
   isolate_id: 46255
   collection: 901049
   site: 433
   study_year: 2015
   bank: 24206
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.324738000 Z
-  updated_at: 2015-09-05 16:38:45.324738000 Z
+  created_at: 2015-09-06 03:54:30.260634000 Z
+  updated_at: 2015-09-06 03:54:30.260634000 Z
 Isolate_320:
-  id: 699
+  id: 1076
   isolate_id: 46256
   collection: 901066
   site: 433
   study_year: 2015
   bank: 24221
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.332426000 Z
-  updated_at: 2015-09-05 16:38:45.332426000 Z
+  created_at: 2015-09-06 03:54:30.268280000 Z
+  updated_at: 2015-09-06 03:54:30.268280000 Z
 Isolate_321:
-  id: 700
+  id: 1077
   isolate_id: 46259
   collection: 901083
   site: 433
   study_year: 2015
   bank: 24236
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.342074000 Z
-  updated_at: 2015-09-05 16:38:45.342074000 Z
+  created_at: 2015-09-06 03:54:30.277304000 Z
+  updated_at: 2015-09-06 03:54:30.277304000 Z
 Isolate_322:
-  id: 701
+  id: 1078
   isolate_id: 46262
   collection: 900932
   site: 433
   study_year: 2015
   bank: 24135
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.349066000 Z
-  updated_at: 2015-09-05 16:38:45.349066000 Z
+  created_at: 2015-09-06 03:54:30.285115000 Z
+  updated_at: 2015-09-06 03:54:30.285115000 Z
 Isolate_323:
-  id: 702
+  id: 1079
   isolate_id: 46264
   collection: 901034
   site: 468
   study_year: 2015
   bank: 24198
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.356788000 Z
-  updated_at: 2015-09-05 16:38:45.356788000 Z
+  created_at: 2015-09-06 03:54:30.293481000 Z
+  updated_at: 2015-09-06 03:54:30.293481000 Z
 Isolate_324:
-  id: 703
+  id: 1080
   isolate_id: 46285
   collection: 900911
   site: 433
   study_year: 2015
   bank: 24120
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.364232000 Z
-  updated_at: 2015-09-05 16:38:45.364232000 Z
+  created_at: 2015-09-06 03:54:30.300947000 Z
+  updated_at: 2015-09-06 03:54:30.300947000 Z
 Isolate_325:
-  id: 704
+  id: 1081
   isolate_id: 46295
   collection: 901075
   site: 433
   study_year: 2015
   bank: 24229
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.375379000 Z
-  updated_at: 2015-09-05 16:38:45.375379000 Z
+  created_at: 2015-09-06 03:54:30.309289000 Z
+  updated_at: 2015-09-06 03:54:30.309289000 Z
 Isolate_326:
-  id: 705
+  id: 1082
   isolate_id: 46305
   collection: 900908
   site: 433
   study_year: 2015
   bank: 24117
   organism_code: SM
-  created_at: 2015-09-05 16:38:45.384577000 Z
-  updated_at: 2015-09-05 16:38:45.384577000 Z
+  created_at: 2015-09-06 03:54:30.318067000 Z
+  updated_at: 2015-09-06 03:54:30.318067000 Z
 Isolate_327:
-  id: 706
+  id: 1083
   isolate_id: 46312
   collection: 900909
   site: 433
   study_year: 2015
   bank: 24118
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.393620000 Z
-  updated_at: 2015-09-05 16:38:45.393620000 Z
+  created_at: 2015-09-06 03:54:30.325504000 Z
+  updated_at: 2015-09-06 03:54:30.325504000 Z
 Isolate_328:
-  id: 707
+  id: 1084
   isolate_id: 46313
   collection: 900927
   site: 433
   study_year: 2015
   bank: 24131
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.401429000 Z
-  updated_at: 2015-09-05 16:38:45.401429000 Z
+  created_at: 2015-09-06 03:54:30.332627000 Z
+  updated_at: 2015-09-06 03:54:30.332627000 Z
 Isolate_329:
-  id: 708
+  id: 1085
   isolate_id: 46316
   collection: 901010
   site: 433
   study_year: 2015
   bank: 24187
   organism_code: MM
-  created_at: 2015-09-05 16:38:45.408648000 Z
-  updated_at: 2015-09-05 16:38:45.408648000 Z
+  created_at: 2015-09-06 03:54:30.341199000 Z
+  updated_at: 2015-09-06 03:54:30.341199000 Z
 Isolate_330:
-  id: 709
+  id: 1086
   isolate_id: 46323
   collection: 901077
   site: 433
   study_year: 2015
   bank: 24230
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.417951000 Z
-  updated_at: 2015-09-05 16:38:45.417951000 Z
+  created_at: 2015-09-06 03:54:30.348616000 Z
+  updated_at: 2015-09-06 03:54:30.348616000 Z
 Isolate_331:
-  id: 710
+  id: 1087
   isolate_id: 46328
   collection: 901020
   site: 146
   study_year: 2015
   bank: 24193
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.426817000 Z
-  updated_at: 2015-09-05 16:38:45.426817000 Z
+  created_at: 2015-09-06 03:54:30.357595000 Z
+  updated_at: 2015-09-06 03:54:30.357595000 Z
 Isolate_332:
-  id: 711
+  id: 1088
   isolate_id: 46335
   collection: 900913
   site: 433
   study_year: 2015
   bank: 24121
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.436194000 Z
-  updated_at: 2015-09-05 16:38:45.436194000 Z
+  created_at: 2015-09-06 03:54:30.364334000 Z
+  updated_at: 2015-09-06 03:54:30.364334000 Z
 Isolate_333:
-  id: 712
+  id: 1089
   isolate_id: 46341
   collection: 900988
   site: 433
   study_year: 2015
   bank: 24177
   organism_code: EAE
-  created_at: 2015-09-05 16:38:45.444293000 Z
-  updated_at: 2015-09-05 16:38:45.444293000 Z
+  created_at: 2015-09-06 03:54:30.373154000 Z
+  updated_at: 2015-09-06 03:54:30.373154000 Z
 Isolate_334:
-  id: 713
+  id: 1090
   isolate_id: 46342
   collection: 900931
   site: 433
   study_year: 2015
   bank: 24134
   organism_code: SM
-  created_at: 2015-09-05 16:38:45.453243000 Z
-  updated_at: 2015-09-05 16:38:45.453243000 Z
+  created_at: 2015-09-06 03:54:30.379711000 Z
+  updated_at: 2015-09-06 03:54:30.379711000 Z
 Isolate_335:
-  id: 714
+  id: 1091
   isolate_id: 46346
   collection: 900996
   site: 433
   study_year: 2015
   bank: 24271
   organism_code: ECLC
-  created_at: 2015-09-05 16:38:45.461964000 Z
-  updated_at: 2015-09-05 16:38:45.461964000 Z
+  created_at: 2015-09-06 03:54:30.388606000 Z
+  updated_at: 2015-09-06 03:54:30.388606000 Z
 Isolate_336:
-  id: 715
+  id: 1092
   isolate_id: 46347
   collection: 901004
   site: 433
   study_year: 2015
   bank: 24254
   organism_code: ECLC
-  created_at: 2015-09-05 16:38:45.471442000 Z
-  updated_at: 2015-09-05 16:38:45.471442000 Z
+  created_at: 2015-09-06 03:54:30.396677000 Z
+  updated_at: 2015-09-06 03:54:30.396677000 Z
 Isolate_337:
-  id: 716
+  id: 1093
   isolate_id: 46356
   collection: 901024
   site: 468
   study_year: 2015
   bank: 24278
   organism_code: SM
-  created_at: 2015-09-05 16:38:45.481064000 Z
-  updated_at: 2015-09-05 16:38:45.481064000 Z
+  created_at: 2015-09-06 03:54:30.404870000 Z
+  updated_at: 2015-09-06 03:54:30.404870000 Z
 Isolate_338:
-  id: 717
+  id: 1094
   isolate_id: 46361
   collection: 900995
   site: 433
   study_year: 2015
   bank: 24270
   organism_code: ECLC
-  created_at: 2015-09-05 16:38:45.489116000 Z
-  updated_at: 2015-09-05 16:38:45.489116000 Z
+  created_at: 2015-09-06 03:54:30.413862000 Z
+  updated_at: 2015-09-06 03:54:30.413862000 Z
 Isolate_339:
-  id: 718
+  id: 1095
   isolate_id: 46364
   collection: 901000
   site: 433
   study_year: 2015
   bank: 24272
   organism_code: EAE
-  created_at: 2015-09-05 16:38:45.497764000 Z
-  updated_at: 2015-09-05 16:38:45.497764000 Z
+  created_at: 2015-09-06 03:54:30.422319000 Z
+  updated_at: 2015-09-06 03:54:30.422319000 Z
 Isolate_340:
-  id: 719
+  id: 1096
   isolate_id: 46366
   collection: 901085
   site: 433
   study_year: 2015
   bank: 24258
   organism_code: ECLC
-  created_at: 2015-09-05 16:38:45.507824000 Z
-  updated_at: 2015-09-05 16:38:45.507824000 Z
+  created_at: 2015-09-06 03:54:30.431410000 Z
+  updated_at: 2015-09-06 03:54:30.431410000 Z
 Isolate_341:
-  id: 720
+  id: 1097
   isolate_id: 46367
   collection: 900985
   site: 433
   study_year: 2015
   bank: 24267
   organism_code: ECLC
-  created_at: 2015-09-05 16:38:45.517049000 Z
-  updated_at: 2015-09-05 16:38:45.517049000 Z
+  created_at: 2015-09-06 03:54:30.440068000 Z
+  updated_at: 2015-09-06 03:54:30.440068000 Z
 Isolate_342:
-  id: 721
+  id: 1098
   isolate_id: 46369
   collection: 901003
   site: 433
   study_year: 2015
   bank: 24273
   organism_code: PV
-  created_at: 2015-09-05 16:38:45.524565000 Z
-  updated_at: 2015-09-05 16:38:45.524565000 Z
+  created_at: 2015-09-06 03:54:30.448676000 Z
+  updated_at: 2015-09-06 03:54:30.448676000 Z
 Isolate_343:
-  id: 722
+  id: 1099
   isolate_id: 46392
   collection: 901180
   site: 30
   study_year: 2015
   bank: 24369
   organism_code: PM
-  created_at: 2015-09-05 16:38:45.532620000 Z
-  updated_at: 2015-09-05 16:38:45.532620000 Z
+  created_at: 2015-09-06 03:54:30.456955000 Z
+  updated_at: 2015-09-06 03:54:30.456955000 Z
 Isolate_344:
-  id: 723
+  id: 1100
   isolate_id: 46399
   collection: 901114
   site: 811
   study_year: 2015
   bank: 24310
   organism_code: EC
-  created_at: 2015-09-05 16:38:45.542338000 Z
-  updated_at: 2015-09-05 16:38:45.542338000 Z
+  created_at: 2015-09-06 03:54:30.463787000 Z
+  updated_at: 2015-09-06 03:54:30.463787000 Z
 Isolate_345:
-  id: 724
+  id: 1101
   isolate_id: 46401
   collection: 901195
   site: 742
   study_year: 2015
   bank: 24383
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.551438000 Z
-  updated_at: 2015-09-05 16:38:45.551438000 Z
+  created_at: 2015-09-06 03:54:30.473841000 Z
+  updated_at: 2015-09-06 03:54:30.473841000 Z
 Isolate_346:
-  id: 725
+  id: 1102
   isolate_id: 46404
   collection: 901163
   site: 30
   study_year: 2015
   bank: 24352
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.560637000 Z
-  updated_at: 2015-09-05 16:38:45.560637000 Z
+  created_at: 2015-09-06 03:54:30.481619000 Z
+  updated_at: 2015-09-06 03:54:30.481619000 Z
 Isolate_347:
-  id: 726
+  id: 1103
   isolate_id: 46417
   collection: 901145
   site: 30
   study_year: 2015
   bank: 24338
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.569735000 Z
-  updated_at: 2015-09-05 16:38:45.569735000 Z
+  created_at: 2015-09-06 03:54:30.489998000 Z
+  updated_at: 2015-09-06 03:54:30.489998000 Z
 Isolate_348:
-  id: 727
+  id: 1104
   isolate_id: 46418
   collection: 901131
   site: 811
   study_year: 2015
   bank: 24326
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.578828000 Z
-  updated_at: 2015-09-05 16:38:45.578828000 Z
+  created_at: 2015-09-06 03:54:30.498787000 Z
+  updated_at: 2015-09-06 03:54:30.498787000 Z
 Isolate_349:
-  id: 728
+  id: 1105
   isolate_id: 46419
   collection: 901120
   site: 811
   study_year: 2015
   bank: 24316
   organism_code: EAE
-  created_at: 2015-09-05 16:38:45.588054000 Z
-  updated_at: 2015-09-05 16:38:45.588054000 Z
+  created_at: 2015-09-06 03:54:30.507629000 Z
+  updated_at: 2015-09-06 03:54:30.507629000 Z
 Isolate_350:
-  id: 729
+  id: 1106
   isolate_id: 46424
   collection: 901188
   site: 742
   study_year: 2015
   bank: 24377
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.596673000 Z
-  updated_at: 2015-09-05 16:38:45.596673000 Z
+  created_at: 2015-09-06 03:54:30.516314000 Z
+  updated_at: 2015-09-06 03:54:30.516314000 Z
 Isolate_351:
-  id: 730
+  id: 1107
   isolate_id: 46429
   collection: 901186
   site: 742
   study_year: 2015
   bank: 24375
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.605213000 Z
-  updated_at: 2015-09-05 16:38:45.605213000 Z
+  created_at: 2015-09-06 03:54:30.525181000 Z
+  updated_at: 2015-09-06 03:54:30.525181000 Z
 Isolate_352:
-  id: 731
+  id: 1108
   isolate_id: 46434
   collection: 901184
   site: 742
   study_year: 2015
   bank: 24373
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.612900000 Z
-  updated_at: 2015-09-05 16:38:45.612900000 Z
+  created_at: 2015-09-06 03:54:30.532908000 Z
+  updated_at: 2015-09-06 03:54:30.532908000 Z
 Isolate_353:
-  id: 732
+  id: 1109
   isolate_id: 46443
   collection: 901118
   site: 811
   study_year: 2015
   bank: 24314
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.624294000 Z
-  updated_at: 2015-09-05 16:38:45.624294000 Z
+  created_at: 2015-09-06 03:54:30.540468000 Z
+  updated_at: 2015-09-06 03:54:30.540468000 Z
 Isolate_354:
-  id: 733
+  id: 1110
   isolate_id: 46446
   collection: 901116
   site: 811
   study_year: 2015
   bank: 24312
   organism_code: EAE
-  created_at: 2015-09-05 16:38:45.633226000 Z
-  updated_at: 2015-09-05 16:38:45.633226000 Z
+  created_at: 2015-09-06 03:54:30.549254000 Z
+  updated_at: 2015-09-06 03:54:30.549254000 Z
 Isolate_355:
-  id: 734
+  id: 1111
   isolate_id: 46450
   collection: 901123
   site: 811
   study_year: 2015
   bank: 24318
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.640947000 Z
-  updated_at: 2015-09-05 16:38:45.640947000 Z
+  created_at: 2015-09-06 03:54:30.556472000 Z
+  updated_at: 2015-09-06 03:54:30.556472000 Z
 Isolate_356:
-  id: 735
+  id: 1112
   isolate_id: 46454
   collection: 901132
   site: 811
   study_year: 2015
   bank: 24327
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.649386000 Z
-  updated_at: 2015-09-05 16:38:45.649386000 Z
+  created_at: 2015-09-06 03:54:30.564955000 Z
+  updated_at: 2015-09-06 03:54:30.564955000 Z
 Isolate_357:
-  id: 736
+  id: 1113
   isolate_id: 46455
   collection: 901189
   site: 742
   study_year: 2015
   bank: 24378
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.656607000 Z
-  updated_at: 2015-09-05 16:38:45.656607000 Z
+  created_at: 2015-09-06 03:54:30.577715000 Z
+  updated_at: 2015-09-06 03:54:30.577715000 Z
 Isolate_358:
-  id: 737
+  id: 1114
   isolate_id: 46459
   collection: 901130
   site: 811
   study_year: 2015
   bank: 24325
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.666075000 Z
-  updated_at: 2015-09-05 16:38:45.666075000 Z
+  created_at: 2015-09-06 03:54:30.587023000 Z
+  updated_at: 2015-09-06 03:54:30.587023000 Z
 Isolate_359:
-  id: 738
+  id: 1115
   isolate_id: 46464
   collection: 901121
   site: 811
   study_year: 2015
   bank: 24317
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.675016000 Z
-  updated_at: 2015-09-05 16:38:45.675016000 Z
+  created_at: 2015-09-06 03:54:30.595494000 Z
+  updated_at: 2015-09-06 03:54:30.595494000 Z
 Isolate_360:
-  id: 739
+  id: 1116
   isolate_id: 46466
   collection: 901162
   site: 30
   study_year: 2015
   bank: 24351
   organism_code: EAE
-  created_at: 2015-09-05 16:38:45.683769000 Z
-  updated_at: 2015-09-05 16:38:45.683769000 Z
+  created_at: 2015-09-06 03:54:30.603834000 Z
+  updated_at: 2015-09-06 03:54:30.603834000 Z
 Isolate_361:
-  id: 740
+  id: 1117
   isolate_id: 46468
   collection: 901196
   site: 742
   study_year: 2015
   bank: 24384
   organism_code: EAE
-  created_at: 2015-09-05 16:38:45.692498000 Z
-  updated_at: 2015-09-05 16:38:45.692498000 Z
+  created_at: 2015-09-06 03:54:30.612897000 Z
+  updated_at: 2015-09-06 03:54:30.612897000 Z
 Isolate_362:
-  id: 741
+  id: 1118
   isolate_id: 46471
   collection: 901128
   site: 811
   study_year: 2015
   bank: 24323
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.701440000 Z
-  updated_at: 2015-09-05 16:38:45.701440000 Z
+  created_at: 2015-09-06 03:54:30.621968000 Z
+  updated_at: 2015-09-06 03:54:30.621968000 Z
 Isolate_363:
-  id: 742
+  id: 1119
   isolate_id: 46482
   collection: 901119
   site: 811
   study_year: 2015
   bank: 24315
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.709471000 Z
-  updated_at: 2015-09-05 16:38:45.709471000 Z
+  created_at: 2015-09-06 03:54:30.630965000 Z
+  updated_at: 2015-09-06 03:54:30.630965000 Z
 Isolate_364:
-  id: 743
+  id: 1120
   isolate_id: 46484
   collection: 901136
   site: 30
   study_year: 2015
   bank: 24330
   organism_code: PM
-  created_at: 2015-09-05 16:38:45.717229000 Z
-  updated_at: 2015-09-05 16:38:45.717229000 Z
+  created_at: 2015-09-06 03:54:30.639831000 Z
+  updated_at: 2015-09-06 03:54:30.639831000 Z
 Isolate_365:
-  id: 744
+  id: 1121
   isolate_id: 46485
   collection: 901185
   site: 742
   study_year: 2015
   bank: 24374
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.724475000 Z
-  updated_at: 2015-09-05 16:38:45.724475000 Z
+  created_at: 2015-09-06 03:54:30.648592000 Z
+  updated_at: 2015-09-06 03:54:30.648592000 Z
 Isolate_366:
-  id: 745
+  id: 1122
   isolate_id: 46501
   collection: 901172
   site: 30
   study_year: 2015
   bank: 24361
   organism_code: PM
-  created_at: 2015-09-05 16:38:45.738370000 Z
-  updated_at: 2015-09-05 16:38:45.738370000 Z
+  created_at: 2015-09-06 03:54:30.657795000 Z
+  updated_at: 2015-09-06 03:54:30.657795000 Z
 Isolate_367:
-  id: 746
+  id: 1123
   isolate_id: 46503
   collection: 901115
   site: 811
   study_year: 2015
   bank: 24311
   organism_code: EAE
-  created_at: 2015-09-05 16:38:45.746843000 Z
-  updated_at: 2015-09-05 16:38:45.746843000 Z
+  created_at: 2015-09-06 03:54:30.665843000 Z
+  updated_at: 2015-09-06 03:54:30.665843000 Z
 Isolate_368:
-  id: 747
+  id: 1124
   isolate_id: 46506
   collection: 901129
   site: 811
   study_year: 2015
   bank: 24324
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.757626000 Z
-  updated_at: 2015-09-05 16:38:45.757626000 Z
+  created_at: 2015-09-06 03:54:30.673663000 Z
+  updated_at: 2015-09-06 03:54:30.673663000 Z
 Isolate_369:
-  id: 748
+  id: 1125
   isolate_id: 46508
   collection: 901190
   site: 742
   study_year: 2015
   bank: 24379
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.765365000 Z
-  updated_at: 2015-09-05 16:38:45.765365000 Z
+  created_at: 2015-09-06 03:54:30.680918000 Z
+  updated_at: 2015-09-06 03:54:30.680918000 Z
 Isolate_370:
-  id: 749
+  id: 1126
   isolate_id: 46525
   collection: 901192
   site: 742
   study_year: 2015
   bank: 24381
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.773075000 Z
-  updated_at: 2015-09-05 16:38:45.773075000 Z
+  created_at: 2015-09-06 03:54:30.688688000 Z
+  updated_at: 2015-09-06 03:54:30.688688000 Z
 Isolate_371:
-  id: 750
+  id: 1127
   isolate_id: 46527
   collection: 901127
   site: 811
   study_year: 2015
   bank: 24322
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.780816000 Z
-  updated_at: 2015-09-05 16:38:45.780816000 Z
+  created_at: 2015-09-06 03:54:30.697188000 Z
+  updated_at: 2015-09-06 03:54:30.697188000 Z
 Isolate_372:
-  id: 751
+  id: 1128
   isolate_id: 46530
   collection: 901124
   site: 811
   study_year: 2015
   bank: 24319
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.788055000 Z
-  updated_at: 2015-09-05 16:38:45.788055000 Z
+  created_at: 2015-09-06 03:54:30.705392000 Z
+  updated_at: 2015-09-06 03:54:30.705392000 Z
 Isolate_373:
-  id: 752
+  id: 1129
   isolate_id: 46537
   collection: 901159
   site: 30
   study_year: 2015
   bank: 24348
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.797233000 Z
-  updated_at: 2015-09-05 16:38:45.797233000 Z
+  created_at: 2015-09-06 03:54:30.713834000 Z
+  updated_at: 2015-09-06 03:54:30.713834000 Z
 Isolate_374:
-  id: 753
+  id: 1130
   isolate_id: 46543
   collection: 901191
   site: 742
   study_year: 2015
   bank: 24380
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.805402000 Z
-  updated_at: 2015-09-05 16:38:45.805402000 Z
+  created_at: 2015-09-06 03:54:30.721226000 Z
+  updated_at: 2015-09-06 03:54:30.721226000 Z
 Isolate_375:
-  id: 754
+  id: 1131
   isolate_id: 46549
   collection: 901126
   site: 811
   study_year: 2015
   bank: 24321
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.816385000 Z
-  updated_at: 2015-09-05 16:38:45.816385000 Z
+  created_at: 2015-09-06 03:54:30.729053000 Z
+  updated_at: 2015-09-06 03:54:30.729053000 Z
 Isolate_376:
-  id: 755
+  id: 1132
   isolate_id: 46570
   collection: 901125
   site: 811
   study_year: 2015
   bank: 24320
   organism_code: KPN
-  created_at: 2015-09-05 16:38:45.824909000 Z
-  updated_at: 2015-09-05 16:38:45.824909000 Z
+  created_at: 2015-09-06 03:54:30.736572000 Z
+  updated_at: 2015-09-06 03:54:30.736572000 Z
 Isolate_377:
-  id: 756
+  id: 1133
   isolate_id: 46575
   collection: 901194
   site: 742
   study_year: 2015
   bank: 24382
   organism_code: ECL
-  created_at: 2015-09-05 16:38:45.832657000 Z
-  updated_at: 2015-09-05 16:38:45.832657000 Z
+  created_at: 2015-09-06 03:54:30.744493000 Z
+  updated_at: 2015-09-06 03:54:30.744493000 Z

@@ -147,70 +147,70 @@ Minocycline,4,16,,,,,,,,,,,,,XM,,,,,
 Levofloxacin,2,8,,,,,,,,,,,,,XM,,,,,
 TrimSulfa,2,4,,,,,,,,,,,,,XM,,,,,
 Chloramphenicol,8,32,,,,,,,,,,,,,XM,,,,,
-Piperacillin,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Carbenicillin,16,64,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Mezlocillin,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Ticarcillin,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-PipTazo,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-TicClav,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Ceftazidime,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Cefepime,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Cefotaxime,8,64,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Ceftriaxone,8,64,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Cefoperazone,16,64,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Ceftizoxime,8,64,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Moxalactam,8,64,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Aztreonam,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Imipenem,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Meropenem,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Colistin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-PolymyxinB,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Gentamicin,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Tobramycin,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Amikacin,16,64,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Netilmicin,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Tetracycline,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Doxycycline,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Minocycline,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Ciprofloxacin,1,4,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Levofloxacin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Lomefloxacin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Ofloxacin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Norfloxacin,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Gatifloxacin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-TrimSulfa,2,4,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Sulfonamides,256,512,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Chloramphenicol,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,PSA,XM,,,,Burkholderia cepacia species complex
-Penicillin,0.12,0.25,Oxacillin,Cefoxitin,I,R,NS,,,,,MRSA reported as resistant,,,,Staphylococcus,,,,,,,
-AmoxClav,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-AmpSulb,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-PipTazo,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-TicClav,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefaclor,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefdinir,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefpodoxime,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefprozil,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefuroxime,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Loracarbef,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefamandole,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefazolin,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefepime,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefmetazole,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefonicid,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefoperazone,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefotaxime,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefotetan,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Ceftizoxime,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Ceftriaxone,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cefuroxime,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Cephalothin,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Moxalactam,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Doripenem,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Ertapenem,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Imipenem,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Meropenem,,,Oxacillin,Cefoxitin,,,,,,,,,,Staphylococcus,,,,,,,
-Oxacillin,2,4,,,,,,,,,,,,,SA,SLUG,,,,,
-Cefoxitin,4,8,,,,,,,,,,,,,SA,SLUG,,,,,
+Piperacillin,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Carbenicillin,16,64,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Mezlocillin,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Ticarcillin,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+PipTazo,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+TicClav,16,128,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Ceftazidime,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Cefepime,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Cefotaxime,8,64,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Ceftriaxone,8,64,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Cefoperazone,16,64,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Ceftizoxime,8,64,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Moxalactam,8,64,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Aztreonam,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Imipenem,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Meropenem,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Colistin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+PolymyxinB,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Gentamicin,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Tobramycin,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Amikacin,16,64,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Netilmicin,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Tetracycline,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Doxycycline,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Minocycline,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Ciprofloxacin,1,4,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Levofloxacin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Lomefloxacin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Ofloxacin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Norfloxacin,4,16,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Gatifloxacin,2,8,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+TrimSulfa,2,4,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Sulfonamides,256,512,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Chloramphenicol,8,32,,,,,,,,Non Enteric,,,,Acinetobacter,,"PSA,XM",,,,Burkholderia cepacia species complex
+Penicillin,0.12,0.25,"Oxacillin,Cefoxitin","I,R,NS",,,,,MRSA reported as resistant,,,,Staphylococcus,,,,,,,
+AmoxClav,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+AmpSulb,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+PipTazo,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+TicClav,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefaclor,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefdinir,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefpodoxime,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefprozil,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefuroxime,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Loracarbef,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefamandole,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefazolin,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefepime,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefmetazole,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefonicid,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefoperazone,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefotaxime,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefotetan,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Ceftizoxime,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Ceftriaxone,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cefuroxime,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Cephalothin,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Moxalactam,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Doripenem,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Ertapenem,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Imipenem,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Meropenem,,,"Oxacillin,Cefoxitin",,,,,,,,,,Staphylococcus,,,,,,,
+Oxacillin,2,4,,,,,,,,,,,,,"SA,SLUG",,,,,
+Cefoxitin,4,8,,,,,,,,,,,,,"SA,SLUG",,,,,
 Oxacillin,0.25,0.5,,,,,,,,,Coagulase-negative staphylococci,,,,,SLUG,,,,
 Ceftaroline,1,4,,,,,,,,,,,,,SA,,,,,
 Vancomycin,2,16,,,,,,,,,,,,,SA,,,,,
@@ -236,7 +236,7 @@ Ofloxacin,1,4,,,,,,,,,,,Staphylococcus,,,,,,,
 Moxifloxacin,0.5,2,,,,,,,,,,,Staphylococcus,,,,,,,
 Lomefloxacin,2,8,,,,,,,,,,,Staphylococcus,,,,,,,
 Norfloxacin,4,16,,,,,,,,,,,Staphylococcus,,,,,,,
-Enoxacin,2,8,,,,,,,,,,,,,SSAP,SEPI,,,,,
+Enoxacin,2,8,,,,,,,,,,,,,"SSAP,SEPI",,,,,
 Gatifloxacin,0.5,2,,,,,,,,,,,Staphylococcus,,,,,,,
 Grepafloxacin,1,4,,,,,,,,,,,Staphylococcus,,,,,,,
 Sparfloxacin,0.5,2,,,,,,,,,,,Staphylococcus,,,,,,,
@@ -247,7 +247,7 @@ TrimSulfa,2,4,,,,,,,,,,,Staphylococcus,,,,,,,
 Trimethoprim,8,16,,,,,,,,,,,Staphylococcus,,,,,,,
 Chloramphenicol,8,32,,,,,,,,,,,Staphylococcus,,,,,,,
 Rifampin,1,4,,,,,,,,,,,Staphylococcus,,,,,,,
-QuinDalfo,1,4,Oxacillin,Cefoxitin,,I,R,NS,,,,Report for MSSA only,,,,,,SA,,,,,
+QuinDalfo,1,4,"Oxacillin,Cefoxitin",,"I,R,NS",,,,Report for MSSA only,,,,,,SA,,,,,
 Linezolid,4,8,,,,,,,,,,,Staphylococcus,,,,,,,
 Tedizolid100,0.5,2,,,,,,,Breakpoints from FDA Package Insert,,,,,,SA,,,,,
 Penicillin,8,16,,,,,,,,,,,Enterococcus,,,,,,,
@@ -269,51 +269,51 @@ Fosfomycin,64,256,,,,,,,,,,,Enterococcus,,,,,,,
 Chloramphenicol,8,32,,,,,,,,,,,Enterococcus,,,,,,,
 QuinDalfo,1,4,Vancomycin,,S,,,,Report for Vancomycin non-susceptible only,,,,,,EFM,,,,,
 Linezolid,2,8,,,,,,,,,,,Enterococcus,,,,,,,
-Ampicillin,1,4,,,,,,,,,,,,,HI,HPAR,,,,,
-AmpSulb,2,4,,,,,,,,,,,,,HI,HPAR,,,,,
-AmoxClav,4,8,,,,,,,,,,,,,HI,HPAR,,,,,
-PipTazo,1,2,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefotaxime,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Ceftazidime,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Ceftriaxone,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefuroxime,4,16,,,,,Parenteral,,,,,,,,HI,HPAR,,,,,
+Ampicillin,1,4,,,,,,,,,,,,,"HI,HPAR",,,,,
+AmpSulb,2,4,,,,,,,,,,,,,"HI,HPAR",,,,,
+AmoxClav,4,8,,,,,,,,,,,,,"HI,HPAR",,,,,
+PipTazo,1,2,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefotaxime,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Ceftazidime,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Ceftriaxone,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefuroxime,4,16,,,,,Parenteral,,,,,,,,"HI,HPAR",,,,,
 Ceftaroline,0.5,,,,,,,,,,,,,,HI,,,,,
-Cefonicid,4,16,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefamandole,4,16,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefepime,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Ceftizoxime,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefaclor,8,32,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefprozil,8,32,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefdinir,1,,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefixime,1,,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefpodoxime,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefuroxime,4,16,,,,,Oral,,,,,,,,HI,HPAR,,,,,
-Loracarbef,8,32,,,,,,,,,,,,,HI,HPAR,,,,,
-Ceftibuten,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Cefetamet,4,16,,,,,,,,,,,,,HI,HPAR,,,,,
-Aztreonam,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Meropenem,0.5,,,,,,,,,,,,,,HI,HPAR,,,,,
-Ertapenem,0.5,,,,,,,,,,,,,,HI,HPAR,,,,,
-Imipenem,4,,,,,,,,,,,,,,HI,HPAR,,,,,
-Doripenem,1,,,,,,,,,,,,,,HI,HPAR,,,,,
-Azithromycin,4,,,,,,,,,,,,,,HI,HPAR,,,,,
-Clarithromycin,8,32,,,,,,,,,,,,,HI,HPAR,,,,,
-Telithromycin,4,16,,,,,,,,,,,,,HI,HPAR,,,,,
-Tetracycline,2,8,,,,,,,,,,,,,HI,HPAR,,,,,
-Ciprofloxacin,1,,,,,,,,,,,,,,HI,HPAR,,,,,
-Levofloxacin,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Lomefloxacin,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Moxifloxacin,1,,,,,,,,,,,,,,HI,HPAR,,,,,
-Ofloxacin,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-Gemifloxacin,0.12,,,,,,,,,,,,,,HI,HPAR,,,,,
-Gatifloxacin,1,,,,,,,,,,,,,,HI,HPAR,,,,,
-Grepafloxacin,0.5,,,,,,,,,,,,,,HI,HPAR,,,,,
-Sparfloxacin,0.25,,,,,,,,,,,,,,HI,HPAR,,,,,
-Trovafloxacin,1,,,,,,,,,,,,,,HI,HPAR,,,,,
-Fleroxacin,2,,,,,,,,,,,,,,HI,HPAR,,,,,
-TrimSulfa,0.5,4,,,,,,,,,,,,,HI,HPAR,,,,,
-Chloramphenicol,2,8,,,,,,,,,,,,,HI,HPAR,,,,,
-Rifampin,1,4,,,,,,,,,,,,,HI,HPAR,,,,,
+Cefonicid,4,16,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefamandole,4,16,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefepime,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Ceftizoxime,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefaclor,8,32,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefprozil,8,32,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefdinir,1,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefixime,1,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefpodoxime,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefuroxime,4,16,,,,,Oral,,,,,,,,"HI,HPAR",,,,,
+Loracarbef,8,32,,,,,,,,,,,,,"HI,HPAR",,,,,
+Ceftibuten,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Cefetamet,4,16,,,,,,,,,,,,,"HI,HPAR",,,,,
+Aztreonam,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Meropenem,0.5,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Ertapenem,0.5,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Imipenem,4,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Doripenem,1,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Azithromycin,4,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Clarithromycin,8,32,,,,,,,,,,,,,"HI,HPAR",,,,,
+Telithromycin,4,16,,,,,,,,,,,,,"HI,HPAR",,,,,
+Tetracycline,2,8,,,,,,,,,,,,,"HI,HPAR",,,,,
+Ciprofloxacin,1,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Levofloxacin,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Lomefloxacin,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Moxifloxacin,1,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Ofloxacin,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Gemifloxacin,0.12,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Gatifloxacin,1,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Grepafloxacin,0.5,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Sparfloxacin,0.25,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Trovafloxacin,1,,,,,,,,,,,,,,"HI,HPAR",,,,,
+Fleroxacin,2,,,,,,,,,,,,,,"HI,HPAR",,,,,
+TrimSulfa,0.5,4,,,,,,,,,,,,,"HI,HPAR",,,,,
+Chloramphenicol,2,8,,,,,,,,,,,,,"HI,HPAR",,,,,
+Rifampin,1,4,,,,,,,,,,,,,"HI,HPAR",,,,,
 Penicillin,2,8,,,,,Parenteral,Non Meningitis,,,,,,,SPN,,,,,
 Penicillin,0.06,0.12,,,,,Parenteral,Meningitis,,,,,,,SPN,,,,,
 Penicillin,0.06,2,,,,,Oral,,,,,,,,SPN,,,,,
@@ -444,28 +444,28 @@ Moxifloxacin,2,8,,,,,,,,,,,,,,,,Anaerobe,,
 Clindamycin,2,8,,,,,,,,,,,,,,,,Anaerobe,,
 Chloramphenicol,8,32,,,,,,,,,,,,,,,,Anaerobe,,
 Metronidazole,8,32,,,,,,,,,,,,,,,,Anaerobe,,
-Tedizolid100,0.5,,,,,,,,Breakpoints from FDA Package Insert,,,,,,BSA,BSB,,,,,
-Tedizolid100,0.25,,,,,,,,Breakpoints from FDA Package Insert,,,,,,SCON,SMIL,STAN,STIN,,,,,
+Tedizolid100,0.5,,,,,,,,Breakpoints from FDA Package Insert,,,,,,"BSA,BSB",,,,,
+Tedizolid100,0.25,,,,,,,,Breakpoints from FDA Package Insert,,,,,,"SCON,SMIL,STAN,STIN",,,,,
 Tedizolid100,0.5,,,,,,,,Breakpoints from FDA Package Insert,,,,,,EF,,,,,
 Dalbavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,,,,,SA,,,,,
-Dalbavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,,,,,BSA,BSB,SCON,,,,,
-Dalbavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,Beta-haemolytic streptococci,,,,,BSA,BSB,SCON,,,,
-Dalbavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,Viridans group streptococci,,,,,BSA,BSB,SCON,,,,
+Dalbavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,,,,,"BSA,BSB,SCON",,,,,
+Dalbavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,Beta-haemolytic streptococci,,,,,"BSA,BSB,SCON",,,,
+Dalbavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,Viridans group streptococci,,,,,"BSA,BSB,SCON",,,,
 CeftolTazo,2,8,,,,,,,Breakpoints from FDA Package Insert,Enteric,,,,,,,,,,
 CeftolTazo,4,16,,,,,,,Breakpoints from FDA Package Insert,,,,,,PSA,,,,,
-CeftolTazo,8,32,,,,,,,Breakpoints from FDA Package Insert,,,,,,SCON,SMIL,SSAG,SSAL,STAN,STIN,,,,,
+CeftolTazo,8,32,,,,,,,Breakpoints from FDA Package Insert,,,,,,"SCON,SMIL,SSAG,SSAL,STAN,STIN",,,,,
 CeftolTazo,8,32,,,,,,,Breakpoints from FDA Package Insert,,,,,,BF,,,,,
 CXA201,2,8,,,,,,,Breakpoints from FDA Package Insert,Enteric,,,,,,,,,,
 CXA201,4,16,,,,,,,Breakpoints from FDA Package Insert,,,,,,PSA,,,,,
-CXA201,8,32,,,,,,,Breakpoints from FDA Package Insert,,,,,,SCON,SMIL,SSAG,SSAL,STAN,STIN,,,,,
+CXA201,8,32,,,,,,,Breakpoints from FDA Package Insert,,,,,,"SCON,SMIL,SSAG,SSAL,STAN,STIN",,,,,
 CXA201,8,32,,,,,,,Breakpoints from FDA Package Insert,,,,,,BF,,,,,
 Oritavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,,,,,SA,,,,,
-Oritavancin,0.25,,,,,,,,Breakpoints from FDA Package Insert,,,,,,BSA,BSB,STDY,SCON,SMIL,SSAG,SSAL,STAN,STIN,,,,,
-Oritavancin,0.12,,Vancomycin,,I,R,NS,,,,Report for Vancomycin susceptible only.  Breakpoints from FDA Package Insert.,,,,,,EF,,,,,
+Oritavancin,0.25,,,,,,,,Breakpoints from FDA Package Insert,,,,,,"BSA,BSB,STDY,SCON,SMIL,SSAG,SSAL,STAN,STIN",,,,,
+Oritavancin,0.12,,Vancomycin,,"I,R,NS",,,,Report for Vancomycin susceptible only.  Breakpoints from FDA Package Insert.,,,,,,EF,,,,,
 Telavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,,,,,SA,,,,,
-Telavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,,,,,BSA,BSB,,,,,
+Telavancin,0.12,,,,,,,,Breakpoints from FDA Package Insert,,,,,,"BSA,BSB",,,,,
 Telavancin,0.06,,,,,,,,Breakpoints from FDA Package Insert,,,Streptococcus anginosus group,,,,,,,,
-Telavancin,0.25,,Vancomycin,,I,R,NS,,,,Report for Vancomycin susceptible only.  Breakpoints from FDA Package Insert.,,,,,,EF,,,,,
+Telavancin,0.25,,Vancomycin,,"I,R,NS",,,,Report for Vancomycin susceptible only.  Breakpoints from FDA Package Insert.,,,,,,EF,,,,,
 AnidulafunginCLSI,0.25,1,,,,,,,,,,,,,CA,,,,,
 AnidulafunginCLSI,0.12,0.5,,,,,,,,,,,,,CGLA,,,,,
 AnidulafunginCLSI,0.25,1,,,,,,,,,,,,,CTRO,,,,,
@@ -495,7 +495,7 @@ VoriconazoleCLSI,0.12,1,,,,,,,,,,,,,CTRO,,,,,
 Tigecycline,0.5,,,,,,,,Breakpoints from FDA Package Insert revised 12/2014,,,,,,SA,,,,,
 Tigecycline,0.25,,,,,,,,Breakpoints from FDA Package Insert revised 12/2014,,,,Streptococcus,,,SPN,,,,
 Tigecycline,0.06,,,,,,,,Breakpoints from FDA Package Insert revised 12/2014,,,,,,SPN,,,,,
-Tigecycline,0.25,,Vancomycin,,I,R,NS,,,,Breakpoints from FDA Package Insert revised 12/2014,,,,,,EF,,,,,
+Tigecycline,0.25,,Vancomycin,,"I,R,NS",,,,Breakpoints from FDA Package Insert revised 12/2014,,,,,,EF,,,,,
 Tigecycline,2,8,,,,,,,Breakpoints from FDA Package Insert revised 12/2014,Enteric,,,,,,,,,,
 Tigecycline,2,8,,,,,MDR,,Breakpoints from FDA Package Insert revised 12/2014,Enteric,,,,,,,,,,
 Tigecycline,0.25,,,,,,,,Breakpoints from FDA Package Insert revised 12/2014,,,,,,HI,,,,,
@@ -643,19 +643,19 @@ CefopSulb,16,64,,,,,,,As published in Summary of Product Characteristics Februar
 CefopSulb,16,64,,,,,,,As published in Summary of Product Characteristics February 2015,,,,,,BPER,,,,,
 CefopSulb,16,64,,,,,,,As published in Summary of Product Characteristics February 2015,,,,,,YET,,,,,
 CefopSulb,16,64,,,,,,,As published in Summary of Product Characteristics February 2015,,,,,,,,,,Acinetobacter baumannii-calcoaceticus species complex,
-Amoxicillin,0.5,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Ampicillin,0.5,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Penicillin,0.5,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-AmoxClav,0.5,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Ceftriaxone,0.12,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Moxifloxacin,0.06,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Levofloxacin,0.06,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Tetracycline,1,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Doxycycline,0.5,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Erythromycin,0.5,2,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Azithromycin,1,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-Chloramphenicol,2,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
-TrimSulfa,0.5,,,,,,,,,,,,,,PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO,,,,,
+Amoxicillin,0.5,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Ampicillin,0.5,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Penicillin,0.5,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+AmoxClav,0.5,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Ceftriaxone,0.12,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Moxifloxacin,0.06,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Levofloxacin,0.06,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Tetracycline,1,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Doxycycline,0.5,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Erythromycin,0.5,2,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Azithromycin,1,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+Chloramphenicol,2,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
+TrimSulfa,0.5,,,,,,,,,,,,,,"PASH,PASM,PASP,PCAN,PDAG,PPNE,PSTO",,,,,
 Penicillin,1,4,,,,,,Non Meningitis,,,,,Corynebacterium,,,,,,,
 Cefepime,1,4,,,,,,Non Meningitis,,,,,Corynebacterium,,,,,,,
 Cefotaxime,1,4,,,,,,Non Meningitis,,,,,Corynebacterium,,,,,,,

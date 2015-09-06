@@ -1,4 +1,4 @@
-isolate_id,drug_id,mic_value,mic_edge
+isolate_id,drug_id,value,edge
 41907,1013,0.5,0
 41907,1060,0.25,0
 41907,1101,0.5,0

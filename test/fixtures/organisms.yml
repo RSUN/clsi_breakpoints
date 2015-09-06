@@ -1,6 +1,6 @@
 ---
 Organism_1:
-  id: 43
+  id: 64
   code: CF
   name: Citrobacter freundii
   species: freundii
@@ -12,11 +12,11 @@ Organism_1:
   level2: Citrobacter spp.
   level3: Citrobacter freundii species complex
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.666673000 Z
-  updated_at: 2015-09-05 16:38:22.666673000 Z
+  created_at: 2015-09-06 03:59:54.509071000 Z
+  updated_at: 2015-09-06 03:59:54.509071000 Z
   genus: Citrobacter
 Organism_2:
-  id: 44
+  id: 65
   code: CFC
   name: Citrobacter freundii species complex
   species: freundii species complex
@@ -28,11 +28,11 @@ Organism_2:
   level2: Citrobacter spp.
   level3: Citrobacter freundii species complex
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.677636000 Z
-  updated_at: 2015-09-05 16:38:22.677636000 Z
+  created_at: 2015-09-06 03:59:54.523226000 Z
+  updated_at: 2015-09-06 03:59:54.523226000 Z
   genus: Citrobacter
 Organism_3:
-  id: 45
+  id: 66
   code: CK
   name: Citrobacter koseri
   species: koseri
@@ -44,11 +44,11 @@ Organism_3:
   level2: Citrobacter spp.
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.687506000 Z
-  updated_at: 2015-09-05 16:38:22.687506000 Z
+  created_at: 2015-09-06 03:59:54.532296000 Z
+  updated_at: 2015-09-06 03:59:54.532296000 Z
   genus: Citrobacter
 Organism_4:
-  id: 46
+  id: 67
   code: EAE
   name: Enterobacter aerogenes
   species: aerogenes
@@ -60,11 +60,11 @@ Organism_4:
   level2: Enterobacter spp.
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.698537000 Z
-  updated_at: 2015-09-05 16:38:22.698537000 Z
+  created_at: 2015-09-06 03:59:54.540839000 Z
+  updated_at: 2015-09-06 03:59:54.540839000 Z
   genus: Enterobacter
 Organism_5:
-  id: 47
+  id: 68
   code: EC
   name: Escherichia coli
   species: coli
@@ -76,11 +76,11 @@ Organism_5:
   level2: 'NULL'
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.708336000 Z
-  updated_at: 2015-09-05 16:38:22.708336000 Z
+  created_at: 2015-09-06 03:59:54.549886000 Z
+  updated_at: 2015-09-06 03:59:54.549886000 Z
   genus: Escherichia
 Organism_6:
-  id: 48
+  id: 69
   code: ECL
   name: Enterobacter cloacae
   species: cloacae
@@ -92,11 +92,11 @@ Organism_6:
   level2: Enterobacter spp.
   level3: Enterobacter cloacae species complex
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.718208000 Z
-  updated_at: 2015-09-05 16:38:22.718208000 Z
+  created_at: 2015-09-06 03:59:54.557643000 Z
+  updated_at: 2015-09-06 03:59:54.557643000 Z
   genus: Enterobacter
 Organism_7:
-  id: 49
+  id: 70
   code: ECLC
   name: Enterobacter cloacae species complex
   species: cloacae species complex
@@ -108,11 +108,11 @@ Organism_7:
   level2: Enterobacter spp.
   level3: Enterobacter cloacae species complex
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.727751000 Z
-  updated_at: 2015-09-05 16:38:22.727751000 Z
+  created_at: 2015-09-06 03:59:54.565625000 Z
+  updated_at: 2015-09-06 03:59:54.565625000 Z
   genus: Enterobacter
 Organism_8:
-  id: 50
+  id: 71
   code: KOX
   name: Klebsiella oxytoca
   species: oxytoca
@@ -124,11 +124,11 @@ Organism_8:
   level2: Klebsiella spp.
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.737793000 Z
-  updated_at: 2015-09-05 16:38:22.737793000 Z
+  created_at: 2015-09-06 03:59:54.575282000 Z
+  updated_at: 2015-09-06 03:59:54.575282000 Z
   genus: Klebsiella
 Organism_9:
-  id: 51
+  id: 72
   code: KPN
   name: Klebsiella pneumoniae
   species: pneumoniae
@@ -140,11 +140,11 @@ Organism_9:
   level2: Klebsiella spp.
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.745810000 Z
-  updated_at: 2015-09-05 16:38:22.745810000 Z
+  created_at: 2015-09-06 03:59:54.583901000 Z
+  updated_at: 2015-09-06 03:59:54.583901000 Z
   genus: Klebsiella
 Organism_10:
-  id: 52
+  id: 73
   code: MM
   name: Morganella morganii
   species: morganii
@@ -156,11 +156,11 @@ Organism_10:
   level2: Indole-positive proteus spp.
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.756425000 Z
-  updated_at: 2015-09-05 16:38:22.756425000 Z
+  created_at: 2015-09-06 03:59:54.592897000 Z
+  updated_at: 2015-09-06 03:59:54.592897000 Z
   genus: Morganella
 Organism_11:
-  id: 53
+  id: 74
   code: PM
   name: Proteus mirabilis
   species: mirabilis
@@ -172,11 +172,11 @@ Organism_11:
   level2: 'NULL'
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.768291000 Z
-  updated_at: 2015-09-05 16:38:22.768291000 Z
+  created_at: 2015-09-06 03:59:54.601338000 Z
+  updated_at: 2015-09-06 03:59:54.601338000 Z
   genus: Proteus
 Organism_12:
-  id: 54
+  id: 75
   code: PV
   name: Proteus vulgaris
   species: vulgaris
@@ -188,11 +188,11 @@ Organism_12:
   level2: Indole-positive proteus spp.
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.779052000 Z
-  updated_at: 2015-09-05 16:38:22.779052000 Z
+  created_at: 2015-09-06 03:59:54.609295000 Z
+  updated_at: 2015-09-06 03:59:54.609295000 Z
   genus: Proteus
 Organism_13:
-  id: 55
+  id: 76
   code: PVR
   name: Providencia rettgeri
   species: rettgeri
@@ -204,11 +204,11 @@ Organism_13:
   level2: Indole-positive proteus spp.
   level3: Providencia spp.
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.788687000 Z
-  updated_at: 2015-09-05 16:38:22.788687000 Z
+  created_at: 2015-09-06 03:59:54.617564000 Z
+  updated_at: 2015-09-06 03:59:54.617564000 Z
   genus: Providencia
 Organism_14:
-  id: 56
+  id: 77
   code: PVS
   name: Providencia stuartii
   species: stuartii
@@ -220,11 +220,11 @@ Organism_14:
   level2: Indole-positive proteus spp.
   level3: Providencia spp.
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.797216000 Z
-  updated_at: 2015-09-05 16:38:22.797216000 Z
+  created_at: 2015-09-06 03:59:54.625501000 Z
+  updated_at: 2015-09-06 03:59:54.625501000 Z
   genus: Providencia
 Organism_15:
-  id: 57
+  id: 78
   code: SA
   name: Staphylococcus aureus
   species: aureus
@@ -236,11 +236,11 @@ Organism_15:
   level2: Staphylococcus aureus
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.805399000 Z
-  updated_at: 2015-09-05 16:38:22.805399000 Z
+  created_at: 2015-09-06 03:59:54.634338000 Z
+  updated_at: 2015-09-06 03:59:54.634338000 Z
   genus: Staphylococcus
 Organism_16:
-  id: 58
+  id: 79
   code: SCAP
   name: Staphylococcus capitis
   species: capitis
@@ -252,11 +252,11 @@ Organism_16:
   level2: Coagulase-negative staphylococci
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.814122000 Z
-  updated_at: 2015-09-05 16:38:22.814122000 Z
+  created_at: 2015-09-06 03:59:54.643017000 Z
+  updated_at: 2015-09-06 03:59:54.643017000 Z
   genus: Staphylococcus
 Organism_17:
-  id: 59
+  id: 80
   code: SEPI
   name: Staphylococcus epidermidis
   species: epidermidis
@@ -268,11 +268,11 @@ Organism_17:
   level2: Coagulase-negative staphylococci
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.823973000 Z
-  updated_at: 2015-09-05 16:38:22.823973000 Z
+  created_at: 2015-09-06 03:59:54.652772000 Z
+  updated_at: 2015-09-06 03:59:54.652772000 Z
   genus: Staphylococcus
 Organism_18:
-  id: 60
+  id: 81
   code: SH
   name: Staphylococcus haemolyticus
   species: haemolyticus
@@ -284,11 +284,11 @@ Organism_18:
   level2: Coagulase-negative staphylococci
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.833019000 Z
-  updated_at: 2015-09-05 16:38:22.833019000 Z
+  created_at: 2015-09-06 03:59:54.661411000 Z
+  updated_at: 2015-09-06 03:59:54.661411000 Z
   genus: Staphylococcus
 Organism_19:
-  id: 61
+  id: 82
   code: SHOM
   name: Staphylococcus hominis
   species: hominis
@@ -300,11 +300,11 @@ Organism_19:
   level2: Coagulase-negative staphylococci
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.845063000 Z
-  updated_at: 2015-09-05 16:38:22.845063000 Z
+  created_at: 2015-09-06 03:59:54.671128000 Z
+  updated_at: 2015-09-06 03:59:54.671128000 Z
   genus: Staphylococcus
 Organism_20:
-  id: 62
+  id: 83
   code: SLUG
   name: Staphylococcus lugdunensis
   species: lugdunensis
@@ -316,11 +316,11 @@ Organism_20:
   level2: Coagulase-negative staphylococci
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.853425000 Z
-  updated_at: 2015-09-05 16:38:22.853425000 Z
+  created_at: 2015-09-06 03:59:54.680971000 Z
+  updated_at: 2015-09-06 03:59:54.680971000 Z
   genus: Staphylococcus
 Organism_21:
-  id: 63
+  id: 84
   code: SM
   name: Serratia marcescens
   species: marcescens
@@ -332,6 +332,6 @@ Organism_21:
   level2: Serratia spp.
   level3: 'NULL'
   level4: 'NULL'
-  created_at: 2015-09-05 16:38:22.862520000 Z
-  updated_at: 2015-09-05 16:38:22.862520000 Z
+  created_at: 2015-09-06 03:59:54.689152000 Z
+  updated_at: 2015-09-06 03:59:54.689152000 Z
   genus: Serratia

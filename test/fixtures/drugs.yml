@@ -1,337 +1,337 @@
 ---
 Drug_1:
-  id: 1306
+  id: 1354
   name: Amikacin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:07.994271000 Z
-  updated_at: 2015-09-05 16:39:07.994271000 Z
+  created_at: 2015-09-06 03:08:43.641405000 Z
+  updated_at: 2015-09-06 03:08:43.641405000 Z
   drugid: 1001
 Drug_2:
-  id: 1307
+  id: 1355
   name: AmpSulb
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.003587000 Z
-  updated_at: 2015-09-05 16:39:08.003587000 Z
+  created_at: 2015-09-06 03:08:43.653531000 Z
+  updated_at: 2015-09-06 03:08:43.653531000 Z
   drugid: 1008
 Drug_3:
-  id: 1308
+  id: 1356
   name: Azithromycin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.012991000 Z
-  updated_at: 2015-09-05 16:39:08.012991000 Z
+  created_at: 2015-09-06 03:08:43.660678000 Z
+  updated_at: 2015-09-06 03:08:43.660678000 Z
   drugid: 1013
 Drug_4:
-  id: 1309
+  id: 1357
   name: Aztreonam
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.021545000 Z
-  updated_at: 2015-09-05 16:39:08.021545000 Z
+  created_at: 2015-09-06 03:08:43.668159000 Z
+  updated_at: 2015-09-06 03:08:43.668159000 Z
   drugid: 1014
 Drug_5:
-  id: 1310
+  id: 1358
   name: BC3781
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.032712000 Z
-  updated_at: 2015-09-05 16:39:08.032712000 Z
+  created_at: 2015-09-06 03:08:43.676363000 Z
+  updated_at: 2015-09-06 03:08:43.676363000 Z
   drugid: 1015
 Drug_6:
-  id: 1311
+  id: 1359
   name: CAZ104
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.041028000 Z
-  updated_at: 2015-09-05 16:39:08.041028000 Z
+  created_at: 2015-09-06 03:08:43.685545000 Z
+  updated_at: 2015-09-06 03:08:43.685545000 Z
   drugid: 1020
 Drug_7:
-  id: 1312
+  id: 1360
   name: Cefepime
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.048613000 Z
-  updated_at: 2015-09-05 16:39:08.048613000 Z
+  created_at: 2015-09-06 03:08:43.693059000 Z
+  updated_at: 2015-09-06 03:08:43.693059000 Z
   drugid: 1026
 Drug_8:
-  id: 1313
+  id: 1361
   name: CefopSulb
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.056977000 Z
-  updated_at: 2015-09-05 16:39:08.056977000 Z
+  created_at: 2015-09-06 03:08:43.701087000 Z
+  updated_at: 2015-09-06 03:08:43.701087000 Z
   drugid: 1029
 Drug_9:
-  id: 1314
+  id: 1362
   name: Ceftaroline
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.067961000 Z
-  updated_at: 2015-09-05 16:39:08.067961000 Z
+  created_at: 2015-09-06 03:08:43.709612000 Z
+  updated_at: 2015-09-06 03:08:43.709612000 Z
   drugid: 1034
 Drug_10:
-  id: 1315
+  id: 1363
   name: Ceftazidime
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.077741000 Z
-  updated_at: 2015-09-05 16:39:08.077741000 Z
+  created_at: 2015-09-06 03:08:43.718336000 Z
+  updated_at: 2015-09-06 03:08:43.718336000 Z
   drugid: 1035
 Drug_11:
-  id: 1316
+  id: 1364
   name: Ceftobiprole
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.087769000 Z
-  updated_at: 2015-09-05 16:39:08.087769000 Z
+  created_at: 2015-09-06 03:08:43.727050000 Z
+  updated_at: 2015-09-06 03:08:43.727050000 Z
   drugid: 1038
 Drug_12:
-  id: 1317
+  id: 1365
   name: CeftolTazo
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.099118000 Z
-  updated_at: 2015-09-05 16:39:08.099118000 Z
+  created_at: 2015-09-06 03:08:43.735599000 Z
+  updated_at: 2015-09-06 03:08:43.735599000 Z
   drugid: 1040
 Drug_13:
-  id: 1318
+  id: 1366
   name: Ceftriaxone
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.108305000 Z
-  updated_at: 2015-09-05 16:39:08.108305000 Z
+  created_at: 2015-09-06 03:08:43.743719000 Z
+  updated_at: 2015-09-06 03:08:43.743719000 Z
   drugid: 1041
 Drug_14:
-  id: 1319
+  id: 1367
   name: Ciprofloxacin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.117770000 Z
-  updated_at: 2015-09-05 16:39:08.117770000 Z
+  created_at: 2015-09-06 03:08:43.752323000 Z
+  updated_at: 2015-09-06 03:08:43.752323000 Z
   drugid: 1047
 Drug_15:
-  id: 1320
+  id: 1368
   name: Clindamycin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.127535000 Z
-  updated_at: 2015-09-05 16:39:08.127535000 Z
+  created_at: 2015-09-06 03:08:43.761036000 Z
+  updated_at: 2015-09-06 03:08:43.761036000 Z
   drugid: 1049
 Drug_16:
-  id: 1321
+  id: 1369
   name: Colistin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.137812000 Z
-  updated_at: 2015-09-05 16:39:08.137812000 Z
+  created_at: 2015-09-06 03:08:43.767996000 Z
+  updated_at: 2015-09-06 03:08:43.767996000 Z
   drugid: 1050
 Drug_17:
-  id: 1322
+  id: 1370
   name: CPT104
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.146174000 Z
-  updated_at: 2015-09-05 16:39:08.146174000 Z
+  created_at: 2015-09-06 03:08:43.776494000 Z
+  updated_at: 2015-09-06 03:08:43.776494000 Z
   drugid: 1051
 Drug_18:
-  id: 1323
+  id: 1371
   name: Dalbavancin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.156075000 Z
-  updated_at: 2015-09-05 16:39:08.156075000 Z
+  created_at: 2015-09-06 03:08:43.785195000 Z
+  updated_at: 2015-09-06 03:08:43.785195000 Z
   drugid: 1054
 Drug_19:
-  id: 1324
+  id: 1372
   name: Daptomycin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.166374000 Z
-  updated_at: 2015-09-05 16:39:08.166374000 Z
+  created_at: 2015-09-06 03:08:43.792958000 Z
+  updated_at: 2015-09-06 03:08:43.792958000 Z
   drugid: 1055
 Drug_20:
-  id: 1325
+  id: 1373
   name: Delafloxacin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.176189000 Z
-  updated_at: 2015-09-05 16:39:08.176189000 Z
+  created_at: 2015-09-06 03:08:43.799736000 Z
+  updated_at: 2015-09-06 03:08:43.799736000 Z
   drugid: 1056
 Drug_21:
-  id: 1326
+  id: 1374
   name: Doripenem
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.186188000 Z
-  updated_at: 2015-09-05 16:39:08.186188000 Z
+  created_at: 2015-09-06 03:08:43.808194000 Z
+  updated_at: 2015-09-06 03:08:43.808194000 Z
   drugid: 1057
 Drug_22:
-  id: 1327
+  id: 1375
   name: Doxycycline
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.196142000 Z
-  updated_at: 2015-09-05 16:39:08.196142000 Z
+  created_at: 2015-09-06 03:08:43.817278000 Z
+  updated_at: 2015-09-06 03:08:43.817278000 Z
   drugid: 1058
 Drug_23:
-  id: 1328
+  id: 1376
   name: Erythromycin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.205980000 Z
-  updated_at: 2015-09-05 16:39:08.205980000 Z
+  created_at: 2015-09-06 03:08:43.824832000 Z
+  updated_at: 2015-09-06 03:08:43.824832000 Z
   drugid: 1060
 Drug_24:
-  id: 1329
+  id: 1377
   name: Gentamicin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.215550000 Z
-  updated_at: 2015-09-05 16:39:08.215550000 Z
+  created_at: 2015-09-06 03:08:43.833154000 Z
+  updated_at: 2015-09-06 03:08:43.833154000 Z
   drugid: 1069
 Drug_25:
-  id: 1330
+  id: 1378
   name: Imipenem
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.225127000 Z
-  updated_at: 2015-09-05 16:39:08.225127000 Z
+  created_at: 2015-09-06 03:08:43.840838000 Z
+  updated_at: 2015-09-06 03:08:43.840838000 Z
   drugid: 1072
 Drug_26:
-  id: 1331
+  id: 1379
   name: Levofloxacin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.233758000 Z
-  updated_at: 2015-09-05 16:39:08.233758000 Z
+  created_at: 2015-09-06 03:08:43.848175000 Z
+  updated_at: 2015-09-06 03:08:43.848175000 Z
   drugid: 1080
 Drug_27:
-  id: 1332
+  id: 1380
   name: Linezolid
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.245891000 Z
-  updated_at: 2015-09-05 16:39:08.245891000 Z
+  created_at: 2015-09-06 03:08:43.856866000 Z
+  updated_at: 2015-09-06 03:08:43.856866000 Z
   drugid: 1081
 Drug_28:
-  id: 1333
+  id: 1381
   name: Linezolid100
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.254018000 Z
-  updated_at: 2015-09-05 16:39:08.254018000 Z
+  created_at: 2015-09-06 03:08:43.863905000 Z
+  updated_at: 2015-09-06 03:08:43.863905000 Z
   drugid: 1082
 Drug_29:
-  id: 1334
+  id: 1382
   name: Meropenem
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.264482000 Z
-  updated_at: 2015-09-05 16:39:08.264482000 Z
+  created_at: 2015-09-06 03:08:43.872295000 Z
+  updated_at: 2015-09-06 03:08:43.872295000 Z
   drugid: 1085
 Drug_30:
-  id: 1335
+  id: 1383
   name: MeroRPX7009_fixed8
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.274460000 Z
-  updated_at: 2015-09-05 16:39:08.274460000 Z
+  created_at: 2015-09-06 03:08:43.880160000 Z
+  updated_at: 2015-09-06 03:08:43.880160000 Z
   drugid: 1087
 Drug_31:
-  id: 1336
+  id: 1384
   name: Minocycline
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.284282000 Z
-  updated_at: 2015-09-05 16:39:08.284282000 Z
+  created_at: 2015-09-06 03:08:43.888680000 Z
+  updated_at: 2015-09-06 03:08:43.888680000 Z
   drugid: 1090
 Drug_32:
-  id: 1337
+  id: 1385
   name: Oritavancin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.293782000 Z
-  updated_at: 2015-09-05 16:39:08.293782000 Z
+  created_at: 2015-09-06 03:08:43.897991000 Z
+  updated_at: 2015-09-06 03:08:43.897991000 Z
   drugid: 1099
 Drug_33:
-  id: 1338
+  id: 1386
   name: Oxacillin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.306867000 Z
-  updated_at: 2015-09-05 16:39:08.306867000 Z
+  created_at: 2015-09-06 03:08:43.906577000 Z
+  updated_at: 2015-09-06 03:08:43.906577000 Z
   drugid: 1100
 Drug_34:
-  id: 1339
+  id: 1387
   name: Penicillin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.316348000 Z
-  updated_at: 2015-09-05 16:39:08.316348000 Z
+  created_at: 2015-09-06 03:08:43.914735000 Z
+  updated_at: 2015-09-06 03:08:43.914735000 Z
   drugid: 1101
 Drug_35:
-  id: 1340
+  id: 1388
   name: PipTazo
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.327657000 Z
-  updated_at: 2015-09-05 16:39:08.327657000 Z
+  created_at: 2015-09-06 03:08:43.923232000 Z
+  updated_at: 2015-09-06 03:08:43.923232000 Z
   drugid: 1103
 Drug_36:
-  id: 1341
+  id: 1389
   name: Plazomicin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.339068000 Z
-  updated_at: 2015-09-05 16:39:08.339068000 Z
+  created_at: 2015-09-06 03:08:43.931668000 Z
+  updated_at: 2015-09-06 03:08:43.931668000 Z
   drugid: 1104
 Drug_37:
-  id: 1342
+  id: 1390
   name: Solithromycin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.349697000 Z
-  updated_at: 2015-09-05 16:39:08.349697000 Z
+  created_at: 2015-09-06 03:08:43.939860000 Z
+  updated_at: 2015-09-06 03:08:43.939860000 Z
   drugid: 1114
 Drug_38:
-  id: 1343
+  id: 1391
   name: Tedizolid
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.358077000 Z
-  updated_at: 2015-09-05 16:39:08.358077000 Z
+  created_at: 2015-09-06 03:08:43.949188000 Z
+  updated_at: 2015-09-06 03:08:43.949188000 Z
   drugid: 1119
 Drug_39:
-  id: 1344
+  id: 1392
   name: Tedizolid100
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.368793000 Z
-  updated_at: 2015-09-05 16:39:08.368793000 Z
+  created_at: 2015-09-06 03:08:43.956539000 Z
+  updated_at: 2015-09-06 03:08:43.956539000 Z
   drugid: 1120
 Drug_40:
-  id: 1345
+  id: 1393
   name: Teicoplanin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.377508000 Z
-  updated_at: 2015-09-05 16:39:08.377508000 Z
+  created_at: 2015-09-06 03:08:43.965141000 Z
+  updated_at: 2015-09-06 03:08:43.965141000 Z
   drugid: 1121
 Drug_41:
-  id: 1346
+  id: 1394
   name: Telavancin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.386552000 Z
-  updated_at: 2015-09-05 16:39:08.386552000 Z
+  created_at: 2015-09-06 03:08:43.972310000 Z
+  updated_at: 2015-09-06 03:08:43.972310000 Z
   drugid: 1122
 Drug_42:
-  id: 1347
+  id: 1395
   name: Tetracycline
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.397027000 Z
-  updated_at: 2015-09-05 16:39:08.397027000 Z
+  created_at: 2015-09-06 03:08:43.981536000 Z
+  updated_at: 2015-09-06 03:08:43.981536000 Z
   drugid: 1124
 Drug_43:
-  id: 1348
+  id: 1396
   name: Tigecycline
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.410062000 Z
-  updated_at: 2015-09-05 16:39:08.410062000 Z
+  created_at: 2015-09-06 03:08:43.990648000 Z
+  updated_at: 2015-09-06 03:08:43.990648000 Z
   drugid: 1127
 Drug_44:
-  id: 1349
+  id: 1397
   name: Tobramycin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.419040000 Z
-  updated_at: 2015-09-05 16:39:08.419040000 Z
+  created_at: 2015-09-06 03:08:44.000150000 Z
+  updated_at: 2015-09-06 03:08:44.000150000 Z
   drugid: 1128
 Drug_45:
-  id: 1350
+  id: 1398
   name: TrimSulfa
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.429844000 Z
-  updated_at: 2015-09-05 16:39:08.429844000 Z
+  created_at: 2015-09-06 03:08:44.009236000 Z
+  updated_at: 2015-09-06 03:08:44.009236000 Z
   drugid: 1129
 Drug_46:
-  id: 1351
+  id: 1399
   name: Vancomycin
   description: 'NULL'
-  created_at: 2015-09-05 16:39:08.440367000 Z
-  updated_at: 2015-09-05 16:39:08.440367000 Z
+  created_at: 2015-09-06 03:08:44.016628000 Z
+  updated_at: 2015-09-06 03:08:44.016628000 Z
   drugid: 1131
 Drug_47:
-  id: 1352
+  id: 1400
   name: Control
   description: This is for the control well.
-  created_at: 2015-09-05 16:39:08.449576000 Z
-  updated_at: 2015-09-05 16:39:08.449576000 Z
+  created_at: 2015-09-06 03:08:44.024122000 Z
+  updated_at: 2015-09-06 03:08:44.024122000 Z
   drugid: 1134
 Drug_48:
-  id: 1353
+  id: 1401
   name: DTest
   description: For true/false DTest single well
-  created_at: 2015-09-05 16:39:08.458130000 Z
-  updated_at: 2015-09-05 16:39:08.458130000 Z
+  created_at: 2015-09-06 03:08:44.033205000 Z
+  updated_at: 2015-09-06 03:08:44.033205000 Z
   drugid: 1161

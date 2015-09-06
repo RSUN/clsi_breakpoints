@@ -1,4 +1,4 @@
-isolate_id,collection_no,site_id,study_year,bank_no,organism_code
+isolate_id,collection,site,study_year,bank,organism_code
 20614,876418,464,2015,885,EAE
 22197,875105,2,2015,113,EC
 24663,876448,464,2015,910,EC
