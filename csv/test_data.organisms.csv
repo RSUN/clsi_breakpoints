@@ -1,0 +1,22 @@
+organism_code;organism_name;genus;species;sub_species;organism_group;master_group;viridans_group;level_1_class;level_2_class;level_3_class;level_4_class
+CF;Citrobacter freundii;Citrobacter;freundii;NULL;Citrobacter spp.;Enteric;NULL;Enteric;Citrobacter spp.;Citrobacter freundii species complex;NULL
+CFC;Citrobacter freundii species complex;Citrobacter;freundii species complex;NULL;Citrobacter spp.;Enteric;NULL;Enteric;Citrobacter spp.;Citrobacter freundii species complex;NULL
+CK;Citrobacter koseri;Citrobacter;koseri;NULL;Citrobacter spp.;Enteric;NULL;Enteric;Citrobacter spp.;NULL;NULL
+EAE;Enterobacter aerogenes;Enterobacter;aerogenes;NULL;Enterobacter spp.;Enteric;NULL;Enteric;Enterobacter spp.;NULL;NULL
+EC;Escherichia coli;Escherichia;coli;NULL;NULL;Enteric;NULL;Enteric;NULL;NULL;NULL
+ECL;Enterobacter cloacae;Enterobacter;cloacae;NULL;Enterobacter spp.;Enteric;NULL;Enteric;Enterobacter spp.;Enterobacter cloacae species complex;NULL
+ECLC;Enterobacter cloacae species complex;Enterobacter;cloacae species complex;NULL;Enterobacter spp.;Enteric;NULL;Enteric;Enterobacter spp.;Enterobacter cloacae species complex;NULL
+KOX;Klebsiella oxytoca;Klebsiella;oxytoca;NULL;Klebsiella spp.;Enteric;NULL;Enteric;Klebsiella spp.;NULL;NULL
+KPN;Klebsiella pneumoniae;Klebsiella;pneumoniae;NULL;Klebsiella spp.;Enteric;NULL;Enteric;Klebsiella spp.;NULL;NULL
+MM;Morganella morganii;Morganella;morganii;NULL;Indole-positive proteus spp.;Enteric;NULL;Enteric;Indole-positive proteus spp.;NULL;NULL
+PM;Proteus mirabilis;Proteus;mirabilis;NULL;NULL;Enteric;NULL;Enteric;NULL;NULL;NULL
+PV;Proteus vulgaris;Proteus;vulgaris;NULL;Indole-positive proteus spp.;Enteric;NULL;Enteric;Indole-positive proteus spp.;NULL;NULL
+PVR;Providencia rettgeri;Providencia;rettgeri;NULL;Indole-positive proteus spp.;Enteric;NULL;Enteric;Indole-positive proteus spp.;Providencia spp.;NULL
+PVS;Providencia stuartii;Providencia;stuartii;NULL;Indole-positive proteus spp.;Enteric;NULL;Enteric;Indole-positive proteus spp.;Providencia spp.;NULL
+SA;Staphylococcus aureus;Staphylococcus;aureus;NULL;NULL;Cocci;NULL;Staphylococci;Staphylococcus aureus;NULL;NULL
+SCAP;Staphylococcus capitis;Staphylococcus;capitis;NULL;Coagulase-negative staphylococci;Cocci;NULL;Staphylococci;Coagulase-negative staphylococci;NULL;NULL
+SEPI;Staphylococcus epidermidis;Staphylococcus;epidermidis;NULL;Coagulase-negative staphylococci;Cocci;NULL;Staphylococci;Coagulase-negative staphylococci;NULL;NULL
+SH;Staphylococcus haemolyticus;Staphylococcus;haemolyticus;NULL;Coagulase-negative staphylococci;Cocci;NULL;Staphylococci;Coagulase-negative staphylococci;NULL;NULL
+SHOM;Staphylococcus hominis;Staphylococcus;hominis;NULL;Coagulase-negative staphylococci;Cocci;NULL;Staphylococci;Coagulase-negative staphylococci;NULL;NULL
+SLUG;Staphylococcus lugdunensis;Staphylococcus;lugdunensis;NULL;Coagulase-negative staphylococci;Cocci;NULL;Staphylococci;Coagulase-negative staphylococci;NULL;NULL
+SM;Serratia marcescens;Serratia;marcescens;NULL;Serratia spp.;Enteric;NULL;Enteric;Serratia spp.;NULL;NULL
