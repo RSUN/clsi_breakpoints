@@ -30,5 +30,5 @@ group :development do
   gem 'db_fixtures_dump'
 end
 
-gem 'dresssed-ives'
+gem 'dresssed-ives','1.0.9', :path => 'vendor/gems/dresssed-ives-1.0.9'
 

@@ -1,0 +1,36 @@
+// Amber theme variation
+// --------------------
+
+$style: "amber";
+
+// GLOBAL VALUES
+// --------------------------------------------------
+
+$brand-primary: color($orange, 800);
+
+// Typography
+$text-color:            desaturate(darken($brand-primary, 25%), 40%);
+$quietColor:            #797572;
+$altTextColor:          darken(#625f5c,20%);
+
+// Backgrounds
+$backgroundColor:       #f4f4f4;
+$footerBackgroundColor: #342b20;
+$activeBackgroundColor: darken($backgroundColor, 5%);
+
+// Links
+$link-color:             lighten($text-color, 25%);
+$link-color-hover:        darken($link-color, 10%);
+
+// Navbar links
+$navbar-default-link-color:                lighten($brand-primary, 35%);
+$navbar-default-link-hover-color:          lighten($brand-primary, 55%);
+$navbar-default-link-hover-bg:             transparent !default;
+$navbar-default-link-active-color:         lighten($brand-primary, 45%);
+$navbar-default-link-active-bg:            darken($brand-primary, 6.5%) !default;
+$navbar-default-link-disabled-color:       #ccc !default;
+$navbar-default-link-disabled-bg:          transparent !default;
+
+// Borders
+$dividerColor:            #e9e9e9;
+$borderColor:             #dddddd;

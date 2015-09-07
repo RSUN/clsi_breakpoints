@@ -1,0 +1,130 @@
+%heading_spacing {
+  margin: 0;
+  padding: 6px 0 12px;
+  background-color: $brand-primary;
+  color: white;
+}
+
+.panel-metric {
+  cursor: pointer;
+  border: none;
+
+  .panel-body {
+    padding: 0;
+  }
+
+  .metric-content {
+    position: relative;
+    min-height: 140px;
+
+    .metric-trend {
+      margin: -9px 0px 0 0;
+      text-align: center;
+
+      strong {
+        text-transform: uppercase;
+        color: color($grey, 600);
+        font-weight: 600;
+        line-height: 1em;
+      }
+
+      > p {
+        margin: 0 0 2px;
+        font-size: 22.5px;
+        font-weight: 700;
+        line-height: 1em;
+
+        .fa {
+          margin-top: -6px;
+          margin-right: -3px;
+          vertical-align: middle;
+          font-size: .8em;
+        }
+      }
+    }
+
+    .metric-value {
+      color: $brand-primary;
+      font-size: 30px;
+      font-weight: 700;
+      line-height: 1;
+      text-align: center;
+      padding: 14px 0;
+
+      &::after {
+        content: ' ';
+        width: 50%;
+        display: block;
+        margin: 19px auto;
+        border-bottom: 1px solid color($grey, 400);
+      }
+
+      small {
+        display: block;
+        font-size: 0.4em;
+        color: color($grey, 400);
+      }
+    }
+
+    header {
+      text-align: center;
+
+      h1 {
+        @extend %heading_spacing;
+      }
+
+      h2 {
+        @extend %heading_spacing;
+      }
+
+      h3 {
+        @extend %heading_spacing;
+      }
+
+      h4 {
+        @extend %heading_spacing;
+      }
+
+      h5 {
+        @extend %heading_spacing;
+      }
+
+      h6 {
+        @extend %heading_spacing;
+      }
+    }
+
+    .metric-graph {
+      position: absolute;
+      width: 100%;
+      border-right: 1px solid #e8e8e8;
+    }
+  }
+
+  .metric-content-detail {
+    .metric-value {
+      position: relative;
+      font-size: 36px;
+    }
+  }
+}
+
+.metrics-timeline {
+  ul {
+    li {
+      margin-top: 0 !important;
+      padding: 4px 15px 25px 0px !important;
+
+      &::before {
+        display: none !important;
+      }
+
+      time {
+        line-height: 50px !important;
+
+        color: white;
+      }
+    }
+  }
+
+}
