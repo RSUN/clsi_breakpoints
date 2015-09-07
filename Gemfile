@@ -28,7 +28,6 @@ group :development do
   gem 'pry'
   gem 'yaml_db'
   gem 'db_fixtures_dump'
-  gem 'awesome_print'
 end
 
 gem 'dresssed-ives'
