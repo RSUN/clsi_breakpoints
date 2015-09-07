@@ -27,8 +27,8 @@ class Testreaction < ActiveRecord::Base
 
   def self.calc_reaction(breakpoint)
   	# need to cleanup, calling to_f to avoid cooercian errors
-   return reaction = "S" if @test_mic['value'] + @test_mic['edge'] < breakpoint['s_maximum'].to_f
-   return reaction = "R"  if @test_mic['value'] + @test_mic['edge'] > breakpoint['r_minimum'].to_f
+   return reaction = "S" if @test_mic['value'] < breakpoint['s_maximum'].to_f
+   return reaction = "R"  if @test_mic['value'] > breakpoint['r_minimum'].to_f
    return reaction = "S" if breakpoint['s_maximum'].to_f == 0.0 && breakpoint['r_minimum'].to_f == 0.0
    return reaction = "I"  if @test_mic['value'].between?(breakpoint['s_maximum'].to_f,breakpoint['r_minimum'].to_f) 
    return "R" 
