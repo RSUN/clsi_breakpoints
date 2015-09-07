@@ -16,6 +16,6 @@ Rails.application.routes.draw do
     collection { post :import }
   end
   
-  devise_for :users
-root 'reactions#index'
+devise_for :users
+  root 'reactions#index'
 end

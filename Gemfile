@@ -19,6 +19,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
   gem 'byebug'
+
 end
 
 group :development do
@@ -27,6 +28,7 @@ group :development do
   gem 'pry'
   gem 'yaml_db'
   gem 'db_fixtures_dump'
+  gem 'awesome_print'
 end
 
 gem 'dresssed-ives'
