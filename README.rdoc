@@ -7,7 +7,13 @@ This is a small app to apply MIC testing results to the 2015 CLSI breakpoints.
 - import csv via rake csv:import MODEL=Organism FILENAME=csv/test_data.organisms.csv
 - Dump Fixtures: rake db:fixtures:dump FIXTURES_PATH=test/fixtures/
 - default user in fixture is: demo@gmail.com / password123
+- added console_helper.rb for debugging breakpoint search in rails console load './console_helper.rb'
 
+== Current Issues
+* calc_breakpoint is sometimes failing with nil result. Working on following each condition until all errors are resolved and only failing tests are left.
+
+* Need to add edge to S I R calculation after errors are resolved
+ 
 Work in Progress:
 
 * Final Results
