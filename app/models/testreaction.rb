@@ -2,12 +2,12 @@ class Testreaction < ActiveRecord::Base
 
   def self.calc_breakpoint(drugname=@mic_drug['name'])
   	# this blew up in the course of failed tests and thats when I knew it was time to walk away.
-   case 1
-   when Breakpoint.where(drug: drugname,master_group_include: @mic_organism['master_group']).count
+   case true
+   when Breakpoint.where(drug: drugname,master_group_include: @mic_organism['master_group']).present?
      Breakpoint.where(drug: drugname,master_group_include: @mic_organism['master_group']).first
-   when Breakpoint.where(drug: drugname,genus_include: @mic_organism['genus']).count
+   when Breakpoint.where(drug: drugname,genus_include: @mic_organism['genus']).present?
      Breakpoint.where(drug: drugname,genus_include: @mic_organism['genus']).first
-   when Breakpoint.where(drug: drugname).where('organism_code_include LIKE ?', "%#{@mic_isolate['organism_code']}%").count
+   when Breakpoint.where(drug: drugname).where('organism_code_include LIKE ?', "%#{@mic_isolate['organism_code']}%").present?
       Breakpoint.where(drug: drugname).where('organism_code_include LIKE ?', "%#{@mic_isolate['organism_code']}%").first
    when Breakpoint.where(drug: drugname).where('organism_code_include LIKE ?', "#{@mic_isolate['organism_code']}").count
       Breakpoint.where(drug: drugname).where('organism_code_include LIKE ?', "#{@mic_isolate['organism_code']}").first
@@ -27,8 +27,8 @@ class Testreaction < ActiveRecord::Base
 
   def self.calc_reaction(breakpoint)
   	# need to cleanup, calling to_f to avoid cooercian errors
-   return reaction = "S" if @test_mic['value'] < breakpoint['s_maximum'].to_f
-   return reaction = "R"  if @test_mic['value'] > breakpoint['r_minimum'].to_f
+   return reaction = "S" if @test_mic['value'] <= breakpoint['s_maximum'].to_f
+   return reaction = "R"  if @test_mic['value'] >= breakpoint['r_minimum'].to_f
    return reaction = "S" if breakpoint['s_maximum'].to_f == 0.0 && breakpoint['r_minimum'].to_f == 0.0
    return reaction = "I"  if @test_mic['value'].between?(breakpoint['s_maximum'].to_f,breakpoint['r_minimum'].to_f) 
    return "R" 
